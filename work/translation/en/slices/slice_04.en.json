@@ -1,0 +1,503 @@
+{
+ "slice": 4,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0358",
+   "en": "Annihilate the Varauta Army that has invaded City 7.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0359",
+   "en": "Forced to fold by a Varauta Army ploy, City 7 has been cut off from Battle 7 as well. The Varauta Army is steadily pushing into City 7. City 7 has only a handful of forces, but damage to the city must be kept to a minimum.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0360",
+   "en": "A Maiden's Jealousy",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0361",
+   "en": "To test units provided by civilians,\nhold a mock battle. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0362",
+   "en": "To make up for City 7's lack of forces while it still can't rejoin Battle 7, a Battroid Carnival was held to collect weapons owned by citizens. Since the weapons are civilian property, mock battles will be held to test them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0363",
+   "en": "Annihilate all enemies / Protect the target",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0364",
+   "en": "Save as many civilian units as you can and annihilate\nthe Varauta Army. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0365",
+   "en": "To make up for City 7's lack of forces while it still can't rejoin Battle 7, a Battroid Carnival was held to collect weapons owned by citizens. With all kinds of Battroids gathered, the Varauta Army showed up. Protect the citizens' Battroids and annihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0366",
+   "en": "Men of Burning Flame",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0367",
+   "en": "Defeat Gigile within the time limit,\nbefore City 7 crosses the critical point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0368",
+   "en": "City 7 is being dragged toward a blazing star by powerful gravity. In the middle of this emergency the Varauta Army attacks, but City 7 also manages to rejoin Battle 7. To dock City 7 with Battle 7 and make a fold possible, hold off the Varauta Army until the system repairs are done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0369",
+   "en": "Death Struggle on Planet Lux",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0370",
+   "en": "Destroy the Varauta Army flagship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0371",
+   "en": "At planet Lux, the Macross 7 fleet learns from its advance scouts that the Macross 5 fleet was attacked by an unknown party. Then a large Varauta force appears at Lux and strikes the fleet hard. The fleet will try to repel it by destroying the Varauta flagship to throw the enemy's command into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0372",
+   "en": "Sink Enemy Flagship",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0373",
+   "en": "Rainbow Song Energy",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0374",
+   "en": "Defeat the Protodeviln Glavil, or survive\nuntil the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0375",
+   "en": "A single Protodeviln is said to have the power to wipe out an entire Zentradi fleet, and they draw that power from Spiritia, the life energy of humans. The Varauta Army attacking the Macross 7 fleet was being controlled by the Protodeviln to gather Spiritia. And now the Protodeviln themselves have appeared before the fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0376",
+   "en": "Betrayal and a Girl's Tears",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0377",
+   "en": "Keep Gigile, here to rescue a comrade, from\nreaching the target area. (No large units)",
+   "flags": [],
+   "notes": "Line cut moved slightly: JP line 1 ends mid-phrase before 'reaching'."
+  },
+  {
+   "id": "u0378",
+   "en": "Thanks to information from a certain girl, the Macross 7 fleet managed to capture a Protodeviln. It was being studied aboard Battle 7 when a Protodeviln came to take back its comrade and broke into the ship. The captive Protodeviln must not be taken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0379",
+   "en": "Mystery of the Cosmic Ruins?",
+   "flags": [],
+   "notes": "Glossary missions (episode)."
+  },
+  {
+   "id": "u0380",
+   "en": "On planet Lux, the Macross 7 fleet found ruins thought to have been left by the Protoculture. Studying them may reveal some way to fight back against the Protodeviln. But in the middle of the survey, Glavil appeared and attacked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0381",
+   "en": "Ghosts of the Past",
+   "flags": [],
+   "notes": "Open title: literally 'ghosts of old'; the mission is about Zentradi remnants."
+  },
+  {
+   "id": "u0382",
+   "en": "Annihilate the Zentradi remnants that\nattacked in the asteroid field.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0383",
+   "en": "To escape Protodeviln attacks, the Macross 7 fleet was traveling hidden in an asteroid field. But Zentradi remnants hiding there too spotted it. Now that the fleet had seen them, the remnants had no intention of letting it go, and attacked us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0384",
+   "en": "Surprise Raid",
+   "flags": [],
+   "notes": "Open title."
+  },
+  {
+   "id": "u0385",
+   "en": "Repel the Protodeviln that have\nfound the Macross 7 fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0386",
+   "en": "The Macross 7 fleet is worn out by battle after battle. It had been hiding on a planet found along the way to get some rest, but in vain: the Protodeviln found it. Repel the Protodeviln to protect the exhausted Macross 7 fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0387",
+   "en": "Nightmare Assault Operation",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0388",
+   "en": "Annihilate the Protodeviln within the time limit.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0389",
+   "en": "U.N. Forces HQ on Earth gives the Macross 7 fleet a special order to annihilate the Protodeviln. In response, the fleet decides to launch Operation Stargazer, a surprise strike by a small elite team on the 4th planet of Varauta 3198XE. Annihilate the Protodeviln so reaction weapons can be fired into them.",
+   "flags": [],
+   "notes": "Last JP sentence literally: 'to fire reaction weapons into the Protodeviln, annihilate the Protodeviln'."
+  },
+  {
+   "id": "u0390",
+   "en": "Ambition on Varauta 4",
+   "flags": [],
+   "notes": "Glossary missions (episode)."
+  },
+  {
+   "id": "u0391",
+   "en": "Reach the hangar and escape within the time limit.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0392",
+   "en": "The do-or-die Operation Stargazer failed, and the team was captured by the Protodeviln. But they managed to slip past the enemy and got a chance to escape. Steal an enemy ship from the hangar before enemy units close in, and make it back to the Macross 7.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP drops who was captured; 'the team' (the Stargazer strike team) restored."
+  },
+  {
+   "id": "u0393",
+   "en": "Gamlin's Revolt",
+   "flags": [],
+   "notes": "Glossary missions (episode)."
+  },
+  {
+   "id": "u0394",
+   "en": "Defeat Gamlin, who is being\ncontrolled by the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0395",
+   "en": "The team made it safely back from the enemy's home base to the Macross 7 fleet. But the fight against the Protodeviln is not over. As if to prove it, the Protodeviln take control of soldiers in the fleet. The damage to the fleet must not be allowed to spread any further.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP drops who returned; 'the team' restored (follows u0392)."
+  },
+  {
+   "id": "u0396",
+   "en": "A Song Echoing Across the Galaxy",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0397",
+   "en": "To defeat Gepelnitchi and win peace,\nannihilate the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0398",
+   "en": "Gepelnitchi, the leader of the Protodeviln so to speak, was about to awaken. To stop his Spiritia Farm Project, the Macross 7 fleet launched another assault on the 4th planet of Varauta 3198XE.",
+   "flags": [],
+   "notes": "Gepelnitchi is male in the glossary."
+  },
+  {
+   "id": "u0399",
+   "en": "Defeat Gepelnitchi",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0400",
+   "en": "Spiritia Dream",
+   "flags": [],
+   "notes": "Open title; katakana English."
+  },
+  {
+   "id": "u0401",
+   "en": "Attack the enemy fleet and absorb Spiritia.",
+   "flags": [],
+   "notes": "Protodeviln-side mission."
+  },
+  {
+   "id": "u0402",
+   "en": "After a 500,000-year slumber, Gepelnitchi and the other Protodeviln have awoken. They cannot live without absorbing Spiritia, the energy of living beings. And now a fleet packed with beings rich in Spiritia has been found. As the Protodeviln vanguard, you are to gather Spiritia.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Protodeviln-side briefing; the final sentence has no subject in JP, 'you' (the player) restored."
+  },
+  {
+   "id": "u0403",
+   "en": "Fire Bomber",
+   "flags": [],
+   "notes": "Glossary missions (term)."
+  },
+  {
+   "id": "u0404",
+   "en": "Destroy enemy units and capture the one\nthought to possess Anima Spiritia.",
+   "flags": [],
+   "notes": "JP 'kotai' = an individual being; 'the one' keeps it neutral."
+  },
+  {
+   "id": "u0405",
+   "en": "Over several Spiritia-absorption missions, it became clear that one being gives off an abnormal amount of Spiritia. Most likely it bears the \"Anima Spiritia\" once used to seal the Protodeviln. You have been ordered to capture it to make use of the Anima Spiritia.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0406",
+   "en": "Close Encounter",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0407",
+   "en": "To keep them out of the flagship Island 1,\nannihilate the unknown life-forms.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0408",
+   "en": "While heading for the galactic core, Macross Frontier was suddenly attacked by a swarm of unknown life-forms. Seeing their overwhelming firepower, New U.N. Forces command judged it could not stop this emergency alone and called on the private military provider S.M.S. to deploy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0409",
+   "en": "Hard Chase",
+   "flags": [],
+   "notes": "Glossary missions (episode)."
+  },
+  {
+   "id": "u0410",
+   "en": "Annihilate the unknown life-forms that\ngot into Island 1. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0411",
+   "en": "Despite S.M.S.'s efforts, the unknown life-forms broke into Island 1. Several VF-25s are chasing them to defend Island 1's residential area, but many got in. To keep the citizens safe, the enemy must be wiped out at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0412",
+   "en": "Tough Simulation",
+   "flags": [],
+   "notes": "Open title; katakana English."
+  },
+  {
+   "id": "u0413",
+   "en": "Hold a joint mock battle with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0414",
+   "en": "The private military provider S.M.S. deploys at the Frontier Administrative Bureau's request in emergencies the New U.N. Forces can't handle. So it is naturally expected to outfight the regular military. In this joint mock battle with the New U.N. Forces, S.M.S. must show its full strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0415",
+   "en": "Secret Base",
+   "flags": [],
+   "notes": "Open title; katakana English."
+  },
+  {
+   "id": "u0416",
+   "en": "Destroy the Zentradi remnants' secret base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0417",
+   "en": "Even now, 50 years after Space War I, many Zentradi remnants still defy the New U.N. Government. The suspicious facility found on an asteroid near the Macross Frontier's route was one of their secret bases. The unit sent ahead to investigate was shot down without warning. Battle is now unavoidable.",
+   "flags": [],
+   "notes": "JP says 'the interstellar war'; glossary Space War I used."
+  },
+  {
+   "id": "u0418",
+   "en": "Raze Enemy Base",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0419",
+   "en": "New Airframe",
+   "flags": [],
+   "notes": "Open title; katakana English."
+  },
+  {
+   "id": "u0420",
+   "en": "Join a mock battle that also serves to\nevaluate the VF-25. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0421",
+   "en": "The VF-25, deployed early to S.M.S., is a next-gen variable fighter developed to succeed the VF-171. It performs superbly but demands great skill and puts heavy strain on its pilot. A mock battle between VF-25s will be held, doubling as an evaluation for official New U.N. Forces adoption.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0422",
+   "en": "Demon Officer",
+   "flags": [],
+   "notes": "Open title; katakana English."
+  },
+  {
+   "id": "u0423",
+   "en": "Join a mock battle against Skull Squadron.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0424",
+   "en": "The VF-25's high performance is proven, but countering the unknown life-forms that hit the Frontier fleet clearly also takes pilots skilled enough to draw it out. To use the VF-25 effectively, live-combat training will be held with the elite Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0425",
+   "en": "On Your Marks",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0426",
+   "en": "Annihilate the Vajra that have reappeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0427",
+   "en": "The unknown life-forms that attacked Macross Frontier have been named the Vajra. Every Vajra in the last attack was thought to have been repelled, but that was a mistake. Vajra survivors were lurking in Island 3. They have resumed activity and begun attacking the Frontier fleet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0428",
+   "en": "Miss Macross",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0429",
+   "en": "As a member of the test team,\nhold a mock battle with the applicants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0430",
+   "en": "The final test for S.M.S. applicants will be held on an old Zentradi battlefield: a mock battle against three Queadluun-Rheas. As a member of the test team, join the applicants in a mock battle against the Pixie Team, led by Captain Klan Klang.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0431",
+   "en": "First Attack",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0432",
+   "en": "Annihilate the Vajra that attacked\nthe Galaxy fleet. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0433",
+   "en": "An emergency fold transmission reports that the giant emigrant fleet Macross Galaxy has come under massive Vajra attack. Galaxy is badly damaged but not wiped out, and its remaining ships seem to still be under attack. S.M.S. has been called out to rescue the survivors and defend the Frontier fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0434",
+   "en": "Rescue the allied unit",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0435",
+   "en": "Friendly Fire",
+   "flags": [],
+   "notes": "TM kept; glossary missions (episode)."
+  },
+  {
+   "id": "u0436",
+   "en": "Annihilate the Vajra\nthat have attacked you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0437",
+   "en": "Checking reports of Vajra encounters turned up a sector very likely to hold a Vajra nest. A unit was sent to survey the nest and, if possible, recover cocoons, but the Vajra spotted it almost at once. The operation now shifts to annihilating the attacking Vajra.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0392: JP drops who was captured; 'the team' (the Stargazer strike team) restored.",
+   "u0395: JP drops who returned; 'the team' restored (follows u0392).",
+   "u0402: Protodeviln-side briefing; the final sentence has no subject in JP, 'you' (the player) restored."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

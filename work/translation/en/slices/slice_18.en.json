@@ -1,0 +1,519 @@
+{
+ "slice": 18,
+ "rows_in_slice": 82,
+ "rows_examined": 82,
+ "rows": [
+  {
+   "id": "u1718",
+   "en": "Annihilate all enemies\nProtect the defense target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1719",
+   "en": "Annihilate all enemy units",
+   "flags": [],
+   "notes": "Stock objective style per u0201 / u0329."
+  },
+  {
+   "id": "u1720",
+   "en": "Reach the designated area",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1721",
+   "en": "Defeat Golg Boddole Zer",
+   "flags": [],
+   "notes": "Japanese uses the alias Gorugu Bodoruza; glossary en Golg Boddole Zer."
+  },
+  {
+   "id": "u1722",
+   "en": "I'll be handling your Valkyrie flight training.\nI look forward to working with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1723",
+   "en": "Let's go over the basics of Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1724",
+   "en": "During training, the controller settings\nwill be reset to their defaults,\nso please be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1725",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1726",
+   "en": "Press Up on the D-pad to nose down and\ndescend, and Down to nose up and climb.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1727",
+   "en": "Press the × button to boost.\nYou can keep boosting until\nthe Boost Gauge maxes out.",
+   "flags": [],
+   "notes": "Boost Gauge rises while boosting (cf. u0935), hence 'until it maxes out'."
+  },
+  {
+   "id": "u1728",
+   "en": "Quickly press Up, Left or Right on the D-pad\ntwice in the same direction to roll\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1729",
+   "en": "Quickly press Down on the D-pad twice to fire\nreverse thrusters and brake hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1730",
+   "en": "Push the analog stick up\nto transform into Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1731",
+   "en": "That covers the basics of Fighter mode.\nNote: in this training you can't transform\ninto any mode other than Fighter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1732",
+   "en": "Now go ahead and begin your\nFighter mode flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1733",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1734",
+   "en": "Let's go over the basics of Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1735",
+   "en": "Press Up, Down, Left or Right on the D-pad\nto move forward, back, left or right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1736",
+   "en": "Quickly press the D-pad twice in the same\ndirection to step that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1737",
+   "en": "At the end of a step, keep holding the D-pad\nto dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1738",
+   "en": "Press the × button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1739",
+   "en": "Quickly press the × button twice\nand keep holding it to\nboost downward and lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1740",
+   "en": "You can dash even in mid-jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1741",
+   "en": "Push the analog stick down\nto transform into Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1742",
+   "en": "That covers the basics of Battroid mode.\nNote: in this training you can't transform\ninto any mode other than Battroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1743",
+   "en": "Now go ahead and begin your Battroid\nmode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1744",
+   "en": "Let's go over the basics of GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1745",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1746",
+   "en": "At the end of a step,\nkeep holding the D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1747",
+   "en": "Hold the × button to boost upward\nand gain altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1748",
+   "en": "In GERWALK mode, you hold your altitude\nand hover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1749",
+   "en": "Quickly press the × button twice\nand keep holding it to boost downward\nand lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1750",
+   "en": "Push the analog stick left or right\nto transform into GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1751",
+   "en": "That covers the basics of GERWALK mode.\nNote: in this training you can't transform\ninto any mode other than GERWALK.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1752",
+   "en": "Now go ahead and begin your\nGERWALK mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1753",
+   "en": "I'm in charge of your Valkyrie attack training.\nI'm counting on you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Instructor's 'yoroshiku tanomu' rendered 'I'm counting on you' (subject restored). 'Attack training' covers the shooting and melee drills."
+  },
+  {
+   "id": "u1754",
+   "en": "I'll explain the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1755",
+   "en": "During training, the controller settings\nwill be at their defaults. Watch out for that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1756",
+   "en": "Press the R button to lock on to an enemy.",
+   "flags": [],
+   "notes": "Japanese ends on a terse noun; written as a full imperative."
+  },
+  {
+   "id": "u1757",
+   "en": "Press the L and R buttons together\nto release the lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1758",
+   "en": "Press the □ button to attack the locked-on\nenemy with your main weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1759",
+   "en": "Press the ○ button to attack the locked-on\nenemy with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1760",
+   "en": "On units with multiple special weapons,\nhold the L button and press □\nto switch special weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1761",
+   "en": "Some special weapons are capable of\nmulti-lock-on, locking onto several\nenemies at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1762",
+   "en": "For multi-lock-on, hold down\nthe ○ button to lock onto\nmultiple enemies within range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1763",
+   "en": "Release the ○ button during multi-lock-on\nto hit every enemy locked at that moment\nwith your special weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1764",
+   "en": "These shooting attack controls\nare the same in Fighter, Battroid\nand GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1765",
+   "en": "That covers the basics of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1766",
+   "en": "Training is over when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1767",
+   "en": "I'll explain the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1768",
+   "en": "Press the △ button to make a melee attack.\nYou can melee attack in any mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1769",
+   "en": "In Battroid and GERWALK modes,\npress the △ button repeatedly\nto chain a combo attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1770",
+   "en": "The number of combo hits\nvaries by unit and mode!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1771",
+   "en": "Hold the △ button for a while, then\nrelease it for a charged-up melee attack.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hold-and-release melee (tame kakutou) rendered 'charged-up melee attack', kept distinct from the glossary 'Charge Melee' (L + triangle, costs SP)."
+  },
+  {
+   "id": "u1772",
+   "en": "In Battroid and GERWALK modes,\npress the △ button while dashing\nfor a dash melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1773",
+   "en": "In Battroid mode, press the △ button\nto hit a downed enemy with a down attack.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'down attack' = attack on a knocked-down enemy; no glossary term."
+  },
+  {
+   "id": "u1774",
+   "en": "That covers the basics of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1775",
+   "en": "Training's over when you reach\nthe target area or time runs out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1776",
+   "en": "I'll be handling your Valkyrie special\nmaneuvers training. Nice to meet you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1777",
+   "en": "Let me explain the special maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1778",
+   "en": "During training, the controller settings\nwill be at their defaults, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1779",
+   "en": "In Fighter mode, while locked on to an enemy,\nhold the L button and you'll turn\nto keep the enemy dead ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1780",
+   "en": "In Battroid mode, hold\nthe L button to guard.\nGuarding reduces the damage you take.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1781",
+   "en": "While guarding, press\nUp, Left or Right on the D-pad to move\nwithout dropping your guard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1782",
+   "en": "Guarding also resets the camera angle\nto face forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1783",
+   "en": "If you have a wingman,\ncombine the SELECT button and D-pad\nto issue tactical commands.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sakusen command rendered 'tactical commands'; no glossary term."
+  },
+  {
+   "id": "u1784",
+   "en": "Hold the L button and press ○ to\nuse 1 block of the SP Gauge for\na Charge Shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1785",
+   "en": "Hold the L button and press △ to\nuse 1 block of the SP Gauge\nfor a Charge Melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1786",
+   "en": "Press △ and ○ together to\nuse 3 blocks of the SP Gauge for\na powerful Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1787",
+   "en": "Press □ and × together to\nuse a set amount of the SP Gauge for\nthe pilot's own Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1788",
+   "en": "Hold the L button and press △ and\n○ together to perform a Combo Special\nAttack with your wingman.",
+   "flags": [],
+   "notes": "Combo Special Attack: glossary Combo SP Attack with the tutorial spelling 'Special Attack'."
+  },
+  {
+   "id": "u1789",
+   "en": "A Combo Special Attack uses\n6 blocks of the SP Gauge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1790",
+   "en": "Those are the basic special maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1791",
+   "en": "Training's over when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1792",
+   "en": "Let me explain container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1793",
+   "en": "During training, the controller settings\nwill be at their defaults,\nso be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1794",
+   "en": "Lock on to a container and move\nclose to it to pick it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1795",
+   "en": "You can't carry containers unless\nyou're in GERWALK or Battroid mode,\nso watch out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1796",
+   "en": "Press the □ button to set the container down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1797",
+   "en": "Also, you can't attack\nwhile carrying a container,\nso be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1798",
+   "en": "That's all for container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1799",
+   "en": "Training's over once you bring the container\nto the designated point, reach the target\narea, or run out of time.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1753: Instructor's 'yoroshiku tanomu' rendered 'I'm counting on you' (subject restored). 'Attack training' covers the shooting and melee drills.",
+   "u1771: Hold-and-release melee (tame kakutou) rendered 'charged-up melee attack', kept distinct from the glossary 'Charge Melee' (L + triangle, costs SP).",
+   "u1773: 'down attack' = attack on a knocked-down enemy; no glossary term.",
+   "u1783: Sakusen command rendered 'tactical commands'; no glossary term.",
+   "Tutorial instructors are unnamed; mt_010 written polite, mt_020 gruff, mt_030 friendly, no pronouns needed."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

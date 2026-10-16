@@ -1,0 +1,509 @@
+{
+ "slice": 5,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0438",
+   "en": "Fastest Delivery",
+   "flags": [],
+   "notes": "TM kept (MF ep. 12)."
+  },
+  {
+   "id": "u0439",
+   "en": "To rescue the concert tour crew,\nwipe out the Zentradi rebel forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0440",
+   "en": "Sheryl Nome, the Galactic Fairy, came to the planet Gallia 4 for a morale concert. But Sheryl, who had come despite being ill, collapsed on arrival, and the concert was put on hold. Using that as an excuse, Zentradi resentful of humans rioted, and things escalated until the concert crew were taken hostage.",
+   "flags": [],
+   "notes": "chikyujin rendered 'humans'."
+  },
+  {
+   "id": "u0441",
+   "en": "Protect the target / Annihilate all enemies",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0442",
+   "en": "Memory of Global",
+   "flags": [],
+   "notes": "TM kept (MF ep. 13)."
+  },
+  {
+   "id": "u0443",
+   "en": "Clear out the Vajra cocoons inside the Global.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0444",
+   "en": "The Global, flagship of the 117th Research Fleet, was sunk by the Vajra 11 years ago. Found on the planet Gallia 4, the Global had already become a Vajra nest. To stop the Vajra from breeding, the Vajra cocoons inside the ship must be wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0445",
+   "en": "Destroy the target",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0446",
+   "en": "Mother's Lullaby",
+   "flags": [],
+   "notes": "TM kept (MF ep. 14)."
+  },
+  {
+   "id": "u0447",
+   "en": "Reach the Vajra ship believed to be commanding\nall the Vajra. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0448",
+   "en": "Macross Frontier was under a Vajra attack like none before. Not only was the swarm bigger than ever, the Vajra were clearly launching an organized attack. The only way left for the fleet to survive is to destroy the giant Vajra ship thought to be issuing the orders and break their chain of command.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0449",
+   "en": "Annihilate the enemy battleships",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0450",
+   "en": "Defeat the Vajra Queen",
+   "flags": [],
+   "notes": "Also used in mission script mf_131."
+  },
+  {
+   "id": "u0451",
+   "en": "Rogues",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Open title; 'narazumono' = rogue/ruffian. The mission has the player follow the Vajra Queen's orders, so the title may describe the player side."
+  },
+  {
+   "id": "u0452",
+   "en": "Obey the Queen's orders and defeat the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0453",
+   "en": "Every Vajra acts according to the orders of the Vajra Queen. The Queen has issued the order to attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0454",
+   "en": "U.N. Forces 2059",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Lone title string between two missions, no objective or briefing of its own; literal 'U.N. Forces' (not New U.N.) + 2059. Purpose unclear (possibly an unused/debug title)."
+  },
+  {
+   "id": "u0455",
+   "en": "Of Sea and Wind",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0456",
+   "en": "Annihilate the Anti-U.N. Forces raiding the U.N. base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0457",
+   "en": "About a year after the Earth-wide Unification Wars ended, the Anti-U.N. Forces attack a U.N. Forces base. They have fielded the SV-51, a variable fighter built with OverTechnology. Keep their units away from the base and wipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0458",
+   "en": "Defeat Nora Fast",
+   "flags": [],
+   "notes": "Bonus objective; same pattern as u0220 'Defeat Ace Fast'."
+  },
+  {
+   "id": "u0459",
+   "en": "Defeat Ivanov Fast",
+   "flags": [],
+   "notes": "Bonus objective; same pattern as u0220 'Defeat Ace Fast'."
+  },
+  {
+   "id": "u0460",
+   "en": "Deadly Duel in Blue",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0461",
+   "en": "Annihilate the Anti-U.N. Forces that came\nto steal the ancient alien relic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0462",
+   "en": "Besides the giant battleship that crashed on South Ataria Island, another ancient alien relic of seemingly the same kind has been found. The U.N. Forces were secretly studying it, but the Anti-U.N. Forces learned of it and raided the research carrier to gain new OverTechnology. Don't let them take the relic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0463",
+   "en": "Protect the target / Annihilate all enemies",
+   "flags": [],
+   "notes": "Same as u0441 (half-width space variant)."
+  },
+  {
+   "id": "u0464",
+   "en": "Dogfighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0465",
+   "en": "Take on legendary squadrons and duos,\nand seize victory.",
+   "flags": [],
+   "notes": "shotai rendered 'squadrons' per glossary note on Skull Squadron."
+  },
+  {
+   "id": "u0466",
+   "en": "In every era, squadrons and duos bound by unbreakable ties have achieved remarkable feats. By joining forces, these comrades made possible missions that seemed impossible for anyone alone. Stand against these battle-hardened heroes and forge a new legend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0467",
+   "en": "Battle with Warriors",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Open title; literal 'battle against warriors' (the opponents are Destroids and enemy units)."
+  },
+  {
+   "id": "u0468",
+   "en": "Defeat Destroids and enemy units from every era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0469",
+   "en": "Variable fighters aren't the only ones fighting on fierce battlefields. Many units fought beside us as allies or fiercely against us as enemies. To know the whole history of war, take on the Destroids and enemy units of every era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0470",
+   "en": "Yack Deculture!",
+   "flags": [],
+   "notes": "Glossary missions entry (term)."
+  },
+  {
+   "id": "u0471",
+   "en": "To witness their splendid final moments,\nwipe out the endless swarm of grunts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0472",
+   "en": "Not only the strong shine as flowers of the battlefield. The weak, too, have beauty as they fall like petals. To burn their splendid fall into memory, lay waste to the grunts that keep coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0473",
+   "en": "Macross Hell",
+   "flags": [],
+   "notes": "Open title, literal."
+  },
+  {
+   "id": "u0474",
+   "en": "Make it out of Macross Hell alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0475",
+   "en": "The name of the Macross, which ended Space War I, passed on to the emigrant ships roaming the galaxy. Every battleship bearing the Macross name has immense firepower to guard against unknown threats. Learn their power firsthand and make it out of Macross Hell alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0476",
+   "en": "Giant Enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0477",
+   "en": "Defeat the mightiest foes of every era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0478",
+   "en": "Perhaps humanity's history of conflict was sealed the moment it picked up the giant space battleship that fell from the sky. Humanity has been drawn into conflict after conflict: Space War I, the Varauta War, the Vajra invasion. To break this cycle of conflict, crush these mighty foes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0479",
+   "en": "Become No. 1 in Macross Ace Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0480",
+   "en": "There is only one thing to do in this mission: defeat every unit that appears in Macross Ace Frontier and be recognized as a true ace. To settle who is the strongest, put everything on the line and fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0481",
+   "en": "Do You Remember Famitsu?",
+   "flags": [],
+   "notes": "Glossary missions entry."
+  },
+  {
+   "id": "u0482",
+   "en": "Wipe out the rampaging Famitsu editors.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0483",
+   "en": "Reports say the Weekly Famitsu editorial staff have taken prototype variable fighters and risen in armed revolt. Why prototypes are swarming in such numbers is unknown, but something feels seriously off. The editors' rampage must be stopped before the city is reduced to rubble.",
+   "flags": [],
+   "notes": "Japanese title brackets around the magazine name dropped."
+  },
+  {
+   "id": "u0484",
+   "en": "Generation Drive",
+   "flags": [],
+   "notes": "Glossary missions entry."
+  },
+  {
+   "id": "u0485",
+   "en": "Defeat every character from across the series.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0486",
+   "en": "Famous characters from the Macross series have joined forces across time! This is a true Super Dimension battle!",
+   "flags": [],
+   "notes": "chojiku = Super Dimension (series title wording)."
+  },
+  {
+   "id": "u0487",
+   "en": "The Super Dimension Editorial Department Dengeki",
+   "flags": [],
+   "notes": "Glossary missions entry."
+  },
+  {
+   "id": "u0488",
+   "en": "Crush Editor-in-Chief Kuranishi's ambitions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0489",
+   "en": "Editor-in-Chief Kuranishi, shot down time and again, suddenly vanished, shouting \"I'll cross time and space!\" Meanwhile, a giant creature appeared on a far-off asteroid and set off for Earth, asteroid and all. At this rate, Earth is in danger!",
+   "flags": [],
+   "notes": "Kuranishi kept gender-neutral (no pronouns)."
+  },
+  {
+   "id": "u0490",
+   "en": "Supersized Zentradi Rice Bowl",
+   "flags": [],
+   "notes": "Glossary missions entry."
+  },
+  {
+   "id": "u0491",
+   "en": "Wipe out the Zentradi forces that suddenly appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0492",
+   "en": "Earth should be at peace, yet Zentradi weapons have suddenly swarmed in en masse. In strangely neat rows, too. Amid this oddly nostalgic vibe, just take the enemy down!",
+   "flags": [],
+   "notes": "Neat rows + nostalgia = Space Invaders gag; kept implicit as in the Japanese."
+  },
+  {
+   "id": "u0493",
+   "en": "Battle Roy Focker and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0494",
+   "en": "He may love his drink and his women, but he is renowned as the U.N. Forces' top ace: Skull Leader, Roy Focker. A first-class pilot who looks after those under him, he is the very model of a pilot. Fight Focker, the legendary pilot who loved the sky above all else.",
+   "flags": [],
+   "notes": "kohai = juniors, rendered 'those under him'."
+  },
+  {
+   "id": "u0495",
+   "en": "Defeat Roy Focker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0496",
+   "en": "The Pilot Called a Genius",
+   "flags": [],
+   "notes": "Open title, literal."
+  },
+  {
+   "id": "u0497",
+   "en": "Battle Maximilian Jenius\nand seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0498",
+   "en": "Maximilian Jenius, the genius pilot who proved his talent by downing 7 enemies in his first battle. Living up to the name, he beat a Zentradi ace in a one-on-one duel and achieved history's first interstellar marriage, something no ordinary person could do. Fight Max, a genius by everyone's account, his own included.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0499",
+   "en": "Defeat Maximilian Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0500",
+   "en": "The Last Supper",
+   "flags": [],
+   "notes": "TM kept."
+  },
+  {
+   "id": "u0501",
+   "en": "Defeat Hayao Kakizaki, gone wild from hunger.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0502",
+   "en": "A big talker with only average piloting skills, yet somehow hard to dislike: Hayao Kakizaki. A big eater, he had to sortie after just one slice of steak. Stop Kakizaki, now on a rampage with his reason lost to hunger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0503",
+   "en": "Defeat Hayao Kakizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0504",
+   "en": "Milia the Ace",
+   "flags": [],
+   "notes": "Open title; also quoted inside u0506."
+  },
+  {
+   "id": "u0505",
+   "en": "Battle Milia Fallyna and seize victory.",
+   "flags": [],
+   "notes": "Pre-marriage form per brief."
+  },
+  {
+   "id": "u0506",
+   "en": "Milia Fallyna, the Zentradi ace pilot who had never known defeat. Her record and skill fully live up to the name \"Milia the Ace,\" but she tasted defeat for the first time in a one-on-one duel with the human genius pilot Maximilian Jenius. Fight Milia, who after that duel went on to history's first interstellar marriage.",
+   "flags": [],
+   "notes": "chikyujin rendered 'human'."
+  },
+  {
+   "id": "u0507",
+   "en": "Defeat Milia Fallyna",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0508",
+   "en": "Vrlitwhai the Warrior",
+   "flags": [],
+   "notes": "Open title; bujin = warrior."
+  },
+  {
+   "id": "u0509",
+   "en": "Battle Vrlitwhai Kridanik\nand seize victory. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0510",
+   "en": "Unusually for a Zentradi, Vrlitwhai Kridanik, a Zentradi fleet commander, sees the bigger picture and chose the path of coexistence with humans. Fight Vrlitwhai, a mighty warrior strong enough to take on a Valkyrie in the flesh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0511",
+   "en": "Defeat Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0512",
+   "en": "Peaky Pilot",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Open title; katakana 'peaky' (twitchy, hard-to-handle tuning) kept as English. Alternative: 'Wild Card Pilot'."
+  },
+  {
+   "id": "u0513",
+   "en": "Battle Isamu Alva Dyson and seize victory.",
+   "flags": [],
+   "notes": "Japanese omits 'Alva'; glossary en used."
+  },
+  {
+   "id": "u0514",
+   "en": "Isamu Alva Dyson, a man who carries daring, recklessness and plain stupidity in the same pocket. Skilled enough to win the \"Roy Focker Medal\", an ace pilot's mark, three times, he lost it all three times for repeated breaches of regulations. Fight Isamu, the wild man.",
+   "flags": [],
+   "notes": "Japanese omits 'Alva'; glossary en used."
+  },
+  {
+   "id": "u0515",
+   "en": "Defeat Isamu Alva Dyson",
+   "flags": [],
+   "notes": "Japanese omits 'Alva'; glossary en used."
+  },
+  {
+   "id": "u0516",
+   "en": "Sleeping Beast",
+   "flags": [],
+   "notes": "Open title."
+  },
+  {
+   "id": "u0517",
+   "en": "Battle Guld Goa Bowman and seize victory.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0451: Open title; 'narazumono' = rogue/ruffian. The mission has the player follow the Vajra Queen's orders, so the title may describe the player side.",
+   "u0454: Lone title string between two missions, no objective or briefing of its own; literal 'U.N. Forces' (not New U.N.) + 2059. Purpose unclear (possibly an unused/debug title).",
+   "u0467: Open title; literal 'battle against warriors' (the opponents are Destroids and enemy units).",
+   "u0512: Open title; katakana 'peaky' (twitchy, hard-to-handle tuning) kept as English. Alternative: 'Wild Card Pilot'.",
+   "u0440/u0506/u0510: chikyujin ('Earth people') rendered 'humans'/'human' throughout.",
+   "u0513-u0515: glossary en 'Isamu Alva Dyson' used though the Japanese gives only 'Isamu Dyson'.",
+   "Large-units restriction (oogata kitai shutsugeki fuka) rendered '(Large units not allowed)' in u0443/u0447/u0482/u0501/u0509; other slices should match."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

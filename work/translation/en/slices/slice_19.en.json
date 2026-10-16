@@ -1,0 +1,182 @@
+{
+ "slice": 19,
+ "rows_in_slice": 26,
+ "rows_examined": 26,
+ "rows": [
+  {
+   "id": "u1800",
+   "en": "Gamlin & Mylene",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1801",
+   "en": "Dick",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1802",
+   "en": "Molly",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1803",
+   "en": "Unused",
+   "flags": [],
+   "notes": "Placeholder label (mishiyou), likely never shown."
+  },
+  {
+   "id": "u1804",
+   "en": "Gavigla",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1805",
+   "en": "Facility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1806",
+   "en": "Alto & Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1807",
+   "en": "Raramia Rerenia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1808",
+   "en": "Nene Rora",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1809",
+   "en": "Temjin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1810",
+   "en": "Nora Polyansky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1811",
+   "en": "D.D. Ivanov",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1812",
+   "en": "Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1813",
+   "en": "Kinryu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1814",
+   "en": "Docker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1815",
+   "en": "Grace O'Connor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1816",
+   "en": "Guld Goa Bowman",
+   "flags": [],
+   "notes": "Japanese misspells the middle name (Boa); glossary says translate as Guld Goa Bowman."
+  },
+  {
+   "id": "u1817",
+   "en": "Henry Gilliam",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1818",
+   "en": "Bakataru Kato",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional (real writer's pen name)."
+  },
+  {
+   "id": "u1819",
+   "en": "Hamamura Tsushin",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Over the estimated box (120 vs 70 px); pen name, cannot be shortened without losing it. Box is the Japanese width, real label space unknown."
+  },
+  {
+   "id": "u1820",
+   "en": "Editor-in-Chief Kuranishi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary form, 157 px vs estimated 87 px box. Fallbacks if it overflows in game: Chief Ed. Kuranishi (121 px), Editor Kuranishi (101 px)."
+  },
+  {
+   "id": "u1821",
+   "en": "Container",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1822",
+   "en": "Hikaru Ichijyo",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "88 px vs estimated 70 px box; same full name already used for his locate labels via pilot_table u0006. Fallback H. Ichijyo (60 px)."
+  },
+  {
+   "id": "u1823",
+   "en": "Max",
+   "flags": [],
+   "notes": "Alias of Maximilian Jenius; kept as the short form the game uses."
+  },
+  {
+   "id": "u1824",
+   "en": "Milia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1825",
+   "en": "Max & Milia",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1818: Glossary status provisional (real writer's pen name).",
+   "u1819: Over the estimated box (120 vs 70 px); pen name, cannot be shortened without losing it. Box is the Japanese width, real label space unknown.",
+   "u1820: Glossary form, 157 px vs estimated 87 px box. Fallbacks if it overflows in game: Chief Ed. Kuranishi (121 px), Editor Kuranishi (101 px).",
+   "u1822: 88 px vs estimated 70 px box; same full name already used for his locate labels via pilot_table u0006. Fallback H. Ichijyo (60 px)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

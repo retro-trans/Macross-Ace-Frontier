@@ -1,0 +1,1575 @@
+{
+ "slice": 14,
+ "rows_in_slice": 258,
+ "rows_examined": 258,
+ "rows": [
+  {
+   "id": "u1099",
+   "en": "Ending Movie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1100",
+   "en": "SDF Macross - Prologue",
+   "flags": [],
+   "notes": "tm shortened: full series title was 311 px in a 262 px box; 'SDF Macross' as in u1307."
+  },
+  {
+   "id": "u1101",
+   "en": "SDF Macross - Epilogue",
+   "flags": [],
+   "notes": "Shortened to 'SDF Macross' to fit 262 px, matching u1100."
+  },
+  {
+   "id": "u1102",
+   "en": "Macross Plus - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1103",
+   "en": "Macross Plus - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1104",
+   "en": "Macross 7 - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1105",
+   "en": "Macross 7 - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1106",
+   "en": "Macross Frontier - Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1107",
+   "en": "Macross Frontier - Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1108",
+   "en": "The replay data is corrupted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1109",
+   "en": "Loading the replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1110",
+   "en": "Loading...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1111",
+   "en": "Set as wallpaper?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1112",
+   "en": "Clear the wallpaper setting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1113",
+   "en": "Male Pilot A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1114",
+   "en": "Male Pilot B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1115",
+   "en": "Female Pilot A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1116",
+   "en": "Female Pilot B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1117",
+   "en": "Clear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1118",
+   "en": "Cloudy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1119",
+   "en": "Rain",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1120",
+   "en": "Fog",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1121",
+   "en": "Snow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1122",
+   "en": "Stopping replay data playback.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1123",
+   "en": "Waiting for connection.\nPress the × button to abort the battle\nand end wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1124",
+   "en": "Comm. Sync Error",
+   "flags": [],
+   "notes": "tm 'Communication Sync Error' was 169 px in a 122 px box; abbreviated."
+  },
+  {
+   "id": "u1125",
+   "en": "Various modes for single-player play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1126",
+   "en": "A mode for playing the missions of each era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1127",
+   "en": "Create a new character and start a campaign.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1128",
+   "en": "Select where to create the new data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1129",
+   "en": "Continue a campaign with data you created.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1130",
+   "en": "Select the pilot data to load.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1131",
+   "en": "A mode for versus and co-op play with the computer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1132",
+   "en": "A mode for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1133",
+   "en": "View data and change various settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1134",
+   "en": "View various data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1135",
+   "en": "Set volume, ID card and autosave, or enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1136",
+   "en": "Configure the controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1137",
+   "en": "Set up the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1138",
+   "en": "Select the player pilot's type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1139",
+   "en": "Set the player pilot's age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1140",
+   "en": "Enter the player pilot's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1141",
+   "en": "Finish setting up the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1142",
+   "en": "Set up the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1143",
+   "en": "Select the partner pilot's type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1144",
+   "en": "Set the partner pilot's age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1145",
+   "en": "Enter the partner pilot's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1146",
+   "en": "Finish setting up the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1147",
+   "en": "Finish setting up the pilots.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1148",
+   "en": "Select an operator.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1149",
+   "en": "Start the campaign for \"The Super Dimension Fortress Macross\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1150",
+   "en": "Start the campaign for \"Macross Plus\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1151",
+   "en": "Start the campaign for \"Macross 7\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1152",
+   "en": "Start the campaign for \"Macross Frontier\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1153",
+   "en": "Select a mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1154",
+   "en": "Select a campaign mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1155",
+   "en": "Select the BGM to play during the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1156",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1157",
+   "en": "Select the player's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1158",
+   "en": "Select the part of the unit to tune.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1159",
+   "en": "Select the item to tune.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1160",
+   "en": "Select the player pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1161",
+   "en": "Select the skills the player pilot uses in missions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1162",
+   "en": "Change the unit's colors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1163",
+   "en": "Reset parameters tuned beyond their initial limits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1164",
+   "en": "Configure the partner's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1165",
+   "en": "Select the partner's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1166",
+   "en": "Select the partner pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1167",
+   "en": "Select the skills the partner pilot uses in missions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1168",
+   "en": "View various battle records.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1169",
+   "en": "View the overall records of all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1170",
+   "en": "View the campaign mission records of all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1171",
+   "en": "View the co-op mission records of all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1172",
+   "en": "View the per-unit records of all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1173",
+   "en": "View the versus/co-op play records of all save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1174",
+   "en": "Check the affinity between characters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1175",
+   "en": "Set volume, ID card and autosave, and enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1176",
+   "en": "Set the BGM, VOICE and SE volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1177",
+   "en": "View and set up ID cards.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1178",
+   "en": "Set autosave and enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1179",
+   "en": "Set the in-game BGM volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1180",
+   "en": "Set the in-game voice volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1181",
+   "en": "Set the in-game sound effect volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1182",
+   "en": "Show the list of ID cards.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1183",
+   "en": "Select the ID card to check.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1184",
+   "en": "Change the contents of the ID card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1185",
+   "en": "Change the icon used on the ID card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1186",
+   "en": "Enter the message shown on the ID card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1187",
+   "en": "Change the title shown on the ID card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1188",
+   "en": "Select the title shown on the ID card.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1189",
+   "en": "Turn autosave ON/OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1190",
+   "en": "Enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1191",
+   "en": "Play back replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1192",
+   "en": "View character info.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1193",
+   "en": "Select a character to view info on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1194",
+   "en": "View unit info.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1195",
+   "en": "Select a unit to view info on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1196",
+   "en": "View wallpapers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1197",
+   "en": "Select a wallpaper to view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1198",
+   "en": "Play BGM, movies and demos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1199",
+   "en": "Select the BGM, movie or demo to play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1200",
+   "en": "Create a \"Room\" to recruit players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1201",
+   "en": "Select a \"Room\" to join for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1202",
+   "en": "Select the number of players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1203",
+   "en": "Recruiting players for wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1204",
+   "en": "Join wireless play in this room.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1205",
+   "en": "Start the game with these players.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1206",
+   "en": "Select the game mode: \"Versus\" or \"Co-op\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1207",
+   "en": "Select the battle type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1208",
+   "en": "Select the detailed rules of the battle type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1209",
+   "en": "Select the battle duration.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1210",
+   "en": "Choose whether BGM selection is allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1211",
+   "en": "Choose whether tuned parameters apply.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1212",
+   "en": "Choose whether Special Attacks are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1213",
+   "en": "Choose whether skills are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1214",
+   "en": "Set restrictions on unit modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1215",
+   "en": "Confirm the settings above.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1216",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1217",
+   "en": "Select a team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1218",
+   "en": "Select a unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1219",
+   "en": "Select a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1220",
+   "en": "Set the handicap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1221",
+   "en": "Configure the COM's settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1222",
+   "en": "Set the COM's team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1223",
+   "en": "Select the COM's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1224",
+   "en": "Select the COM's pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1225",
+   "en": "Set the COM's handicap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1226",
+   "en": "Select the COM pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1227",
+   "en": "Select the skills the COM pilot uses in missions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1228",
+   "en": "Choose whether large units are allowed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1229",
+   "en": "Check the unit's appearance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1230",
+   "en": "Set the COM so it cannot sortie.",
+   "flags": [],
+   "notes": "Help text: make the COM unable to sortie."
+  },
+  {
+   "id": "u1231",
+   "en": "Sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1232",
+   "en": "Playing BGM continuously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1233",
+   "en": "View the unit's graphic model.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1234",
+   "en": " \n \nStanding by.\nPlease wait a moment.\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1235",
+   "en": "Current players (%d/%d)\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1236",
+   "en": "×:Cancel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1237",
+   "en": "Connection interrupted.",
+   "flags": [],
+   "notes": "tm was 200 px in a 192 px box; compressed."
+  },
+  {
+   "id": "u1238",
+   "en": "The connection timed out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1239",
+   "en": "Shao Pai Long",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1240",
+   "en": "Shao Pai Long\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1241",
+   "en": "Shao Pai Long chiptune",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1242",
+   "en": "Do You Remember Love? (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1243",
+   "en": "Do You Remember Love?\nSeries: Macross: Do You Remember Love?\nVocals: Mari Iijima  Lyrics: Kazumi Yasui  Music: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1244",
+   "en": "Do You Remember Love?\nSeries: Macross: Do You Remember Love?\nMusic: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1245",
+   "en": "Arrow of Fate\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1246",
+   "en": "Macross\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1247",
+   "en": "Dog Fighter\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1248",
+   "en": "Zentradian Great Fortress (Part 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1249",
+   "en": "Zentradian Great Fortress (Part 1)\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1250",
+   "en": "Zentradian Great Fortress (Part 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1251",
+   "en": "Zentradian Great Fortress (Part 2)\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1252",
+   "en": "My Boyfriend is a Pilot (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1253",
+   "en": "My Boyfriend is a Pilot\nSeries: The Super Dimension Fortress Macross\nVocals: Mari Iijima\nLyrics: Akane Asa  Music: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1254",
+   "en": "My Boyfriend is a Pilot\nSeries: The Super Dimension Fortress Macross\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1255",
+   "en": "INFORMATION HIGH (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1256",
+   "en": "INFORMATION HIGH\nSeries: Macross Plus\nLyrics: DAI&KEN=GO→  Music: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1257",
+   "en": "INFORMATION HIGH\nSeries: Macross Plus\nMusic: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1258",
+   "en": "After in the dark\nSeries: Macross Plus\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1259",
+   "en": "Fly up to the air\nSeries: Macross Plus\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1260",
+   "en": "Totsugeki Love Heart (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1261",
+   "en": "Totsugeki Love Heart\nSeries: Macross 7\nVocals: Fire Bomber\nLyrics: K.Inojo  Music: Junki Kochi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Composer reading of Kochi uncertain (could be Kawachi/Kouchi). Band name per glossary 'Fire Bomber' (source writes it in capitals)."
+  },
+  {
+   "id": "u1262",
+   "en": "Totsugeki Love Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1263",
+   "en": "Totsugeki Love Heart\nSeries: Macross 7\nMusic: Junki Kochi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Composer reading Kochi uncertain, see u1261."
+  },
+  {
+   "id": "u1264",
+   "en": "Holy Lonely Light (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1265",
+   "en": "Holy Lonely Light\nSeries: Macross 7\nVocals: Fire Bomber\nLyrics: K.Inojo  Music: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1266",
+   "en": "Holy Lonely Light\nSeries: Macross 7\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1267",
+   "en": "My Friends (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1268",
+   "en": "My Friends\nSeries: Macross 7\nVocals: Fire Bomber\nLyrics: M.MEG  Music: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1269",
+   "en": "My Friends\nSeries: Macross 7\nMusic: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1270",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1271",
+   "en": "Ace Frontier\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1272",
+   "en": "PLANET DANCE\nSeries: Macross 7\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1273",
+   "en": "Try Again (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1274",
+   "en": "Try Again\nSeries: Macross 7\nVocals: Fire Bomber\nLyrics: K.Inojo, Kyoko Fukuyama  Music: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1275",
+   "en": "Try Again\nSeries: Macross 7\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1276",
+   "en": "Lion (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1277",
+   "en": "Lion\nSeries: Macross Frontier\nVocals: May'n/Megumi Nakajima\nLyrics: GABRIELA ROBIN  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1278",
+   "en": "Lion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1279",
+   "en": "Lion\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1280",
+   "en": "Aimo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1281",
+   "en": "Aimo\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1282",
+   "en": "Triangler",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1283",
+   "en": "Triangler\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1284",
+   "en": "Iteza☆Gogo Kuji Don't be late (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1285",
+   "en": "Iteza☆Gogo Kuji Don't be late  Series: Macross Frontier\nVocals: Sheryl Nome starring May'n \nLyrics: Dai Sato, HAL, Mike Sugiyama, GABRIELA ROBIN\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": "Source puts title and Series on one line; line structure kept (4 lines), trailing space after May'n kept."
+  },
+  {
+   "id": "u1286",
+   "en": "Iteza☆Gogo Kuji Don't be late",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1287",
+   "en": "Iteza☆Gogo Kuji Don't be late\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1288",
+   "en": "The Target\nSeries: Macross Frontier\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1289",
+   "en": "Max World (Skill Activation)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1290",
+   "en": "Empty",
+   "flags": [],
+   "notes": "Unused sound test slot ('aki' = empty)."
+  },
+  {
+   "id": "u1291",
+   "en": "Blitzkrieg",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1292",
+   "en": "Blitzkrieg\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1293",
+   "en": "root 2045\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1294",
+   "en": "Stratosphere Diver\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1295",
+   "en": "GERWALK Strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1296",
+   "en": "GERWALK Strikes\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1297",
+   "en": "Central Paranoia Unit\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1298",
+   "en": "Bowels of War",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1299",
+   "en": "Bowels of War\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1300",
+   "en": "Roar of the Giants",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1301",
+   "en": "Roar of the Giants\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1302",
+   "en": "Formation Takeoff",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1303",
+   "en": "Formation Takeoff\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1304",
+   "en": "Song Skill (Do You Remember Love?, No Intro)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1305",
+   "en": "MISSION COMPLETE\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1306",
+   "en": "MISSION FAILED\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1307",
+   "en": "Mission Continues (SDF Macross)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1308",
+   "en": "VS Mode Victory Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1309",
+   "en": "VS Mode Draw Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1310",
+   "en": "VS Mode Defeat Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1311",
+   "en": "Song Skill (Try Again, No Intro)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1312",
+   "en": "Little Wonder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1313",
+   "en": "Little Wonder\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1314",
+   "en": "Mission Select (Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1315",
+   "en": "Briefing (Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1316",
+   "en": "Empty Mid-Event (Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1317",
+   "en": "Empty Old Defeat",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Dev placeholder: 'aki kyuu-make' = empty slot, old defeat theme."
+  },
+  {
+   "id": "u1318",
+   "en": "Empty Mid-Event (Gallery Loop, Temp)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1319",
+   "en": "Mission Continues (Macross Plus)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1320",
+   "en": "Mission Continues (Macross 7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1321",
+   "en": "Mission Continues (Macross Frontier)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1322",
+   "en": "Unknown",
+   "flags": [],
+   "notes": "tm kept; 7 bytes fits MAX_BYTES=7."
+  },
+  {
+   "id": "u1323",
+   "en": "Battroid",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1324",
+   "en": "GERWALK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1325",
+   "en": "Fighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1326",
+   "en": "1 min",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1327",
+   "en": "2 min",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1328",
+   "en": "3 min",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1329",
+   "en": "4 min",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1330",
+   "en": "5 min",
+   "flags": [],
+   "notes": "tm '5min' spaced to match 1-4 min."
+  },
+  {
+   "id": "u1331",
+   "en": "10 min",
+   "flags": [],
+   "notes": "Spaced to match 1-4 min."
+  },
+  {
+   "id": "u1332",
+   "en": "15 min",
+   "flags": [],
+   "notes": "Spaced to match 1-4 min."
+  },
+  {
+   "id": "u1333",
+   "en": "20 min",
+   "flags": [],
+   "notes": "Spaced to match 1-4 min."
+  },
+  {
+   "id": "u1334",
+   "en": "0 Respawns",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kept tm '0 Respawns' (73 px, box ~70 px, 3 px over); 'No Respawns' is wider."
+  },
+  {
+   "id": "u1335",
+   "en": "1 Respawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1336",
+   "en": "2 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1337",
+   "en": "3 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1338",
+   "en": "4 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1339",
+   "en": "5 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1340",
+   "en": "6 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1341",
+   "en": "7 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1342",
+   "en": "8 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1343",
+   "en": "Unlimited",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1344",
+   "en": "Force 100",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1345",
+   "en": "Force 200",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1346",
+   "en": "Force 300",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1347",
+   "en": "Force 400",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1348",
+   "en": "Force 500",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1349",
+   "en": "Force 600",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1350",
+   "en": "Force 700",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1351",
+   "en": "Force 800",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1352",
+   "en": "Force 900",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1353",
+   "en": "Force 1000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1354",
+   "en": "Force 2000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1355",
+   "en": "Force 3000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1356",
+   "en": "Free Battle",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1261/u1263: composer reading 'Junki Kochi' not verified (Kawachi/Kouchi possible).",
+   "u1334: '0 Respawns' 3 px over its ~70 px box.",
+   "u1317: 'Empty Old Defeat' is a guess at a dev placeholder label.",
+   "u1100/u1101: series name shortened to 'SDF Macross' to fit 262 px.",
+   "u1243: lyricist read as Kazumi Yasui, composer Kazuhiko Kato (standard readings)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

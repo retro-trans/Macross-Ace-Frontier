@@ -1,0 +1,2458 @@
+{
+ "_meta": {
+  "generated_by": "tools/glossary_check.py",
+  "note": "Names the game text uses, matched against the glossary. 'gap' = missing from the glossary; 'partial' = check by hand. The organization list is mined from prose with a pattern, so it holds false hits (generic words); review before adding anything.",
+  "summary": {
+   "character": {
+    "gap": 2,
+    "partial": 0,
+    "variant": 2,
+    "exact": 51
+   },
+   "mecha": {
+    "gap": 0,
+    "partial": 4,
+    "variant": 17,
+    "exact": 50
+   },
+   "organization": {
+    "gap": 27,
+    "partial": 25,
+    "variant": 3,
+    "exact": 22
+   },
+   "object": {
+    "gap": 0,
+    "partial": 3,
+    "variant": 1,
+    "exact": 6
+   }
+  }
+ },
+ "character": [
+  {
+   "game": "未使用",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "m7_160:39:SWIT03"
+   ]
+  },
+  {
+   "game": "施設",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "mf_020:4:BAS001"
+   ]
+  },
+  {
+   "game": "バジュラ（Ｓ）",
+   "match": "variant",
+   "glossary_ja": "バジュラ",
+   "glossary_en": "Vajra",
+   "glossary_file": "mecha",
+   "count": 1,
+   "seen_in": [
+    "eboot:24F760"
+   ]
+  },
+  {
+   "game": "バジュラ（Ｌ）",
+   "match": "variant",
+   "glossary_ja": "バジュラ",
+   "glossary_en": "Vajra",
+   "glossary_file": "mecha",
+   "count": 1,
+   "seen_in": [
+    "eboot:24F7D8"
+   ]
+  },
+  {
+   "game": "マクシミリアン・ジーナス",
+   "match": "exact",
+   "glossary_ja": "マクシミリアン・ジーナス",
+   "glossary_en": "Maximilian Jenius",
+   "count": 19,
+   "seen_in": [
+    "eboot:24EAB8",
+    "eboot:24F1C0",
+    "m7_181:4:FRIMAX",
+    "mc_020:5:ENEMAX",
+    "mc_080:5:ENEMAX"
+   ]
+  },
+  {
+   "game": "熱気 バサラ",
+   "match": "exact",
+   "glossary_ja": "熱気バサラ",
+   "glossary_en": "Basara Nekki",
+   "count": 16,
+   "seen_in": [
+    "eboot:24F058",
+    "m7_030:32:FRINKB",
+    "m7_040:13:FRINKB",
+    "m7_060:3:FRINKB",
+    "m7_060:11:FRINKG"
+   ]
+  },
+  {
+   "game": "早乙女 アルト",
+   "match": "exact",
+   "glossary_ja": "早乙女アルト",
+   "glossary_en": "Alto Saotome",
+   "count": 16,
+   "seen_in": [
+    "eboot:24F418",
+    "mf_030:23:ENEALT",
+    "mf_050:5:FRIALT",
+    "mf_080:3:FRIALT",
+    "mf_085:6:ENEALT"
+   ]
+  },
+  {
+   "game": "一条 輝",
+   "match": "exact",
+   "glossary_ja": "一条輝",
+   "glossary_en": "Hikaru Ichijyo",
+   "count": 15,
+   "seen_in": [
+    "eboot:24E9C8",
+    "mo_030:6:ENEJ10",
+    "mo_060:8:ENED10",
+    "mo_060:11:ENEJ10",
+    "mo_060:23:ENEA14"
+   ]
+  },
+  {
+   "game": "ロイ・フォッカー",
+   "match": "exact",
+   "glossary_ja": "ロイ・フォッカー",
+   "glossary_en": "Roy Focker",
+   "count": 15,
+   "seen_in": [
+    "eboot:24EA40",
+    "mc_010:5:ENEROY",
+    "mo_030:5:ENES00",
+    "mo_030:9:ENES10",
+    "mo_060:13:ENES10"
+   ]
+  },
+  {
+   "game": "カムジン・クラヴシェラ",
+   "match": "exact",
+   "glossary_ja": "カムジン・クラヴシェラ",
+   "glossary_en": "Quamzin Kravshera",
+   "count": 13,
+   "seen_in": [
+    "eboot:24EC98",
+    "mo_050:24:ENEGLG1",
+    "mo_060:15:ENEGLG",
+    "ms_070:12:ENEQMJ",
+    "ms_080:31:ENEQMJ"
+   ]
+  },
+  {
+   "game": "ミリア・ファリーナ",
+   "match": "exact",
+   "glossary_ja": "ミリア・ファリーナ・ジーナス",
+   "glossary_en": "Milia Fallyna Jenius",
+   "count": 11,
+   "seen_in": [
+    "eboot:24EB30",
+    "eboot:24ED10",
+    "mc_040:5:ENEMIL",
+    "mo_030:11:ENEJ12",
+    "mo_050:34:ENEQDS"
+   ]
+  },
+  {
+   "game": "イサム・ダイソン",
+   "match": "exact",
+   "glossary_ja": "イサム・ダイソン",
+   "glossary_en": "Isamu Alva Dyson",
+   "count": 11,
+   "seen_in": [
+    "eboot:24EEF0",
+    "mc_060:5:ENEISM",
+    "mo_030:12:ENEY19",
+    "mo_060:32:ENEY19",
+    "mo_130:5:ENEISM"
+   ]
+  },
+  {
+   "game": "ミハエル・ブラン",
+   "match": "exact",
+   "glossary_ja": "ミハエル・ブラン",
+   "glossary_en": "Michael Blanc",
+   "count": 11,
+   "seen_in": [
+    "eboot:24F490",
+    "mf_050:4:FRIMCL",
+    "mf_061:4:FRIMCL",
+    "mf_070:7:FRIMCL",
+    "mf_085:5:ENEMCL"
+   ]
+  },
+  {
+   "game": "ルカ・アンジェローニ",
+   "match": "exact",
+   "glossary_ja": "ルカ・アンジェローニ",
+   "glossary_en": "Luca Angeloni",
+   "count": 11,
+   "seen_in": [
+    "eboot:24F508",
+    "mf_050:3:FRILUK",
+    "mf_070:3:FRILUK",
+    "mf_085:7:ENELUK",
+    "mf_085:10:FRILUK"
+   ]
+  },
+  {
+   "game": "ミレーヌ・ジーナス",
+   "match": "exact",
+   "glossary_ja": "ミレーヌ・ジーナス",
+   "glossary_en": "Mylene Flare Jenius",
+   "count": 10,
+   "seen_in": [
+    "eboot:24F0D0",
+    "m7_070:28:FRIMLN",
+    "m7_100:4:FRIMLN",
+    "m7_120:15:FRIMLN",
+    "m7_170:3:FRIMLN"
+   ]
+  },
+  {
+   "game": "ガムリン 木崎",
+   "match": "exact",
+   "glossary_ja": "ガムリン木崎",
+   "glossary_en": "Gamlin Kizaki",
+   "count": 10,
+   "seen_in": [
+    "eboot:24F148",
+    "m7_050:4:FRIGAM",
+    "m7_080:11:FRIGAM",
+    "m7_120:33:FRIGAM",
+    "m7_130:4:FRIGAM"
+   ]
+  },
+  {
+   "game": "オズマ・リー",
+   "match": "exact",
+   "glossary_ja": "オズマ・リー",
+   "glossary_en": "Ozma Lee",
+   "count": 10,
+   "seen_in": [
+    "eboot:24F580",
+    "mc_100:5:ENEOZM",
+    "mf_030:3:FRIOZM",
+    "mf_050:6:FRIOZM",
+    "mf_060:3:FRIOZM"
+   ]
+  },
+  {
+   "game": "ブレラ・スターン",
+   "match": "exact",
+   "glossary_ja": "ブレラ・スターン",
+   "glossary_en": "Brera Sterne",
+   "count": 10,
+   "seen_in": [
+    "eboot:24F6E8",
+    "mc_120:5:ENEBLR",
+    "mf_091:12:ENEBLR",
+    "mf_100:26:ENEBLR",
+    "mf_105:24:ENEBLR"
+   ]
+  },
+  {
+   "game": "ミリア・ファリーナ・ジーナス",
+   "match": "exact",
+   "glossary_ja": "ミリア・ファリーナ・ジーナス",
+   "glossary_en": "Milia Fallyna Jenius",
+   "count": 9,
+   "seen_in": [
+    "eboot:24F238",
+    "m7_060:10:FRIMIL",
+    "m7_130:3:FRIMIL",
+    "m7_181:3:FRIMIL",
+    "mc_090:5:ENEMIL"
+   ]
+  },
+  {
+   "game": "クラン・クラン",
+   "match": "exact",
+   "glossary_ja": "クラン・クラン",
+   "glossary_en": "Klan Klang",
+   "count": 9,
+   "seen_in": [
+    "eboot:24F5F8",
+    "mc_110:5:ENEKLN",
+    "mf_080:6:ENEKLN",
+    "mf_080:9:FRIKLN",
+    "mf_100:3:FRIKLN"
+   ]
+  },
+  {
+   "game": "ブリタイ・クリダニク",
+   "match": "exact",
+   "glossary_ja": "ブリタイ・クリダニク",
+   "glossary_en": "Vrlitwhai Kridanik",
+   "count": 8,
+   "seen_in": [
+    "eboot:24EE00",
+    "mc_050:1:ENEBTI",
+    "mo_050:35:ENEVTL",
+    "mo_060:20:ENEVLT",
+    "ms_101:11:ENE010"
+   ]
+  },
+  {
+   "game": "ガルド・ゴア・ボーマン",
+   "match": "exact",
+   "glossary_ja": "ガルド・ゴア・ボーマン",
+   "glossary_en": "Guld Goa Bowman",
+   "count": 8,
+   "seen_in": [
+    "eboot:24EF68",
+    "mc_070:5:ENEGLD",
+    "mo_030:13:ENEY21",
+    "mp_120:4:ENEGLD",
+    "mp_130:4:FRIGLD"
+   ]
+  },
+  {
+   "game": "シャロン・アップル",
+   "match": "exact",
+   "glossary_ja": "シャロン・アップル",
+   "glossary_en": "Sharon Apple",
+   "count": 8,
+   "seen_in": [
+    "eboot:24EFE0",
+    "mo_030:16:ENEX9G",
+    "mo_050:51:ENEMAC",
+    "mo_060:61:ENEX9G",
+    "mp_151:3:ENEMAC"
+   ]
+  },
+  {
+   "game": "柿崎 速雄",
+   "match": "exact",
+   "glossary_ja": "柿崎速雄",
+   "glossary_en": "Hayao Kakizaki",
+   "count": 7,
+   "seen_in": [
+    "eboot:24EBA8",
+    "mc_030:5:ENEHYO",
+    "mo_030:8:ENEA10",
+    "mo_060:22:ENEA13",
+    "mo_130:9:ENEHYO"
+   ]
+  },
+  {
+   "game": "ゴルグ・ボドルザー",
+   "match": "exact",
+   "glossary_ja": "ゴル・ボドルザー",
+   "glossary_en": "Golg Boddole Zer",
+   "count": 7,
+   "seen_in": [
+    "eboot:24EE78",
+    "mc_130:1:ENEBDZ",
+    "mo_050:47:ENEBDZ",
+    "mo_060:60:ENEBDZ",
+    "mo_150:119:ENEBD2"
+   ]
+  },
+  {
+   "game": "ギギル",
+   "match": "exact",
+   "glossary_ja": "ギギル",
+   "glossary_en": "Gigile",
+   "count": 7,
+   "seen_in": [
+    "eboot:24F2B0",
+    "m7_030:31:ENEGGL",
+    "m7_050:19:ENEGGL",
+    "m7_080:19:ENEGGL",
+    "m7_110:4:ENEGGL"
+   ]
+  },
+  {
+   "game": "グラビル",
+   "match": "exact",
+   "glossary_ja": "グラビル",
+   "glossary_en": "Glavil",
+   "count": 7,
+   "seen_in": [
+    "m7_100:3:ENEGLV",
+    "m7_120:4:ENEGLV",
+    "m7_150:66:ENEGLV",
+    "m7_155:66:ENEGLV",
+    "m7_181:27:ENEGLV"
+   ]
+  },
+  {
+   "game": "ゲペルニッチ",
+   "match": "exact",
+   "glossary_ja": "ゲペルニッチ",
+   "glossary_en": "Gepelnitchi",
+   "count": 6,
+   "seen_in": [
+    "eboot:24F3A0",
+    "m7_182:3:ENEGPR",
+    "mc_160:5:ENEGPR",
+    "mo_050:49:ENEGPR",
+    "mo_060:63:ENEGPR"
+   ]
+  },
+  {
+   "game": "ガビル",
+   "match": "exact",
+   "glossary_ja": "ガビル",
+   "glossary_en": "Gavil",
+   "count": 5,
+   "seen_in": [
+    "eboot:24F328",
+    "m7_120:3:ENEGVL",
+    "m7_181:26:ENEGVL",
+    "md_020:3:ENEGVL",
+    "mo_060:44:ENEAZG"
+   ]
+  },
+  {
+   "game": "ララミア・レレニア",
+   "match": "exact",
+   "glossary_ja": "ララミア・レレニア",
+   "glossary_en": "Raramia Rerenia",
+   "count": 5,
+   "seen_in": [
+    "mf_080:4:ENELAL",
+    "mf_080:7:FRILAL",
+    "mf_085:3:FRI001",
+    "mo_050:46:ENEQLN",
+    "my_010:3:ENELAL"
+   ]
+  },
+  {
+   "game": "ネネ・ローラ",
+   "match": "exact",
+   "glossary_ja": "ネネ・ローラ",
+   "glossary_en": "Nene Rora",
+   "count": 5,
+   "seen_in": [
+    "mf_080:5:ENENEN",
+    "mf_080:8:FRINEN",
+    "mf_085:4:FRI002",
+    "mo_050:45:ENEQLN",
+    "my_010:4:ENENEN"
+   ]
+  },
+  {
+   "game": "ノーラ・ポリャンスキー",
+   "match": "exact",
+   "glossary_ja": "ノーラ・ポリャンスキー",
+   "glossary_en": "Nora Polyansky",
+   "count": 5,
+   "seen_in": [
+    "mo_010:30:ENEC51",
+    "mo_020:32:ENEC51",
+    "mo_030:3:ENEC51",
+    "mo_050:4:ENEC51",
+    "mo_060:58:ENEC51"
+   ]
+  },
+  {
+   "game": "ＤＤ・イワノフ",
+   "match": "exact",
+   "glossary_ja": "D.D.イワノフ",
+   "glossary_en": "D.D. Ivanov",
+   "count": 5,
+   "seen_in": [
+    "mo_010:31:ENEC50",
+    "mo_020:33:ENEC50",
+    "mo_030:4:ENEC50",
+    "mo_050:5:ENEC50",
+    "mo_060:59:ENEC50"
+   ]
+  },
+  {
+   "game": "爆撃機",
+   "match": "exact",
+   "glossary_ja": "爆撃機",
+   "glossary_en": "Bomber",
+   "glossary_file": "mecha",
+   "count": 4,
+   "seen_in": [
+    "mp_090:3:B2B001",
+    "mp_090:4:B2B002",
+    "mp_090:5:B2B003",
+    "mp_090:6:B2B004"
+   ]
+  },
+  {
+   "game": "ミリア",
+   "match": "exact",
+   "glossary_ja": "ミリア・ファリーナ・ジーナス",
+   "glossary_en": "Milia Fallyna Jenius",
+   "count": 4,
+   "seen_in": [
+    "ms_141:4:ENEMIL",
+    "ms_146:3:ENEMIL",
+    "ms_160:3:FRIMAX",
+    "ms_160:14:DEMOMAX"
+   ]
+  },
+  {
+   "game": "ディック",
+   "match": "exact",
+   "glossary_ja": "ディック",
+   "glossary_en": "Dick",
+   "count": 3,
+   "seen_in": [
+    "m7_130:5:FRIDF2",
+    "m7_140:4:FRIDF2",
+    "md_010:6:ENE003"
+   ]
+  },
+  {
+   "game": "モーリー",
+   "match": "exact",
+   "glossary_ja": "モーリー",
+   "glossary_en": "Molly",
+   "count": 3,
+   "seen_in": [
+    "m7_130:6:FRIDF3",
+    "m7_140:5:FRIDF3",
+    "md_010:7:ENE004"
+   ]
+  },
+  {
+   "game": "マックス",
+   "match": "exact",
+   "glossary_ja": "マクシミリアン・ジーナス",
+   "glossary_en": "Maximilian Jenius",
+   "count": 3,
+   "seen_in": [
+    "ms_141:3:FRIMAX",
+    "ms_160:3:FRIMAX",
+    "ms_160:14:DEMOMAX"
+   ]
+  },
+  {
+   "game": "ガムリン",
+   "match": "exact",
+   "glossary_ja": "ガムリン木崎",
+   "glossary_en": "Gamlin Kizaki",
+   "count": 2,
+   "seen_in": [
+    "m7_100:6:FRIGAM",
+    "m7_182:5:FRIGAM"
+   ]
+  },
+  {
+   "game": "ミレーヌ",
+   "match": "exact",
+   "glossary_ja": "ミレーヌ・ジーナス",
+   "glossary_en": "Mylene Flare Jenius",
+   "count": 2,
+   "seen_in": [
+    "m7_100:6:FRIGAM",
+    "m7_182:5:FRIGAM"
+   ]
+  },
+  {
+   "game": "ガビグラ",
+   "match": "exact",
+   "glossary_ja": "ガビグラ",
+   "glossary_en": "Gavigla",
+   "glossary_file": "mecha",
+   "count": 2,
+   "seen_in": [
+    "mc_150:5:ENEGLV",
+    "mo_060:62:ENEGLV"
+   ]
+  },
+  {
+   "game": "女王バジュラ",
+   "match": "exact",
+   "glossary_ja": "バジュラクィーン",
+   "glossary_en": "Vajra Queen",
+   "glossary_file": "mecha",
+   "count": 2,
+   "seen_in": [
+    "mc_170:1:ENEBJQ",
+    "mf_131:0932"
+   ]
+  },
+  {
+   "game": "リン・ミンメイ",
+   "match": "exact",
+   "glossary_ja": "リン・ミンメイ",
+   "glossary_en": "Lynn Minmay",
+   "count": 1,
+   "seen_in": [
+    "eboot:24EC20"
+   ]
+  },
+  {
+   "game": "クラン・クラン（マイクローン）",
+   "match": "exact",
+   "glossary_ja": "クラン・クラン",
+   "glossary_en": "Klan Klang",
+   "count": 1,
+   "seen_in": [
+    "eboot:24F670"
+   ]
+  },
+  {
+   "game": "アルト",
+   "match": "exact",
+   "glossary_ja": "早乙女アルト",
+   "glossary_en": "Alto Saotome",
+   "count": 1,
+   "seen_in": [
+    "mf_061:3:FRIALT"
+   ]
+  },
+  {
+   "game": "ランカ",
+   "match": "exact",
+   "glossary_ja": "ランカ・リー",
+   "glossary_en": "Ranka Lee",
+   "count": 1,
+   "seen_in": [
+    "mf_061:3:FRIALT"
+   ]
+  },
+  {
+   "game": "テムジン",
+   "match": "exact",
+   "glossary_ja": "テムジン",
+   "glossary_en": "Temjin",
+   "count": 1,
+   "seen_in": [
+    "mf_110:71:ENE070"
+   ]
+  },
+  {
+   "game": "金龍",
+   "match": "exact",
+   "glossary_ja": "金龍",
+   "glossary_en": "Kinryu",
+   "count": 1,
+   "seen_in": [
+    "mo_030:19:ENES70"
+   ]
+  },
+  {
+   "game": "ドッカー",
+   "match": "exact",
+   "glossary_ja": "ドッカー",
+   "glossary_en": "Docker",
+   "count": 1,
+   "seen_in": [
+    "mo_030:21:ENED71"
+   ]
+  },
+  {
+   "game": "グレイス・オコナー",
+   "match": "exact",
+   "glossary_ja": "グレイス・オコナー",
+   "glossary_en": "Grace O'Connor",
+   "count": 1,
+   "seen_in": [
+    "mo_050:50:ENEBJQ"
+   ]
+  },
+  {
+   "game": "ガルド・ボア・ボーマン",
+   "match": "exact",
+   "glossary_ja": "ガルド・ゴア・ボーマン",
+   "glossary_en": "Guld Goa Bowman",
+   "count": 1,
+   "seen_in": [
+    "mo_060:33:ENEY21"
+   ]
+  },
+  {
+   "game": "ヘンリー・ギリアム",
+   "match": "exact",
+   "glossary_ja": "ヘンリー・ギリアム",
+   "glossary_en": "Henry Gilliam",
+   "count": 1,
+   "seen_in": [
+    "mo_060:51:ENE250"
+   ]
+  },
+  {
+   "game": "バカタール加藤",
+   "match": "exact",
+   "glossary_ja": "バカタール加藤",
+   "glossary_en": "Bakataru Kato",
+   "count": 1,
+   "seen_in": [
+    "mo_120:21:ENEBTI"
+   ]
+  },
+  {
+   "game": "浜村通信",
+   "match": "exact",
+   "glossary_ja": "浜村通信",
+   "glossary_en": "Hamamura Tsushin",
+   "count": 1,
+   "seen_in": [
+    "mo_120:40:ENEBD2"
+   ]
+  },
+  {
+   "game": "倉西編集長",
+   "match": "exact",
+   "glossary_ja": "倉西編集長",
+   "glossary_en": "Editor-in-Chief Kuranishi",
+   "count": 1,
+   "seen_in": [
+    "mo_140:7:ENE005"
+   ]
+  }
+ ],
+ "mecha": [
+  {
+   "game": "ＶＦ－１Ａ（Ｆ） 一条機",
+   "match": "partial",
+   "glossary_ja": "VF-1A バルキリー",
+   "glossary_en": "VF-1A Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259848"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｓ（Ｆ） 一条機",
+   "match": "partial",
+   "glossary_ja": "VF-1S バルキリー",
+   "glossary_en": "VF-1S Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259884"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｓ（Ｆ） フォッカー機",
+   "match": "partial",
+   "glossary_ja": "VF-1S バルキリー",
+   "glossary_en": "VF-1S Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:2598C0"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｊ（Ａ） 一条機",
+   "match": "partial",
+   "glossary_ja": "VF-1J バルキリー",
+   "glossary_en": "VF-1J Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259904"
+   ]
+  },
+  {
+   "game": "ゴースト（ルカ機）",
+   "match": "variant",
+   "glossary_ja": "X-9 ゴースト",
+   "glossary_en": "X-9 Ghost",
+   "count": 1,
+   "seen_in": [
+    "eboot:2594FC"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｊ 一条機",
+   "match": "variant",
+   "glossary_ja": "VF-1J バルキリー",
+   "glossary_en": "VF-1J Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:2596CC"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｊ マックス機",
+   "match": "variant",
+   "glossary_ja": "VF-1J バルキリー",
+   "glossary_en": "VF-1J Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259704"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｊ ミリア機",
+   "match": "variant",
+   "glossary_ja": "VF-1J バルキリー",
+   "glossary_en": "VF-1J Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259740"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｓ フォッカー機",
+   "match": "variant",
+   "glossary_ja": "VF-1S バルキリー",
+   "glossary_en": "VF-1S Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259778"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ａ マックス機",
+   "match": "variant",
+   "glossary_ja": "VF-1A バルキリー",
+   "glossary_en": "VF-1A Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:25980C"
+   ]
+  },
+  {
+   "game": "ＶＦ－１７Ｓ ミリア機",
+   "match": "variant",
+   "glossary_ja": "VF-17S ステルスバルキリー",
+   "glossary_en": "VF-17S Stealth Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259CCC"
+   ]
+  },
+  {
+   "game": "ＶＦ－２２Ｓ マックス機",
+   "match": "variant",
+   "glossary_ja": "VF-22S シュトゥルムフォーゲルII",
+   "glossary_en": "VF-22S Sturmvogel II",
+   "count": 1,
+   "seen_in": [
+    "eboot:259D34"
+   ]
+  },
+  {
+   "game": "ＶＦ－２２Ｓ ミリア機",
+   "match": "variant",
+   "glossary_ja": "VF-22S シュトゥルムフォーゲルII",
+   "glossary_en": "VF-22S Sturmvogel II",
+   "count": 1,
+   "seen_in": [
+    "eboot:259D70"
+   ]
+  },
+  {
+   "game": "ＶＦ－０Ｓ フォッカー機",
+   "match": "variant",
+   "glossary_ja": "VF-0S フェニックス",
+   "glossary_en": "VF-0S Phoenix",
+   "count": 1,
+   "seen_in": [
+    "eboot:259E38"
+   ]
+  },
+  {
+   "game": "ＳＶ－５１γ ノーラ機",
+   "match": "variant",
+   "glossary_ja": "SV-51γ",
+   "glossary_en": "SV-51γ",
+   "count": 1,
+   "seen_in": [
+    "eboot:259EA4"
+   ]
+  },
+  {
+   "game": "ＳＶ－５１γ イワノフ機",
+   "match": "variant",
+   "glossary_ja": "SV-51γ",
+   "glossary_en": "SV-51γ",
+   "count": 1,
+   "seen_in": [
+    "eboot:259EE0"
+   ]
+  },
+  {
+   "game": "クァドラン・レア クラン機",
+   "match": "variant",
+   "glossary_ja": "クァドラン・レア",
+   "glossary_en": "Queadluun-Rhea",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A0A4"
+   ]
+  },
+  {
+   "game": "バジュラ（Ｌ）",
+   "match": "variant",
+   "glossary_ja": "バジュラ",
+   "glossary_en": "Vajra",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A0E4"
+   ]
+  },
+  {
+   "game": "バジュラ（Ｓ）",
+   "match": "variant",
+   "glossary_ja": "バジュラ",
+   "glossary_en": "Vajra",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A300"
+   ]
+  },
+  {
+   "game": "扉（バジュラ艦内部）",
+   "match": "variant",
+   "glossary_ja": "扉（戦艦内部）",
+   "glossary_en": "door (battleship interior)",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A408"
+   ]
+  },
+  {
+   "game": "スイッチ（バジュラ艦内部）",
+   "match": "variant",
+   "glossary_ja": "スイッチ（戦艦内部）",
+   "glossary_en": "switch (battleship interior)",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A450"
+   ]
+  },
+  {
+   "game": "キャッツアイ",
+   "match": "exact",
+   "glossary_ja": "キャッツアイ",
+   "glossary_en": "Cat's Eye",
+   "count": 1,
+   "seen_in": [
+    "eboot:259044"
+   ]
+  },
+  {
+   "game": "マクロス",
+   "match": "exact",
+   "glossary_ja": "SDF-1 マクロス",
+   "glossary_en": "SDF-1 Macross",
+   "count": 1,
+   "seen_in": [
+    "eboot:259068"
+   ]
+  },
+  {
+   "game": "空戦ポッド",
+   "match": "exact",
+   "glossary_ja": "空戦ポッド",
+   "glossary_en": "Air Combat Pod",
+   "count": 1,
+   "seen_in": [
+    "eboot:259084"
+   ]
+  },
+  {
+   "game": "ケル・カリア",
+   "match": "exact",
+   "glossary_ja": "ケルカリア",
+   "glossary_en": "Quel-Quallie",
+   "count": 1,
+   "seen_in": [
+    "eboot:2590A0"
+   ]
+  },
+  {
+   "game": "重攻撃機",
+   "match": "exact",
+   "glossary_ja": "重攻撃機",
+   "glossary_en": "Heavy Attack Craft",
+   "count": 1,
+   "seen_in": [
+    "eboot:2590C4"
+   ]
+  },
+  {
+   "game": "ピケット艦",
+   "match": "exact",
+   "glossary_ja": "ピケット艦",
+   "glossary_en": "picket ship",
+   "count": 1,
+   "seen_in": [
+    "eboot:2590EC"
+   ]
+  },
+  {
+   "game": "ドローン",
+   "match": "exact",
+   "glossary_ja": "ドローン",
+   "glossary_en": "Drone",
+   "count": 1,
+   "seen_in": [
+    "eboot:2591E0"
+   ]
+  },
+  {
+   "game": "爆撃機",
+   "match": "exact",
+   "glossary_ja": "爆撃機",
+   "glossary_en": "Bomber",
+   "count": 1,
+   "seen_in": [
+    "eboot:2591FC"
+   ]
+  },
+  {
+   "game": "バロータ艦",
+   "match": "exact",
+   "glossary_ja": "バロータ艦",
+   "glossary_en": "Varauta ship",
+   "count": 1,
+   "seen_in": [
+    "eboot:25942C"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ｄ",
+   "match": "exact",
+   "glossary_ja": "VF-1D バルキリー",
+   "glossary_en": "VF-1D Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:2597B4"
+   ]
+  },
+  {
+   "game": "ＶＦ－１Ａ",
+   "match": "exact",
+   "glossary_ja": "VF-1A バルキリー",
+   "glossary_en": "VF-1A Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:2597E0"
+   ]
+  },
+  {
+   "game": "ディフェンダー",
+   "match": "exact",
+   "glossary_ja": "ADR-04-Mk.X ディフェンダー",
+   "glossary_en": "ADR-04-Mk X Defender",
+   "count": 1,
+   "seen_in": [
+    "eboot:259940"
+   ]
+  },
+  {
+   "game": "スパルタン",
+   "match": "exact",
+   "glossary_ja": "MBR-07-Mk.II スパルタン",
+   "glossary_en": "MBR-07-Mk II Spartan",
+   "count": 1,
+   "seen_in": [
+    "eboot:259974"
+   ]
+  },
+  {
+   "game": "ファランクス",
+   "match": "exact",
+   "glossary_ja": "SDR-04-Mk.XII ファランクス",
+   "glossary_en": "SDR-04-Mk XII Phalanx",
+   "count": 1,
+   "seen_in": [
+    "eboot:2599A0"
+   ]
+  },
+  {
+   "game": "トマホーク",
+   "match": "exact",
+   "glossary_ja": "MBR-04-Mk-IV トマホーク",
+   "glossary_en": "MBR-04-Mk IV Tomahawk",
+   "count": 1,
+   "seen_in": [
+    "eboot:2599D0"
+   ]
+  },
+  {
+   "game": "モンスター",
+   "match": "exact",
+   "glossary_ja": "HWR-00-Mk.II モンスター",
+   "glossary_en": "HWR-00-Mk II Monster",
+   "count": 1,
+   "seen_in": [
+    "eboot:259A00"
+   ]
+  },
+  {
+   "game": "リガード",
+   "match": "exact",
+   "glossary_ja": "リガード",
+   "glossary_en": "Regult",
+   "count": 1,
+   "seen_in": [
+    "eboot:259A2C"
+   ]
+  },
+  {
+   "game": "グラージ",
+   "match": "exact",
+   "glossary_ja": "グラージ",
+   "glossary_en": "Glaug",
+   "count": 1,
+   "seen_in": [
+    "eboot:259A58"
+   ]
+  },
+  {
+   "game": "ヌージャデル・ガー",
+   "match": "exact",
+   "glossary_ja": "ヌージャデル・ガー",
+   "glossary_en": "Nousjadeul-Ger",
+   "count": 1,
+   "seen_in": [
+    "eboot:259A84"
+   ]
+  },
+  {
+   "game": "クァドラン・ロー",
+   "match": "exact",
+   "glossary_ja": "クァドラン・ロー",
+   "glossary_en": "Queadluun-Rau",
+   "count": 1,
+   "seen_in": [
+    "eboot:259AB8"
+   ]
+  },
+  {
+   "game": "クァドラン・ロー ミリア機",
+   "match": "exact",
+   "glossary_ja": "クァドラン・ロー",
+   "glossary_en": "Queadluun-Rau",
+   "count": 1,
+   "seen_in": [
+    "eboot:259AEC"
+   ]
+  },
+  {
+   "game": "クァドラン・ロー マックス機",
+   "match": "exact",
+   "glossary_ja": "クァドラン・ロー",
+   "glossary_en": "Queadluun-Rau",
+   "count": 1,
+   "seen_in": [
+    "eboot:259B2C"
+   ]
+  },
+  {
+   "game": "ブリタイ・クリダニク",
+   "match": "exact",
+   "glossary_ja": "ブリタイ・クリダニク",
+   "glossary_en": "Vrlitwhai Kridanik",
+   "glossary_file": "character",
+   "count": 1,
+   "seen_in": [
+    "eboot:259BA4"
+   ]
+  },
+  {
+   "game": "ＹＦ－１９",
+   "match": "exact",
+   "glossary_ja": "YF-19",
+   "glossary_en": "YF-19",
+   "count": 1,
+   "seen_in": [
+    "eboot:259BE0"
+   ]
+  },
+  {
+   "game": "ＶＦ－１１Ｃ",
+   "match": "exact",
+   "glossary_ja": "VF-11C サンダーボルト",
+   "glossary_en": "VF-11C Thunderbolt",
+   "count": 1,
+   "seen_in": [
+    "eboot:259C0C"
+   ]
+  },
+  {
+   "game": "ＶＦ－１１Ｂ",
+   "match": "exact",
+   "glossary_ja": "VF-11B サンダーボルト",
+   "glossary_en": "VF-11B Thunderbolt",
+   "count": 1,
+   "seen_in": [
+    "eboot:259C3C"
+   ]
+  },
+  {
+   "game": "ＶＦ－１７Ｄ",
+   "match": "exact",
+   "glossary_ja": "VF-17D ステルスバルキリー",
+   "glossary_en": "VF-17D Stealth Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259C6C"
+   ]
+  },
+  {
+   "game": "ＶＦ－１７Ｓ",
+   "match": "exact",
+   "glossary_ja": "VF-17S ステルスバルキリー",
+   "glossary_en": "VF-17S Stealth Valkyrie",
+   "count": 1,
+   "seen_in": [
+    "eboot:259C9C"
+   ]
+  },
+  {
+   "game": "ＹＦ－２１",
+   "match": "exact",
+   "glossary_ja": "YF-21",
+   "glossary_en": "YF-21",
+   "count": 1,
+   "seen_in": [
+    "eboot:259D08"
+   ]
+  },
+  {
+   "game": "Ｆｚ－１０９Ａ",
+   "match": "exact",
+   "glossary_ja": "Fz-109A エルガーゾルン",
+   "glossary_en": "Fz-109A Elgersoln",
+   "count": 1,
+   "seen_in": [
+    "eboot:259DAC"
+   ]
+  },
+  {
+   "game": "Ｆｚ－１０９Ｆ",
+   "match": "exact",
+   "glossary_ja": "Fz-109F エルガーゾルン",
+   "glossary_en": "Fz-109F Elgersoln",
+   "count": 1,
+   "seen_in": [
+    "eboot:259DDC"
+   ]
+  },
+  {
+   "game": "グラビル",
+   "match": "exact",
+   "glossary_ja": "グラビル",
+   "glossary_en": "Glavil",
+   "count": 1,
+   "seen_in": [
+    "eboot:259E0C"
+   ]
+  },
+  {
+   "game": "ＳＶ－５１α",
+   "match": "exact",
+   "glossary_ja": "SV-51α",
+   "glossary_en": "SV-51α",
+   "count": 1,
+   "seen_in": [
+    "eboot:259E74"
+   ]
+  },
+  {
+   "game": "ＶＦ－２５Ｆ",
+   "match": "exact",
+   "glossary_ja": "VF-25F メサイア",
+   "glossary_en": "VF-25F Messiah",
+   "count": 1,
+   "seen_in": [
+    "eboot:259F1C"
+   ]
+  },
+  {
+   "game": "ＶＦ－２５Ｓ",
+   "match": "exact",
+   "glossary_ja": "VF-25S メサイア",
+   "glossary_en": "VF-25S Messiah",
+   "count": 1,
+   "seen_in": [
+    "eboot:259F4C"
+   ]
+  },
+  {
+   "game": "ＶＦ－２５Ｇ",
+   "match": "exact",
+   "glossary_ja": "VF-25G メサイア",
+   "glossary_en": "VF-25G Messiah",
+   "count": 1,
+   "seen_in": [
+    "eboot:259F7C"
+   ]
+  },
+  {
+   "game": "ＲＶＦ－２５",
+   "match": "exact",
+   "glossary_ja": "RVF-25 メサイア",
+   "glossary_en": "RVF-25 Messiah",
+   "count": 1,
+   "seen_in": [
+    "eboot:259FAC"
+   ]
+  },
+  {
+   "game": "ＶＦ－１７１",
+   "match": "exact",
+   "glossary_ja": "VF-171 ナイトメアプラス",
+   "glossary_en": "VF-171 Nightmare Plus",
+   "count": 1,
+   "seen_in": [
+    "eboot:259FDC"
+   ]
+  },
+  {
+   "game": "ＶＦ－１７１ＥＸ",
+   "match": "exact",
+   "glossary_ja": "VF-171EX ナイトメアプラスEX",
+   "glossary_en": "VF-171EX Nightmare Plus EX",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A00C"
+   ]
+  },
+  {
+   "game": "ＶＦ－２７",
+   "match": "exact",
+   "glossary_ja": "VF-27 ルシファー",
+   "glossary_en": "VF-27 Lucifer",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A044"
+   ]
+  },
+  {
+   "game": "クァドラン・レア",
+   "match": "exact",
+   "glossary_ja": "クァドラン・レア",
+   "glossary_en": "Queadluun-Rhea",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A070"
+   ]
+  },
+  {
+   "game": "ゴースト",
+   "match": "exact",
+   "glossary_ja": "X-9 ゴースト",
+   "glossary_en": "X-9 Ghost",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A324"
+   ]
+  },
+  {
+   "game": "パンツァーゾルン",
+   "match": "exact",
+   "glossary_ja": "Az-130 パンツァーゾルン",
+   "glossary_en": "Az-130 Panzersoln",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A338"
+   ]
+  },
+  {
+   "game": "ザウバーゲラン",
+   "match": "exact",
+   "glossary_ja": "FBz-99G ザウバーゲラン",
+   "glossary_en": "FBz-99G Zaubergeran",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A360"
+   ]
+  },
+  {
+   "game": "隕石群",
+   "match": "exact",
+   "glossary_ja": "隕石群",
+   "glossary_en": "asteroid field",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A3C8"
+   ]
+  },
+  {
+   "game": "扉（戦艦内部）",
+   "match": "exact",
+   "glossary_ja": "扉（戦艦内部）",
+   "glossary_en": "door (battleship interior)",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A3E8"
+   ]
+  },
+  {
+   "game": "スイッチ（戦艦内部）",
+   "match": "exact",
+   "glossary_ja": "スイッチ（戦艦内部）",
+   "glossary_en": "switch (battleship interior)",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A428"
+   ]
+  },
+  {
+   "game": "バジュラ繭",
+   "match": "exact",
+   "glossary_ja": "バジュラ繭",
+   "glossary_en": "Vajra Cocoon",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A4B4"
+   ]
+  },
+  {
+   "game": "半身マクロス",
+   "match": "exact",
+   "glossary_ja": "半身マクロス",
+   "glossary_en": "",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A510"
+   ]
+  },
+  {
+   "game": "集積所",
+   "match": "exact",
+   "glossary_ja": "集積所",
+   "glossary_en": "depot",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A6C0"
+   ]
+  }
+ ],
+ "organization": [
+  {
+   "game": "民間軍",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:2603B4",
+    "eboot:260644"
+   ]
+  },
+  {
+   "game": "巨大移民船団",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:260EC8",
+    "eboot:26D554"
+   ]
+  },
+  {
+   "game": "エースのミリア",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:26D3FC",
+    "eboot:27BF7C"
+   ]
+  },
+  {
+   "game": "マクロスプラス",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:2705B0",
+    "eboot:27F39C"
+   ]
+  },
+  {
+   "game": "ルーム",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:270D94",
+    "eboot:270DD8"
+   ]
+  },
+  {
+   "game": "マクロスF",
+   "match": "gap",
+   "count": 2,
+   "seen_in": [
+    "eboot:27F480",
+    "eboot:27F4C8"
+   ]
+  },
+  {
+   "game": "地上部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B160"
+   ]
+  },
+  {
+   "game": "上部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B1AC"
+   ]
+  },
+  {
+   "game": "巨大異星人地上部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B1AC"
+   ]
+  },
+  {
+   "game": "異星人艦隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B478"
+   ]
+  },
+  {
+   "game": "敵艦隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B7C4"
+   ]
+  },
+  {
+   "game": "ダイダロス・アタッ\nク",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25B7C4"
+   ]
+  },
+  {
+   "game": "援軍",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25BBF0"
+   ]
+  },
+  {
+   "game": "偵察部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25BD38"
+   ]
+  },
+  {
+   "game": "救出部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25C058"
+   ]
+  },
+  {
+   "game": "スーパー・ノヴァ\n計画",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25D9B8"
+   ]
+  },
+  {
+   "game": "残存部隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:25F90C"
+   ]
+  },
+  {
+   "game": "敵船団",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:2600AC"
+   ]
+  },
+  {
+   "game": "アニマスピリチア",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:26024C"
+   ]
+  },
+  {
+   "game": "正規軍",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:260644"
+   ]
+  },
+  {
+   "game": "ロ\nイ・フォッカー勲章",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:262BB0"
+   ]
+  },
+  {
+   "game": "第２１次新マクロス級移民船団",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:269A04"
+   ]
+  },
+  {
+   "game": "大規模移民船団",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:26D064"
+   ]
+  },
+  {
+   "game": "次移民船団",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:26D29C"
+   ]
+  },
+  {
+   "game": "ゼントラ艦隊",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:26E5CC"
+   ]
+  },
+  {
+   "game": "ミンメイ・アタック",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:27BE18"
+   ]
+  },
+  {
+   "game": "私設特務軍",
+   "match": "gap",
+   "count": 1,
+   "seen_in": [
+    "eboot:27CC3C"
+   ]
+  },
+  {
+   "game": "ディ軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 5,
+   "seen_in": [
+    "eboot:25C4F0",
+    "eboot:25CABC",
+    "eboot:25D878",
+    "eboot:25E3B4",
+    "eboot:25E3B4"
+   ]
+  },
+  {
+   "game": "基幹艦隊",
+   "match": "partial",
+   "glossary_ja": "ボドル基幹艦隊",
+   "glossary_en": "Boddole Zer Main Fleet",
+   "count": 4,
+   "seen_in": [
+    "eboot:25C794",
+    "eboot:25C918",
+    "eboot:25CA68",
+    "eboot:25CABC"
+   ]
+  },
+  {
+   "game": "Ｓスカル小隊",
+   "match": "partial",
+   "glossary_ja": "スカル小隊",
+   "glossary_en": "Skull Squadron",
+   "count": 3,
+   "seen_in": [
+    "eboot:2630DC",
+    "eboot:269400",
+    "eboot:27CC3C"
+   ]
+  },
+  {
+   "game": "マクロス７",
+   "match": "partial",
+   "glossary_ja": "マクロス7船団",
+   "glossary_en": "Macross 7 fleet",
+   "count": 3,
+   "seen_in": [
+    "eboot:2705E0",
+    "eboot:27F3E4",
+    "eboot:27F434"
+   ]
+  },
+  {
+   "game": "ロータ軍",
+   "match": "partial",
+   "glossary_ja": "バロータ軍",
+   "glossary_en": "Varauta Army",
+   "count": 2,
+   "seen_in": [
+    "eboot:25F25C",
+    "eboot:25F3B8"
+   ]
+  },
+  {
+   "game": "統合政府",
+   "match": "partial",
+   "glossary_ja": "地球統合政府",
+   "glossary_en": "U.N. Government",
+   "count": 2,
+   "seen_in": [
+    "eboot:2607B0",
+    "eboot:26CE7C"
+   ]
+  },
+  {
+   "game": "元ゼントラーディ軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 2,
+   "seen_in": [
+    "eboot:27BCB0",
+    "eboot:27C74C"
+   ]
+  },
+  {
+   "game": "Ｓピクシー小隊",
+   "match": "partial",
+   "glossary_ja": "ピクシー小隊",
+   "glossary_en": "Pixie Team",
+   "count": 2,
+   "seen_in": [
+    "eboot:27CCEC",
+    "eboot:27CDA8"
+   ]
+  },
+  {
+   "game": "トラーディ軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:25C4F0"
+   ]
+  },
+  {
+   "game": "ル基幹艦隊",
+   "match": "partial",
+   "glossary_ja": "ボドル基幹艦隊",
+   "glossary_en": "Boddole Zer Main Fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:25D57C"
+   ]
+  },
+  {
+   "game": "ラーディ軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:25E8DC"
+   ]
+  },
+  {
+   "game": "中バロータ軍",
+   "match": "partial",
+   "glossary_ja": "バロータ軍",
+   "glossary_en": "Varauta Army",
+   "count": 1,
+   "seen_in": [
+    "eboot:25F108"
+   ]
+  },
+  {
+   "game": "タ軍",
+   "match": "partial",
+   "glossary_ja": "バロータ軍",
+   "glossary_en": "Varauta Army",
+   "count": 1,
+   "seen_in": [
+    "eboot:25F108"
+   ]
+  },
+  {
+   "game": "ゼントラーディ一個艦隊",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:25F538"
+   ]
+  },
+  {
+   "game": "クロス７船団",
+   "match": "partial",
+   "glossary_ja": "マクロス7船団",
+   "glossary_en": "Macross 7 fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:25FA54"
+   ]
+  },
+  {
+   "game": "合軍",
+   "match": "partial",
+   "glossary_ja": "地球統合軍",
+   "glossary_en": "U.N. Forces",
+   "count": 1,
+   "seen_in": [
+    "eboot:260644"
+   ]
+  },
+  {
+   "game": "カル小隊",
+   "match": "partial",
+   "glossary_ja": "スカル小隊",
+   "glossary_en": "Skull Squadron",
+   "count": 1,
+   "seen_in": [
+    "eboot:260AC0"
+   ]
+  },
+  {
+   "game": "再度フロンティア船団",
+   "match": "partial",
+   "glossary_ja": "マクロス・フロンティア船団",
+   "glossary_en": "Macross Frontier fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:260C04"
+   ]
+  },
+  {
+   "game": "ギャラクシー船団",
+   "match": "partial",
+   "glossary_ja": "マクロス・ギャラクシー船団",
+   "glossary_en": "Macross Galaxy fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:260E84"
+   ]
+  },
+  {
+   "game": "ゼントラーディ人叛乱軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:261178"
+   ]
+  },
+  {
+   "game": "盟軍",
+   "match": "partial",
+   "glossary_ja": "反統合同盟",
+   "glossary_en": "Anti-U.N. Forces",
+   "count": 1,
+   "seen_in": [
+    "eboot:26171C"
+   ]
+  },
+  {
+   "game": "一部ゼントラーディ軍",
+   "match": "partial",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:26D1DC"
+   ]
+  },
+  {
+   "game": "マクロス・フロンティア",
+   "match": "partial",
+   "glossary_ja": "マクロス・フロンティア船団",
+   "glossary_en": "Macross Frontier fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:26D554"
+   ]
+  },
+  {
+   "game": "一方マクロス７船団",
+   "match": "partial",
+   "glossary_ja": "マクロス7船団",
+   "glossary_en": "Macross 7 fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:26DDF0"
+   ]
+  },
+  {
+   "game": "マクロスフロンティア",
+   "match": "partial",
+   "glossary_ja": "マクロス・フロンティア船団",
+   "glossary_en": "Macross Frontier fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:27060C"
+   ]
+  },
+  {
+   "game": "ゼントラーディ軍",
+   "match": "variant",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 58,
+   "seen_in": [
+    "eboot:25C018",
+    "eboot:25C364",
+    "eboot:25C4A8",
+    "eboot:25C64C",
+    "eboot:25C64C"
+   ]
+  },
+  {
+   "game": "ゼントラーディ艦隊",
+   "match": "variant",
+   "glossary_ja": "ゼントラーディ",
+   "glossary_en": "Zentradi",
+   "count": 1,
+   "seen_in": [
+    "eboot:264954"
+   ]
+  },
+  {
+   "game": "メルトランディ軍",
+   "match": "variant",
+   "glossary_ja": "メルトランディ",
+   "glossary_en": "Meltrandi",
+   "count": 1,
+   "seen_in": [
+    "eboot:267D2C"
+   ]
+  },
+  {
+   "game": "バロータ軍",
+   "match": "exact",
+   "glossary_ja": "バロータ軍",
+   "glossary_en": "Varauta Army",
+   "count": 31,
+   "seen_in": [
+    "eboot:259230",
+    "eboot:259264",
+    "eboot:2592A4",
+    "eboot:2592E4",
+    "eboot:259324"
+   ]
+  },
+  {
+   "game": "統合軍",
+   "match": "exact",
+   "glossary_ja": "地球統合軍",
+   "glossary_en": "U.N. Forces",
+   "count": 22,
+   "seen_in": [
+    "eboot:25AE9C",
+    "eboot:25BBF0",
+    "eboot:25C1D4",
+    "eboot:25C64C",
+    "eboot:25EB90"
+   ]
+  },
+  {
+   "game": "マクロス７船団",
+   "match": "exact",
+   "glossary_ja": "マクロス7船団",
+   "glossary_en": "Macross 7 fleet",
+   "count": 20,
+   "seen_in": [
+    "eboot:25E794",
+    "eboot:25E89C",
+    "eboot:25E8DC",
+    "eboot:25EB90",
+    "eboot:25F538"
+   ]
+  },
+  {
+   "game": "新統合軍",
+   "match": "exact",
+   "glossary_ja": "新統合軍",
+   "glossary_en": "New U.N. Forces",
+   "count": 16,
+   "seen_in": [
+    "eboot:25E480",
+    "eboot:25E4B4",
+    "eboot:25E4B4",
+    "eboot:25E614",
+    "eboot:25E614"
+   ]
+  },
+  {
+   "game": "反統合同盟",
+   "match": "exact",
+   "glossary_ja": "反統合同盟",
+   "glossary_en": "Anti-U.N. Forces",
+   "count": 8,
+   "seen_in": [
+    "eboot:2616EC",
+    "eboot:26171C",
+    "eboot:261848",
+    "eboot:261880",
+    "eboot:269E64"
+   ]
+  },
+  {
+   "game": "フロンティア船団",
+   "match": "exact",
+   "glossary_ja": "マクロス・フロンティア船団",
+   "glossary_en": "Macross Frontier fleet",
+   "count": 3,
+   "seen_in": [
+    "eboot:260AC0",
+    "eboot:260EC8",
+    "eboot:26916C"
+   ]
+  },
+  {
+   "game": "ピクシー小隊",
+   "match": "exact",
+   "glossary_ja": "ピクシー小隊",
+   "glossary_en": "Pixie Team",
+   "count": 3,
+   "seen_in": [
+    "eboot:263220",
+    "eboot:2697B8",
+    "eboot:27EF94"
+   ]
+  },
+  {
+   "game": "ボドル基幹艦隊",
+   "match": "exact",
+   "glossary_ja": "ボドル基幹艦隊",
+   "glossary_en": "Boddole Zer Main Fleet",
+   "count": 2,
+   "seen_in": [
+    "eboot:25D530",
+    "eboot:26D6A4"
+   ]
+  },
+  {
+   "game": "スカル小隊",
+   "match": "exact",
+   "glossary_ja": "スカル小隊",
+   "glossary_en": "Skull Squadron",
+   "count": 2,
+   "seen_in": [
+    "eboot:260A88",
+    "eboot:27ECE0"
+   ]
+  },
+  {
+   "game": "反統合軍",
+   "match": "exact",
+   "glossary_ja": "反統合同盟",
+   "glossary_en": "Anti-U.N. Forces",
+   "count": 2,
+   "seen_in": [
+    "eboot:269CD0",
+    "eboot:269DD0"
+   ]
+  },
+  {
+   "game": "新統合政府",
+   "match": "exact",
+   "glossary_ja": "新統合政府",
+   "glossary_en": "New U.N. Government",
+   "count": 2,
+   "seen_in": [
+    "eboot:26D15C",
+    "eboot:26D7B8"
+   ]
+  },
+  {
+   "game": "マクロス",
+   "match": "exact",
+   "glossary_ja": "SDF-1 マクロス",
+   "glossary_en": "SDF-1 Macross",
+   "glossary_file": "mecha",
+   "count": 1,
+   "seen_in": [
+    "eboot:25AE9C"
+   ]
+  },
+  {
+   "game": "バルキ\nリー",
+   "match": "exact",
+   "glossary_ja": "VF-1D バルキリー",
+   "glossary_en": "VF-1D Valkyrie",
+   "glossary_file": "mecha",
+   "count": 1,
+   "seen_in": [
+    "eboot:25AE9C"
+   ]
+  },
+  {
+   "game": "マクロス５船団",
+   "match": "exact",
+   "glossary_ja": "マクロス５船団",
+   "glossary_en": "Macross 5 fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:25F3B8"
+   ]
+  },
+  {
+   "game": "地球統合軍",
+   "match": "exact",
+   "glossary_ja": "地球統合軍",
+   "glossary_en": "U.N. Forces",
+   "count": 1,
+   "seen_in": [
+    "eboot:25FB90"
+   ]
+  },
+  {
+   "game": "フロンティア行政府",
+   "match": "exact",
+   "glossary_ja": "フロンティア行政府",
+   "glossary_en": "Frontier Administrative Bureau",
+   "count": 1,
+   "seen_in": [
+    "eboot:260644"
+   ]
+  },
+  {
+   "game": "第１１７調査船団",
+   "match": "exact",
+   "glossary_ja": "第１１７調査船団",
+   "glossary_en": "117th Research Fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:26136C"
+   ]
+  },
+  {
+   "game": "イワノフ",
+   "match": "exact",
+   "glossary_ja": "D.D.イワノフ",
+   "glossary_en": "D.D. Ivanov",
+   "glossary_file": "character",
+   "count": 1,
+   "seen_in": [
+    "eboot:269CD0"
+   ]
+  },
+  {
+   "game": "ブリタイ艦隊",
+   "match": "exact",
+   "glossary_ja": "ブリタイ艦隊",
+   "glossary_en": "Vrlitwhai's fleet",
+   "count": 1,
+   "seen_in": [
+    "eboot:26D720"
+   ]
+  },
+  {
+   "game": "シビル",
+   "match": "exact",
+   "glossary_ja": "シビル",
+   "glossary_en": "Sivil",
+   "glossary_file": "character",
+   "count": 1,
+   "seen_in": [
+    "eboot:27C818"
+   ]
+  },
+  {
+   "game": "パープル小隊",
+   "match": "exact",
+   "glossary_ja": "パープル小隊",
+   "glossary_en": "Purple Flight",
+   "count": 1,
+   "seen_in": [
+    "eboot:27E760"
+   ]
+  },
+  {
+   "game": "バーミリオン小隊",
+   "match": "exact",
+   "glossary_ja": "バーミリオン小隊",
+   "glossary_en": "Vermillion Flight",
+   "count": 1,
+   "seen_in": [
+    "eboot:27ED3C"
+   ]
+  }
+ ],
+ "object": [
+  {
+   "game": "空母",
+   "match": "partial",
+   "glossary_ja": "アームド級宇宙空母",
+   "glossary_en": "ARMD-class space carrier",
+   "count": 8,
+   "seen_in": [
+    "mo_020:3:HYK000",
+    "mo_020:4:HYK001",
+    "mp_100:3:HYK001",
+    "mp_100:4:HYK002",
+    "mp_100:5:HYK003"
+   ]
+  },
+  {
+   "game": "壊れないコンテナ",
+   "match": "partial",
+   "glossary_ja": "コンテナ",
+   "glossary_en": "Container",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A388"
+   ]
+  },
+  {
+   "game": "壊せるコンテナ",
+   "match": "partial",
+   "glossary_ja": "コンテナ",
+   "glossary_en": "Container",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A3B0"
+   ]
+  },
+  {
+   "game": "基地（サブターゲット）",
+   "match": "variant",
+   "glossary_ja": "基地",
+   "glossary_en": "Base",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A4F0"
+   ]
+  },
+  {
+   "game": "コンテナ",
+   "match": "exact",
+   "glossary_ja": "コンテナ",
+   "glossary_en": "Container",
+   "count": 4,
+   "seen_in": [
+    "ms_070:5:BOX01",
+    "ms_070:6:BOX02",
+    "ms_070:7:BOX03",
+    "ms_070:8:BOX04"
+   ]
+  },
+  {
+   "game": "基地",
+   "match": "exact",
+   "glossary_ja": "基地",
+   "glossary_en": "Base",
+   "count": 2,
+   "seen_in": [
+    "eboot:25A4D8",
+    "mp_110:3:BAS001"
+   ]
+  },
+  {
+   "game": "汎用空母",
+   "match": "exact",
+   "glossary_ja": "汎用空母",
+   "glossary_en": "Multipurpose Carrier",
+   "count": 1,
+   "seen_in": [
+    "eboot:259214"
+   ]
+  },
+  {
+   "game": "バロータ軍艦隊旗艦宇宙空母",
+   "match": "exact",
+   "glossary_ja": "バロータ軍艦隊旗艦宇宙空母",
+   "glossary_en": "Varauta Fleet Flagship Carrier",
+   "count": 1,
+   "seen_in": [
+    "eboot:259230"
+   ]
+  },
+  {
+   "game": "空母級バジュラ艦",
+   "match": "exact",
+   "glossary_ja": "空母級バジュラ艦",
+   "glossary_en": "Carrier-class Vajra",
+   "count": 1,
+   "seen_in": [
+    "eboot:259520"
+   ]
+  },
+  {
+   "game": "ターゲット",
+   "match": "exact",
+   "glossary_ja": "ターゲット",
+   "glossary_en": "Target",
+   "count": 1,
+   "seen_in": [
+    "eboot:25A4A0"
+   ]
+  }
+ ],
+ "character_unused_glossary": [
+  "カグラ・ユウト",
+  "シラカワ・ミユキ",
+  "ゲイリー・マードック",
+  "ヒルダ・V・ベルゲン",
+  "サラ・ノーム",
+  "エキセドル・フォルモ",
+  "ラプラミズ",
+  "ワレラ・ナンテス",
+  "ロリー・ドセル",
+  "コンダ・ブロムコ",
+  "ブルーノ・J・グローバル",
+  "クローディア・ラサール",
+  "ヴァネッサ・レイアード",
+  "キム・キャビロフ",
+  "シャミー・ミリオム",
+  "リン・カイフン",
+  "ミュン・ファン・ローン",
+  "ルーシー・マックミラン",
+  "ヤン・ノイマン",
+  "ミラード・ジョンソン",
+  "マージ・ゲイルドア",
+  "レイ・ラブロック",
+  "ビヒーダ・フィーズ",
+  "サリー・S・セントフォード",
+  "美保美穂",
+  "Dr.千葉",
+  "グババ",
+  "エミリア・ジーナス",
+  "ジェフリー・ワイルダー",
+  "モニカ・ラング",
+  "ミーナ・ローシャン",
+  "ラム・ホア",
+  "ボビー・マルゴ",
+  "キャサリン・グラス",
+  "ハワード・グラス",
+  "レオン・三島",
+  "松浦ナナセ",
+  "エルモ・クリダニク",
+  "リチャード・ビルラー",
+  "アイくん",
+  "ランシェ・メイ",
+  "カナリア・ベルシュタイン",
+  "フィジカ・S・ファルクラム",
+  "イリーナ 早川",
+  "クロレ",
+  "オルテック",
+  "マシューズ",
+  "スコット",
+  "神楢",
+  "ネピアス",
+  "オイグル",
+  "マルヤマ",
+  "ジュン"
+ ],
+ "mecha_unused_glossary": [
+  "TYPE-14",
+  "TYPE-29",
+  "VF-0D フェニックス",
+  "VF-0A フェニックス",
+  "ADR-03-MK-III シャイアン",
+  "HWR-00-Mk.I プロトタイプ・モンスター",
+  "オクトス",
+  "ロイ・フォッカー・スペシャル",
+  "ダイダロスタイプ",
+  "アームド級宇宙空母",
+  "スヴァール・サラン",
+  "VT-1 スーパーオストリッチ",
+  "SDF-1 マクロス アームドタイプ",
+  "ゴルグ・ガンツ・チャーツ",
+  "ミリア艦",
+  "VF-4 ライトニングIII",
+  "VF-9 カットラス",
+  "レーザー衛星",
+  "VF-17T改 ストームバルキリー",
+  "VF-19F ブレイザーバルキリー",
+  "VF-19S ブレイザーバルキリー",
+  "ギギル艦",
+  "ゲペルニッチ艦",
+  "VF-19P エクスカリバー パトロール隊仕様",
+  "潜水服",
+  "VF-5000T-G スターミラージュ",
+  "VF-5000G スターミラージュ",
+  "VA-C-3 インベーダー改",
+  "VT-1C オストリッチ",
+  "銀河クジラ",
+  "密漁団母艦",
+  "VF-19A レイヴンズ仕様",
+  "VF-22 シュトゥルムフォーゲルII（ウィルバー機）",
+  "RVF-171EX ナイトメアプラスEX",
+  "VB-6 ケーニッヒモンスター",
+  "マクロス・クォーター",
+  "AIF-9V ゴーストV9",
+  "バトル・ギャラクシー",
+  "バジュラ幼生",
+  "バジュラ母艦",
+  "バジュラ準女王",
+  "バジュラ準女王母艦",
+  "VF-2SS バルキリーII",
+  "ギガメッシュ",
+  "ゼントラーディ用ワンマン戦闘ポッド",
+  "シャイアンⅡ",
+  "メガロード０１",
+  "スーパーブースター",
+  "スーパーパック",
+  "アーマードパック",
+  "ストライクパック",
+  "FASTパック",
+  "フルアーマード",
+  "フォールドスピーカー",
+  "リアクティブアーマー",
+  "ゴーストブースター",
+  "ツインブースター",
+  "スーパーアームドパック",
+  "最終決戦仕様"
+ ],
+ "organization_unused_glossary": [
+  "地球統合政府",
+  "統合宇宙軍",
+  "新統合宇宙軍",
+  "監察軍",
+  "エメラルドフォース",
+  "ファイヤーボンバー",
+  "ゾラ・パトロール",
+  "密漁団",
+  "VF-Xレイヴンズ",
+  "ビンディランス",
+  "マルドゥーク",
+  "ムーンアイランド",
+  "マクロス・ギャラクシー船団",
+  "クロレ艦隊",
+  "新星インダストリー",
+  "娘々",
+  "サジタリウス小隊",
+  "ラクテンス",
+  "編集戦隊デンゲキＶ",
+  "ピンクペッカー",
+  "ダルメシアンハイスクール",
+  "ダンシングスカル",
+  "ベクタープロモーション",
+  "イリーナ隊",
+  "クリティカル・パス社"
+ ]
+}

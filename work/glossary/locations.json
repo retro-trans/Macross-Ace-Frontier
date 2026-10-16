@@ -1,0 +1,347 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-16",
+  "spelling_policy": "Macross Wiki article titles.",
+  "seeded_from": "Macross Ultimate Frontier glossary 0.1.0 (sister project, same engine), pruned and extended for Ace Frontier",
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスエースフロンティア",
+  "game_source_en": "https://macross.fandom.com/wiki/Macross_Ace_Frontier",
+  "fields": {
+   "af_uses": "How many Ace Frontier text entries (EBOOT, mission scripts, unit lists) contain the Japanese name or one of its ja_aliases. 0 = not in the dumped text; the name can still be heard in voice clips"
+  }
+ },
+ "locations": [
+  {
+   "id": "earth",
+   "en": "Earth",
+   "ja": "地球",
+   "aliases": [],
+   "avoid": [],
+   "era": "all",
+   "sources": [
+    "https://macross.fandom.com/wiki/Earth"
+   ],
+   "notes": "",
+   "af_uses": 34
+  },
+  {
+   "id": "mayan_island",
+   "en": "Mayan Island",
+   "ja": "マヤン島",
+   "aliases": [],
+   "avoid": [
+    "Mayan Islands"
+   ],
+   "era": "2008 (Macross Zero)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human",
+    "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア"
+   ],
+   "notes": "South Pacific island home of Sara and Mao Nome.",
+   "af_uses": 2
+  },
+  {
+   "id": "south_ataria",
+   "en": "South Ataria Island",
+   "ja": "南アタリア島",
+   "aliases": [],
+   "avoid": [],
+   "era": "1999-2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/South_Ataria_Island"
+   ],
+   "notes": "Crash site of the ASS-1 / SDF-1.",
+   "af_uses": 2
+  },
+  {
+   "id": "mars",
+   "en": "Mars",
+   "ja": "火星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [],
+   "notes": "Sara Base appears in SDF Macross TV.",
+   "af_uses": 1
+  },
+  {
+   "id": "eden",
+   "en": "Eden",
+   "ja": "惑星エデン",
+   "aliases": [
+    "planet Eden"
+   ],
+   "avoid": [],
+   "era": "2040 (Macross Plus)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Eden"
+   ],
+   "notes": "惑星エデン → 'planet Eden' when the word 惑星 is present.",
+   "af_uses": 2
+  },
+  {
+   "id": "new_edwards",
+   "en": "New Edwards Base",
+   "ja": "ニューエドワーズ基地",
+   "aliases": [
+    "New Edwards"
+   ],
+   "avoid": [],
+   "era": "2040",
+   "sources": [
+    "https://macross.fandom.com/wiki/Millard_Johnson"
+   ],
+   "notes": "Test flight center on Eden. ja form not confirmed.",
+   "af_uses": 0
+  },
+  {
+   "id": "macross_city",
+   "en": "Macross City",
+   "ja": "マクロス・シティ",
+   "aliases": [
+    "マクロスシティ"
+   ],
+   "avoid": [],
+   "era": "2009-2040",
+   "sources": [],
+   "notes": "ja form not confirmed.",
+   "af_uses": 2
+  },
+  {
+   "id": "city_7",
+   "en": "City 7",
+   "ja": "シティ7",
+   "aliases": [],
+   "avoid": [
+    "City Seven"
+   ],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_7_(Spacecraft)"
+   ],
+   "notes": "Civilian section of the Macross 7.",
+   "af_uses": 17
+  },
+  {
+   "id": "varauta_planet",
+   "en": "Varauta",
+   "ja": "惑星バロータ",
+   "aliases": [
+    "Varauta 3198XE",
+    "planet Varauta"
+   ],
+   "avoid": [
+    "Barota"
+   ],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Varauta"
+   ],
+   "notes": "",
+   "af_uses": 0
+  },
+  {
+   "id": "zola",
+   "en": "Zola",
+   "ja": "惑星ゾラ",
+   "aliases": [
+    "planet Zola"
+   ],
+   "avoid": [
+    "Zora"
+   ],
+   "era": "2047 (Dynamite 7)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Zola"
+   ],
+   "notes": "",
+   "af_uses": 0
+  },
+  {
+   "id": "island_1",
+   "en": "Island 1",
+   "ja": "アイランド1",
+   "aliases": [],
+   "avoid": [
+    "Island One"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Richard_Birler",
+    "https://macross.fandom.com/wiki/Nanase_Matsuura"
+   ],
+   "notes": "Main habitat ship of the Frontier fleet.",
+   "af_uses": 0
+  },
+  {
+   "id": "gallia_4",
+   "en": "Gallia 4",
+   "ja": "ガリア4",
+   "aliases": [],
+   "avoid": [
+    "Galia 4"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gallia_4"
+   ],
+   "notes": "",
+   "af_uses": 2
+  },
+  {
+   "id": "vajra_planet",
+   "en": "Vajra homeworld",
+   "ja": "バジュラ本星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vajra_War"
+   ],
+   "notes": "ja form not confirmed.",
+   "af_uses": 0
+  },
+  {
+   "id": "mihoshi_academy",
+   "en": "Mihoshi Academy",
+   "ja": "美星学園",
+   "aliases": [],
+   "avoid": [
+    "Bisei Academy",
+    "Bisei Gakuen"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mihoshi_Academy"
+   ],
+   "notes": "",
+   "af_uses": 0
+  },
+  {
+   "id": "moon_island",
+   "en": "Moon Island",
+   "ja": "ムーンアイランド",
+   "aliases": [],
+   "avoid": [],
+   "era": "MUF extra mission",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア"
+   ],
+   "notes": "Codename, not a real place; see organizations.json moon_island_platoon.",
+   "af_uses": 0
+  },
+  {
+   "id": "lux",
+   "en": "Lux",
+   "ja": "惑星ラクス",
+   "aliases": [],
+   "avoid": [],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lux"
+   ],
+   "notes": "Planet where the Varauta Army ambushes the Macross 7 fleet.",
+   "af_uses": 3
+  },
+  {
+   "id": "island_3",
+   "en": "Island 3",
+   "ja": "アイランド３",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Frontier fleet habitat ship.",
+   "af_uses": 0
+  },
+  {
+   "id": "ontario",
+   "en": "Ontario Autonomous Zone",
+   "ja": "オンタリオ自治区",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bruno_J._Global"
+   ],
+   "notes": "Accepts the SDF-1's civilians (SDF TV).",
+   "af_uses": 1
+  },
+  {
+   "id": "asuka_ii",
+   "en": "Asuka II",
+   "ja": "アスカⅡ",
+   "aliases": [],
+   "avoid": [],
+   "era": "2008",
+   "sources": [
+    "https://macross.fandom.com/wiki/CVN-99_Asuka_II"
+   ],
+   "notes": "U.N. carrier CVN-99 Asuka II. 空母アスカ → 'the carrier Asuka'.",
+   "af_uses": 0
+  },
+  {
+   "id": "global_ship",
+   "en": "Global",
+   "ja": "グローバル",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/SDFN-4_Global"
+   ],
+   "notes": "SDFN-4 Global, flagship of the 117th Research Fleet. Not the captain Bruno J. Global.",
+   "af_uses": 6
+  },
+  {
+   "id": "fulbtzs_berrentzs",
+   "en": "Fulbtzs-Berrentzs",
+   "ja": "フルブス・バレンス",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/Fulbtzs-Berrentzs_class"
+   ],
+   "notes": "Boddole Zer's flagship (class name).",
+   "af_uses": 0
+  },
+  {
+   "id": "boddole_fortress",
+   "en": "Boddole Zer's mobile fortress",
+   "ja": "ボドル機動要塞",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009 (DYRL)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gol_Boddole_Zer-class"
+   ],
+   "notes": "Wiki: 'Gol Boddole Zer-class'.",
+   "af_uses": 0
+  },
+  {
+   "id": "uranus",
+   "en": "Uranus",
+   "ja": "天王星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [],
+   "notes": "",
+   "af_uses": 0
+  },
+  {
+   "id": "macross_frontier_ship",
+   "en": "Macross Frontier",
+   "ja": "マクロス・フロンティア",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Frontier_(Spacecraft)"
+   ],
+   "notes": "Fleet / ship name.",
+   "af_uses": 8
+  }
+ ]
+}

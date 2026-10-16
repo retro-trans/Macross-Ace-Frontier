@@ -1,0 +1,146 @@
+{
+ "slice": 12,
+ "rows_in_slice": 21,
+ "rows_examined": 21,
+ "rows": [
+  {
+   "id": "u1042",
+   "en": "But he himself had no interest whatsoever in such things,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1043",
+   "en": "and later set off to wander space alone, but that is another story.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1044",
+   "en": "Meanwhile, the Macross 7 fleet,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1045",
+   "en": "though Battle 7 was heavily damaged in the fight with the Protodeviln,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1046",
+   "en": "journeyed on through space, once more seeking a new planet to settle.",
+   "flags": [],
+   "notes": "Prefill started 'it journeyed on'; the subject is the Macross 7 fleet named in u1044, so 'it' dropped."
+  },
+  {
+   "id": "u1047",
+   "en": "And then, taking leave of the Macross 7 fleet, its battles now over,",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese gives no subject for leaving the fleet; continued with 'they' in u1048 (presumably the player and partner)."
+  },
+  {
+   "id": "u1048",
+   "en": "they moved to a new colony fleet and set out toward the galactic center...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subject 'they' supplied; the Japanese has none. Presumably the player and partner (no %s in this epilogue)."
+  },
+  {
+   "id": "u1049",
+   "en": "The Vajra Queen fell, and the Vajra, command in chaos, began to flee.",
+   "flags": [],
+   "notes": "Glossary: joou Vajra = Vajra Queen."
+  },
+  {
+   "id": "u1050",
+   "en": "The crisis of the Vajra's unprecedented all-out attack had passed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1051",
+   "en": "But whether the Vajra threat had now",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1052",
+   "en": "been completely removed, no one could say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1053",
+   "en": "Where the Vajra had come from in the first place, and for what purpose,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1054",
+   "en": "or whether they were bioweapons someone made; unknowns abounded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1055",
+   "en": "And of course, space was full of unknown dangers besides the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1056",
+   "en": "Even so, pressing on toward the center of the galaxy,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1057",
+   "en": "the Macross Frontier's voyage is not over yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1058",
+   "en": "And so,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1059",
+   "en": "for %s and %s,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1060",
+   "en": "the fighting, too, is likely not over yet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1061",
+   "en": "Parameters tuned beyond their initial limits\nwill be returned to the initial limits.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1062",
+   "en": "Revert Tuning",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1047/u1048: the Japanese gives no subject for who leaves the Macross 7 fleet; 'they' supplied (presumably the player and partner).",
+   "u1046: prefilled 'it journeyed on' changed to keep the sentence from u1044 grammatical."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

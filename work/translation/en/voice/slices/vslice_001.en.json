@@ -1,0 +1,649 @@
+{
+ "slice": 1,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vps_hyo_605",
+   "en": "It's no good! We won't make it! Aaagh!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same line as MUF plus a scream at the end in the AF transcript (Whisper flagged nospeech/repeat); kept the scream as 'Aaagh!'. Drop it if the clip has none."
+  },
+  {
+   "id": "vps_hyo_606",
+   "en": "Maybe it's because I got a girlfriend? Hahaha! Whoa!",
+   "flags": [],
+   "notes": "Same as MUF plus a final 'uwaa' (clip is 0.9s longer than MUF): 'Whoa!'."
+  },
+  {
+   "id": "vpz_bti_000",
+   "en": "I'll go out myself.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'watashi ga de wo kiru' is garbled; read as MUF 'watashi ga deyou'."
+  },
+  {
+   "id": "vpz_bti_001",
+   "en": "Launching!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is 'SEXY' (nonsense); read as MUF 'shutsugeki suru!'."
+  },
+  {
+   "id": "vpz_bti_002",
+   "en": "Now then, shall I go stir things up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_003",
+   "en": "Not on my watch!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'sougou shatei' is a mishearing of MUF 'sou wa sasen!'."
+  },
+  {
+   "id": "vpz_bti_004",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter (MUF hears 'hahaha'); Whisper wrote 'fooku'."
+  },
+  {
+   "id": "vpz_bti_005",
+   "en": "This is...",
+   "flags": [],
+   "notes": "Kept MUF wording."
+  },
+  {
+   "id": "vpz_bti_006",
+   "en": "Insolent!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Both transcripts 'goshaka' (MUF gave no subtitle). Read as 'koshaku na!' (insolent), which fits the slot (other pilots' 006: reacting to being hit, 'Nice attack.'). If the clip is only a grunt, make it no_subtitle."
+  },
+  {
+   "id": "vpz_bti_007",
+   "en": "W-what?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is a run of 'na'; read as MUF 'na, na, nani?'."
+  },
+  {
+   "id": "vpz_bti_008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "vpz_bti_009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": "AF transcript is clear 'kurae!' (MUF had none)."
+  },
+  {
+   "id": "vpz_bti_010",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Shout/breath."
+  },
+  {
+   "id": "vpz_bti_012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Roar."
+  },
+  {
+   "id": "vpz_bti_014",
+   "en": "What is this power?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (MUF 'uun'); Whisper wrote 'oopun'."
+  },
+  {
+   "id": "vpz_bti_016",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Hum/laugh 'fun fun fun'."
+  },
+  {
+   "id": "vpz_bti_017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (MUF 'uun'); Whisper wrote 'eifosu'."
+  },
+  {
+   "id": "vpz_bti_018",
+   "en": "I won't let you get away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Both transcripts garbled ('nigasazu kara sa'); read as 'nigasan zo!', as MUF did."
+  },
+  {
+   "id": "vpz_bti_020",
+   "en": "Fool!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'batoru'; read as MUF 'baka me!'."
+  },
+  {
+   "id": "vpz_bti_100",
+   "en": "All forces, move out!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Both transcripts garbled ('renchuu doumei' / 'renchuu doudou'). Slot 100 is the operation-start line for every pilot. Guessed 'zengun shutsudou' (all forces, move out). MUF used 'Vrlitwhai, moving out.' Another candidate: 'seisei doudou' (fair and square). Needs a listen."
+  },
+  {
+   "id": "vpz_bti_101",
+   "en": "So they dare to test us? Bold of them.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Both transcripts end 'ii joukyou da', which is ungrammatical after 'tamesu to wa'; read as the set phrase 'ii dokyou da' (bold/nervy). MUF had 'A fine chance to test our strength.' Took the enemy as the ones testing (stock battle-start line, nobody addressed directly)."
+  },
+  {
+   "id": "vpz_bti_102",
+   "en": "Good! Begin the operation!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'yoshi yoshi yoshi' is likely Whisper repeating; read as MUF 'yoshi!'."
+  },
+  {
+   "id": "vpz_bti_103",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Hum/laugh 'fun fun'."
+  },
+  {
+   "id": "vpz_bti_104",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_105",
+   "en": "You can't escape.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'nigerareru zo' (you can escape) is a mishearing of 'nigerarenzo'; kept MUF."
+  },
+  {
+   "id": "vpz_bti_106",
+   "en": "I won't let you get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_107",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_108",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Roar."
+  },
+  {
+   "id": "vpz_bti_109",
+   "en": "You don't give up easily, do you?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Read 'ne wo ageru' with the homophone 'ne' (cry uncle), as 'nakanaka ne wo agen na': the enemy refuses to give in. Fits slot 109 (an enemy holding out: 'You're stubborn!', 'It's still alive?!') and the next rows ('Tenacious', 'Still want to fight?'). MUF had 'You've sharpened your skills, haven't you.'"
+  },
+  {
+   "id": "vpz_bti_110",
+   "en": "Tenacious, aren't you?",
+   "flags": [],
+   "notes": "AF adds 'na' to MUF 'shibutoi'."
+  },
+  {
+   "id": "vpz_bti_111",
+   "en": "Still want to fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_112",
+   "en": "Hmph. Too fragile.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "AF transcript is only laughter; MUF clip (same length) heard 'fun fun... moroi'. Assumed the same line."
+  },
+  {
+   "id": "vpz_bti_113",
+   "en": "Hardly a challenge.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tawai ma nai' read as 'tawai mo nai'."
+  },
+  {
+   "id": "vpz_bti_114",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_115",
+   "en": "So you've shown yourself.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "AF 'arawarete maire' is ungrammatical; kept MUF 'arawareta na'. The AF clip is 0.3s longer and may add 'maire' (come at me)."
+  },
+  {
+   "id": "vpz_bti_116",
+   "en": "Come at me and I'll cut you down!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled; read as MUF 'kaeriuchi ni shite yaru'."
+  },
+  {
+   "id": "vpz_bti_117",
+   "en": "Hm? You want to fight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_118",
+   "en": "Hmph. Is that the best you can do?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF 'kono teido de', MUF 'kono teido ka'; kept MUF's meaning. If it really is 'de', the line trails off ('With only this...')."
+  },
+  {
+   "id": "vpz_bti_119",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_120",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laughter."
+  },
+  {
+   "id": "vpz_bti_122",
+   "en": "Hm? My shield? Well, no matter.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF transcript 'shiirudo wa mayoi de iru' is garbled; kept MUF 'shiirudo ga? maa yoi yoi'."
+  },
+  {
+   "id": "vpz_bti_123",
+   "en": "Hmph. So my shield is gone.",
+   "flags": [],
+   "notes": "AF adds 'fun fun fun' and 'ka' to MUF."
+  },
+  {
+   "id": "vpz_bti_124",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunting ('yoku yoku' / MUF 'eifosu'), no clear words."
+  },
+  {
+   "id": "vpz_bti_126",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (MUF 'n')."
+  },
+  {
+   "id": "vpz_bti_127",
+   "en": "This is nothing. I'm made differently from you lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_128",
+   "en": "A mere scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_130",
+   "en": "Fools!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF 'paku paku', MUF 'baka baka'; kept MUF. Could also be 'baka na' (impossible)."
+  },
+  {
+   "id": "vpz_bti_131",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_132",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt."
+  },
+  {
+   "id": "vpz_bti_133",
+   "en": "Wh-wh-what?!",
+   "flags": [],
+   "notes": "Stutter kept."
+  },
+  {
+   "id": "vpz_bti_134",
+   "en": "Unbelievable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_135",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": "'yarioru'."
+  },
+  {
+   "id": "vpz_bti_137",
+   "en": "Is this as far as I go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_138",
+   "en": "Deculture!",
+   "flags": [],
+   "notes": "Glossary term."
+  },
+  {
+   "id": "vpz_bti_139",
+   "en": "The enemy is quite capable too.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yariyori' read as 'yarioru'."
+  },
+  {
+   "id": "vpz_bti_140",
+   "en": "You can still move, can't you?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "AF 'mada ugoken na' (can't move), MUF 'mada ugokenai'. Read as 'mada ugokeru na', said to a partner: slot 140 is a check on a partner for every pilot ('Don't be reckless!'), and the next row is 'Are you all right?'. Same reading as MUF's English."
+  },
+  {
+   "id": "vpz_bti_141",
+   "en": "Are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_142",
+   "en": "Have you been shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_143",
+   "en": "Our losses are mounting.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'okite kita' read as 'fuete kita', as MUF did."
+  },
+  {
+   "id": "vpz_bti_144",
+   "en": "Don't panic!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_148",
+   "en": "Friendly reinforcements!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'zouen kan' (reinforcement ships) misheard with the wrong kanji; kept MUF."
+  },
+  {
+   "id": "vpz_bti_149",
+   "en": "Hm? I didn't call for reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_150",
+   "en": "Friendly forces? Which unit is that?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "AF 'yuuguu dono butai da' read as 'yuugun, dono butai da?' (friendly forces, which unit?). MUF heard 'yuugu dono kurai da' and wrote 'Reinforcements? How many?'. The AF reading is more coherent, but this may be the same recording."
+  },
+  {
+   "id": "vpz_bti_151",
+   "en": "How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_152",
+   "en": "I let my guard down!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'nukataga' read as 'nukatta ka'."
+  },
+  {
+   "id": "vpz_bti_153",
+   "en": "Curse them!",
+   "flags": [],
+   "notes": "'onore'."
+  },
+  {
+   "id": "vpz_bti_154",
+   "en": "A natural result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_155",
+   "en": "Good! The operation is over!",
+   "flags": [],
+   "notes": "AF delivery has exclamations."
+  },
+  {
+   "id": "vpz_bti_156",
+   "en": "The operation is a success. Well done.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yoku yatte iru da' read as 'yoku yatte kureta'."
+  },
+  {
+   "id": "vpz_bti_157",
+   "en": "That's all. I'm calling off the operation!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_158",
+   "en": "Enough. We're pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_159",
+   "en": "Operation terminated! Return at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_161",
+   "en": "This operation has failed. Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_162",
+   "en": "We're withdrawing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_163",
+   "en": "Permission to fire granted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_164",
+   "en": "Prepare to fire! Fire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF transcript repeats 'ute', but the clip is the same length as MUF's single 'ute'; took the repeat as Whisper's."
+  },
+  {
+   "id": "vpz_bti_165",
+   "en": "Begin ranged combat!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF 'shageki sentou kaishi' (begin ranged combat) matches the companion lines 166/168 (close combat). MUF split it as 'Open fire! Begin combat!'."
+  },
+  {
+   "id": "vpz_bti_166",
+   "en": "Move into close-combat range!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 9 (vpz_bti_006): Both transcripts 'goshaka' (MUF gave no subtitle). Read as 'koshaku na!' (insolent), which fits the slot (other pilots' 006: reacting to being hit, 'Nice attack.'). If the clip is only a grunt, make it no_subtitle.",
+   "row 22 (vpz_bti_100): Both transcripts garbled ('renchuu doumei' / 'renchuu doudou'). Slot 100 is the operation-start line for every pilot. Guessed 'zengun shutsudou' (all forces, move out). MUF used 'Vrlitwhai, moving out.' Another candidate: 'seisei doudou' (fair and square). Needs a listen.",
+   "row 23 (vpz_bti_101): Both transcripts end 'ii joukyou da', which is ungrammatical after 'tamesu to wa'; read as the set phrase 'ii dokyou da' (bold/nervy). MUF had 'A fine chance to test our strength.' Took the enemy as the ones testing (stock battle-start line, nobody addressed directly).",
+   "row 31 (vpz_bti_109): Read 'ne wo ageru' with the homophone 'ne' (cry uncle), as 'nakanaka ne wo agen na': the enemy refuses to give in. Fits slot 109 (an enemy holding out: 'You're stubborn!', 'It's still alive?!') and the next rows ('Tenacious', 'Still want to fight?'). MUF had 'You've sharpened your skills, haven't you.'",
+   "row 34 (vpz_bti_112): AF transcript is only laughter; MUF clip (same length) heard 'fun fun... moroi'. Assumed the same line.",
+   "row 37 (vpz_bti_115): AF 'arawarete maire' is ungrammatical; kept MUF 'arawareta na'. The AF clip is 0.3s longer and may add 'maire' (come at me).",
+   "row 58 (vpz_bti_140): AF 'mada ugoken na' (can't move), MUF 'mada ugokenai'. Read as 'mada ugokeru na', said to a partner: slot 140 is a check on a partner for every pilot ('Don't be reckless!'), and the next row is 'Are you all right?'. Same reading as MUF's English.",
+   "row 65 (vpz_bti_150): AF 'yuuguu dono butai da' read as 'yuugun, dono butai da?' (friendly forces, which unit?). MUF heard 'yuugu dono kurai da' and wrote 'Reinforcements? How many?'. The AF reading is more coherent, but this may be the same recording."
+  ],
+  "whisper_doubt": [
+   "row 1 (vps_hyo_605): Same line as MUF plus a scream at the end in the AF transcript (Whisper flagged nospeech/repeat); kept the scream as 'Aaagh!'. Drop it if the clip has none.",
+   "row 3 (vpz_bti_000): Transcript 'watashi ga de wo kiru' is garbled; read as MUF 'watashi ga deyou'.",
+   "row 4 (vpz_bti_001): Transcript is 'SEXY' (nonsense); read as MUF 'shutsugeki suru!'.",
+   "row 6 (vpz_bti_003): Transcript 'sougou shatei' is a mishearing of MUF 'sou wa sasen!'.",
+   "row 9 (vpz_bti_006): Both transcripts 'goshaka' (MUF gave no subtitle). Read as 'koshaku na!' (insolent), which fits the slot (other pilots' 006: reacting to being hit, 'Nice attack.'). If the clip is only a grunt, make it no_subtitle.",
+   "row 10 (vpz_bti_007): Transcript is a run of 'na'; read as MUF 'na, na, nani?'.",
+   "row 20 (vpz_bti_018): Both transcripts garbled ('nigasazu kara sa'); read as 'nigasan zo!', as MUF did.",
+   "row 21 (vpz_bti_020): Transcript 'batoru'; read as MUF 'baka me!'.",
+   "row 22 (vpz_bti_100): Both transcripts garbled ('renchuu doumei' / 'renchuu doudou'). Slot 100 is the operation-start line for every pilot. Guessed 'zengun shutsudou' (all forces, move out). MUF used 'Vrlitwhai, moving out.' Another candidate: 'seisei doudou' (fair and square). Needs a listen.",
+   "row 23 (vpz_bti_101): Both transcripts end 'ii joukyou da', which is ungrammatical after 'tamesu to wa'; read as the set phrase 'ii dokyou da' (bold/nervy). MUF had 'A fine chance to test our strength.' Took the enemy as the ones testing (stock battle-start line, nobody addressed directly).",
+   "row 24 (vpz_bti_102): Transcript 'yoshi yoshi yoshi' is likely Whisper repeating; read as MUF 'yoshi!'.",
+   "row 27 (vpz_bti_105): Transcript 'nigerareru zo' (you can escape) is a mishearing of 'nigerarenzo'; kept MUF.",
+   "row 31 (vpz_bti_109): Read 'ne wo ageru' with the homophone 'ne' (cry uncle), as 'nakanaka ne wo agen na': the enemy refuses to give in. Fits slot 109 (an enemy holding out: 'You're stubborn!', 'It's still alive?!') and the next rows ('Tenacious', 'Still want to fight?'). MUF had 'You've sharpened your skills, haven't you.'",
+   "row 34 (vpz_bti_112): AF transcript is only laughter; MUF clip (same length) heard 'fun fun... moroi'. Assumed the same line.",
+   "row 35 (vpz_bti_113): 'tawai ma nai' read as 'tawai mo nai'.",
+   "row 37 (vpz_bti_115): AF 'arawarete maire' is ungrammatical; kept MUF 'arawareta na'. The AF clip is 0.3s longer and may add 'maire' (come at me).",
+   "row 38 (vpz_bti_116): Transcript garbled; read as MUF 'kaeriuchi ni shite yaru'.",
+   "row 40 (vpz_bti_118): AF 'kono teido de', MUF 'kono teido ka'; kept MUF's meaning. If it really is 'de', the line trails off ('With only this...').",
+   "row 43 (vpz_bti_122): AF transcript 'shiirudo wa mayoi de iru' is garbled; kept MUF 'shiirudo ga? maa yoi yoi'.",
+   "row 49 (vpz_bti_130): AF 'paku paku', MUF 'baka baka'; kept MUF. Could also be 'baka na' (impossible).",
+   "row 57 (vpz_bti_139): 'yariyori' read as 'yarioru'.",
+   "row 58 (vpz_bti_140): AF 'mada ugoken na' (can't move), MUF 'mada ugokenai'. Read as 'mada ugokeru na', said to a partner: slot 140 is a check on a partner for every pilot ('Don't be reckless!'), and the next row is 'Are you all right?'. Same reading as MUF's English.",
+   "row 61 (vpz_bti_143): 'okite kita' read as 'fuete kita', as MUF did.",
+   "row 63 (vpz_bti_148): 'zouen kan' (reinforcement ships) misheard with the wrong kanji; kept MUF.",
+   "row 65 (vpz_bti_150): AF 'yuuguu dono butai da' read as 'yuugun, dono butai da?' (friendly forces, which unit?). MUF heard 'yuugu dono kurai da' and wrote 'Reinforcements? How many?'. The AF reading is more coherent, but this may be the same recording.",
+   "row 67 (vpz_bti_152): 'nukataga' read as 'nukatta ka'.",
+   "row 71 (vpz_bti_156): 'yoku yatte iru da' read as 'yoku yatte kureta'.",
+   "row 78 (vpz_bti_164): AF transcript repeats 'ute', but the clip is the same length as MUF's single 'ute'; took the repeat as Whisper's.",
+   "row 79 (vpz_bti_165): AF 'shageki sentou kaishi' (begin ranged combat) matches the companion lines 166/168 (close combat). MUF split it as 'Open fire! Begin combat!'."
+  ],
+  "no_subtitle": [
+   "row 7 (vpz_bti_004): Laughter (MUF hears 'hahaha'); Whisper wrote 'fooku'.",
+   "row 11 (vpz_bti_008): Scream.",
+   "row 13 (vpz_bti_010): Grunt.",
+   "row 14 (vpz_bti_011): Shout/breath.",
+   "row 15 (vpz_bti_012): Roar.",
+   "row 17 (vpz_bti_015): Grunt (MUF 'uun'); Whisper wrote 'oopun'.",
+   "row 18 (vpz_bti_016): Hum/laugh 'fun fun fun'.",
+   "row 19 (vpz_bti_017): Grunt (MUF 'uun'); Whisper wrote 'eifosu'.",
+   "row 25 (vpz_bti_103): Hum/laugh 'fun fun'.",
+   "row 29 (vpz_bti_107): Grunt.",
+   "row 30 (vpz_bti_108): Roar.",
+   "row 42 (vpz_bti_120): Laughter.",
+   "row 45 (vpz_bti_124): Grunting ('yoku yoku' / MUF 'eifosu'), no clear words.",
+   "row 46 (vpz_bti_126): Grunt (MUF 'n').",
+   "row 50 (vpz_bti_131): Grunt.",
+   "row 51 (vpz_bti_132): Grunt."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

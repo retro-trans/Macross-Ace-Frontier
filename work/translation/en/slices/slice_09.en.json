@@ -1,0 +1,376 @@
+{
+ "slice": 9,
+ "rows_in_slice": 59,
+ "rows_examined": 59,
+ "rows": [
+  {
+   "id": "u0841",
+   "en": "VF-11 modified as a variable fighter for Sound Force\nMylene's unit, notable for its feminine form",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0842",
+   "en": "SP Song",
+   "flags": [],
+   "notes": "SP attack name (SP song)."
+  },
+  {
+   "id": "u0843",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0844",
+   "en": "VF-19 Kai Fire Valkyrie (Basara)\nModified VF-19. Its bright red frame carries big speakers and speaker pods, and it flew across the galaxy blasting Basara's songs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0845",
+   "en": "VF-19 modified as a variable fighter for Sound Force\nBasara's unit, in his personal color of fiery red",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0846",
+   "en": "Fz-109A Elgersoln (Standard)\nVariable fighter flown by regular Varauta Army pilots. Said to be based on the U.N. Forces' VF-14, but this is unconfirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0847",
+   "en": "Variable fighter modified by the Protodeviln\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0848",
+   "en": "Fz-109F Elgersoln (Gigile)\nCommander Fz-109. Flown mainly by Gigile, it attacked Basara and co. time and again. Shot down over City 7 by Gamlin's team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0849",
+   "en": "Variable fighter modified by the Protodeviln\nGigile's unit, with stronger weapons and engine thrust",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0850",
+   "en": "Glavil\nGavil's body. It needs lots of Spiritia, so Gavil takes a small spirit form, but merges with it as Gavigla to fight all-out.",
+   "flags": [],
+   "notes": "Glavil gender unknown; sentence kept on Gavil (male)."
+  },
+  {
+   "id": "u0851",
+   "en": "Protodeviln\nA monster of low intelligence, but with powerful weapons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0852",
+   "en": "Gepelnitchi\nProtodeviln leader. To build a world of endless Spiritia, he attacks humans, the \"Spiritia-regenerating race\" he sought.",
+   "flags": [],
+   "notes": "Corner brackets rendered as double quotes."
+  },
+  {
+   "id": "u0853",
+   "en": "Varauta Army commander and Protodeviln leader\nThe largest and mightiest of the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0854",
+   "en": "VF-171 Nightmare Plus (Standard)\nMain variable fighter of the Macross Frontier fleet. Weaker than the VF-17 it is based on, but easier for regular pilots to handle.",
+   "flags": [],
+   "notes": "Frontier fleet = Macross Frontier fleet per glossary alias."
+  },
+  {
+   "id": "u0855",
+   "en": "Multipurpose variable fighter based on the VF-17\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0856",
+   "en": "VF-171 Nightmare Plus EX\nA VF-171 fitted with a FAST Pack.\nMainly used by commanders.",
+   "flags": [],
+   "notes": "Non-WRAP row with three source lines; kept three lines. FAST Pack per glossary packs."
+  },
+  {
+   "id": "u0857",
+   "en": "Variable fighter: a VF-171 fitted with a FAST Pack\nMainly used by commanders",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source: variable fighter that is a VF-171 equipped with a FAST Pack."
+  },
+  {
+   "id": "u0858",
+   "en": "VF-25F Messiah (Alto)\nCutting-edge unit deployed to military provider S.M.S., partly for testing. A wide range of options made it a superb all-domain fighter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0859",
+   "en": "Latest-model variable fighter issued to S.M.S.\nAlto's unit, the standard type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0860",
+   "en": "VF-25S Messiah (Ozma)\nGray unit flown by Ozma, leader of S.M.S.'s Skull Squadron. Outperforms standard units and hits hard with Armored Parts.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Armored Parts kept as the source says (not Armored Pack)."
+  },
+  {
+   "id": "u0861",
+   "en": "Latest-model variable fighter issued to S.M.S.\nOzma's unit, an upgraded commander type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0862",
+   "en": "VF-25G Messiah (Michel)\nVF-25 customized for long-range combat, painted blue for Michel. Notable for its sniper rifle and long-range head.",
+   "flags": [],
+   "notes": "Source says Michel here (title and body)."
+  },
+  {
+   "id": "u0863",
+   "en": "Latest-model variable fighter issued to S.M.S.\nMichael's unit, a long-range sniper type",
+   "flags": [],
+   "notes": "Source says Michael (Mihaeru) here."
+  },
+  {
+   "id": "u0864",
+   "en": "RVF-25 Messiah (Luca)\nElectronic-warfare custom VF-25; Luca's is light green. Carries a large rear radome and remote-controlled drone fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0865",
+   "en": "Latest-model variable fighter issued to S.M.S.\nLuca's unit, an electronic warfare type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0866",
+   "en": "Ghost Frenzy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0867",
+   "en": "VF-27 Lucifer (Brera)\nHigh-end unit that outclasses the VF-25. Its agility exceeds what humans can endure, so only the body-modified Brera flies it.",
+   "flags": [],
+   "notes": "Body-modified = cybernetically altered body; kept plain."
+  },
+  {
+   "id": "u0868",
+   "en": "Mysterious variable fighter of unknown affiliation\nIts combat ability far surpasses the VF-25",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0869",
+   "en": "Queadluun-Rhea (Standard)\nAdvanced Queadluun-Rau with an added rear beam cannon and stronger arm weapons. Mainly the Pixie Team's mainstay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0870",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0871",
+   "en": "Queadluun-Rhea (Klan)\nKlan's red unit. Being a powered-suit-like machine, it pairs with Klan's own high combat ability to become formidable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0872",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nKlan's unit, with crimson as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0873",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0874",
+   "en": "Battle Frontier\nSuper-large multipurpose stealth attack space carrier, key to the defense of Macross Frontier.",
+   "flags": [],
+   "notes": "Source paragraph ends mid-sentence in Japanese layout only; full sentence."
+  },
+  {
+   "id": "u0875",
+   "en": "Flagship of the 21st New Macross-class colony fleet\nIts technology ranks among the best in the galaxy",
+   "flags": [],
+   "notes": "Imin sendan = colony fleet (glossary: fleet)."
+  },
+  {
+   "id": "u0876",
+   "en": "Vajra (S)\nSmall insect-like alien. Fires energy cannons and missile-like guided weapons from its head; its bladed tail allows melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0877",
+   "en": "Vajra, an alien life form\nHas a variety of weapons and high mobility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0878",
+   "en": "Vajra (L)\nVajra 5+ times the small type's size. Strong attacks: a big rear beam that smashes battleships in one hit, missiles, autocannon-like arms.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0879",
+   "en": "Vajra, an alien life form\nCarries a powerful large beam cannon on its back",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0880",
+   "en": "Vajra Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0881",
+   "en": "Vajra Queen\nAs the Vajra's command center, it links with all Vajra and controls their actions. A super-dimensional being older than the Protoculture.",
+   "flags": [],
+   "notes": "Choujikuu seibutsu = super-dimensional life form."
+  },
+  {
+   "id": "u0882",
+   "en": "Queen of the alien life form Vajra\nIt is the one that gives orders to the Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0883",
+   "en": "Unavailable",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0884",
+   "en": "VF-0S Phoenix (Roy)\nRoy Focker flew it in a new kind of transforming dogfight against his ex-superior \"Ivanov\", an Anti-U.N. Forces pilot.",
+   "flags": [],
+   "notes": "Hanntougou-gun = Anti-U.N. Forces per brief. Ivanov in quotes as in the source."
+  },
+  {
+   "id": "u0885",
+   "en": "Variable fighter developed as the VF-1 prototype\nFocker's unit, with a skull as its trademark",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0886",
+   "en": "SV-51α (Standard)\nAnti-U.N. Forces variable fighter. A novel variable-wing system makes this big craft highly mobile. Fought at Mayan Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0887",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0888",
+   "en": "SV-51γ (Nora)\nUpgraded SV-51α. Gave U.N. pilot Shin Kudo a hard fight. Abducts Sara, Mayan Island's priestess, who holds the \"Bird Human\" secret.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0889",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nNora's unit, with magenta as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0890",
+   "en": "Fuel-Air Bomb Drop",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0891",
+   "en": "SV-51γ (Ivanov)\nRide of Ivanov, Focker's ex-boss. Fought Focker's VF-0S to the death. Charged the Bird Human that downed Nora and was shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0892",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nIvanov's unit, with black as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0893",
+   "en": "Dummy terminator\nSelectable up to here",
+   "flags": [],
+   "notes": "Debug/dummy entry; language part translated."
+  },
+  {
+   "id": "u0894",
+   "en": "Default",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0895",
+   "en": "Dummy terminator\nModels exist up to here",
+   "flags": [],
+   "notes": "Debug/dummy entry; language part translated."
+  },
+  {
+   "id": "u0896",
+   "en": "Dummy terminator\nID list ends here.",
+   "flags": [],
+   "notes": "Debug/dummy entry; ID terminator. Period kept."
+  },
+  {
+   "id": "u0897",
+   "en": "Day",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0898",
+   "en": "Evening",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0899",
+   "en": "Night",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0857 Catchline literally: a variable fighter that is a VF-171 fitted with a FAST Pack; rendered with a colon.",
+   "u0860 Source says Armored Parts (not the glossary Armored Pack); kept.",
+   "u0875 Imin sendan rendered colony fleet.",
+   "u0888 Toutougou-gun no Kudo Shin rendered U.N. pilot Shin Kudo to fit."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

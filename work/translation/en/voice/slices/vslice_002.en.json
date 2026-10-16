@@ -1,0 +1,553 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "vpz_bti_167",
+   "en": "Charge!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tochi no seigyo' is garbled; MUF reads totsugeki (charge), which fits the slot and length."
+  },
+  {
+   "id": "vpz_bti_168",
+   "en": "Begin close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_169",
+   "en": "Enough. Stand back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_170",
+   "en": "You, fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_171",
+   "en": "Stay away from the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_172",
+   "en": "Crush them!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'hineri subu ze'; most plausibly hineri-tsubuse (crush them), an order to the partner like the other pilots' 172 lines. MUF English read it as 'I'll crush you!'; either fits."
+  },
+  {
+   "id": "vpz_bti_173",
+   "en": "All-out attack authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_174",
+   "en": "All-out attack, begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_175",
+   "en": "I won't allow this!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'iyerusamu' is nonsense; same sounds as MUF's yurusanu (I won't allow it)."
+  },
+  {
+   "id": "vpz_bti_176",
+   "en": "No more holding back.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'te ga herasen'; surely tekagen wa sen (no more holding back), as MUF."
+  },
+  {
+   "id": "vpz_bti_177",
+   "en": "On the pride of the Zentradi!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_179",
+   "en": "Very well.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'yuroshisu' is a mishearing of yoroshii (very well), as MUF."
+  },
+  {
+   "id": "vpz_bti_180",
+   "en": "Hm, hm, hm... So be it, so be it.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "AF transcript repeats yokarou twice where MUF has it once; kept the repeat, though it could be a Whisper echo."
+  },
+  {
+   "id": "vpz_bti_181",
+   "en": "What's the matter, Captain?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'dou shita tachi wo' is garbled; most likely dou shita, taichou (what's wrong, Captain), as MUF."
+  },
+  {
+   "id": "vpz_bti_182",
+   "en": "Further damage is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_183",
+   "en": "Can you still move, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_184",
+   "en": "Haah... What a disaster!",
+   "flags": [],
+   "notes": "Slot 184 is the captain going down; Britai's dismay at that. AF adds a sigh."
+  },
+  {
+   "id": "vpz_bti_185",
+   "en": "Impossible... To think the captain was shot down...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "No subject in the Japanese. Slot 185 is the captain (leader) being shot down for every pilot, so 'the captain' is restored; MUF English had just 'Shot down...'."
+  },
+  {
+   "id": "vpz_bti_186",
+   "en": "Useless.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Slot 186 reacts to the captain being shot down; yaku ni tatanu has no subject and the bare 'Useless.' keeps that, aimed at the downed captain."
+  },
+  {
+   "id": "vpz_bti_187",
+   "en": "Protoculture...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_188",
+   "en": "What is this feeling? We're leaving!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Iku zo read as 'we're going (home)': slot 188 is a song-induced withdrawal line for every pilot. MUF English had 'Let's go!', which reads as advancing."
+  },
+  {
+   "id": "vpz_bti_189",
+   "en": "So this is Culture... We're withdrawing.",
+   "flags": [],
+   "notes": "AF transcript bunka (Culture) is right; MUF transcript misheard it."
+  },
+  {
+   "id": "vpz_bti_300",
+   "en": "All you need to do is follow my orders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_301",
+   "en": "Take this to heart: I won't tolerate reckless moves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_302",
+   "en": "Don't hinder me with needless meddling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_303",
+   "en": "You will support me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_304",
+   "en": "Watch how I fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_305",
+   "en": "Battle is about to begin. Don't let your guard down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_306",
+   "en": "We can't afford to fail this operation. We're going out too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_307",
+   "en": "Let us show them our full strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_308",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_309",
+   "en": "I leave it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_310",
+   "en": "I'm entrusting this operation to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_311",
+   "en": "Let's go! We should have no problem together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_320",
+   "en": "You did well to make it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_321",
+   "en": "Your duty is done. Let's head back at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_322",
+   "en": "Enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_323",
+   "en": "I expect you to handle at least this much.",
+   "flags": [],
+   "notes": "AF transcript says konashite (handle) where MUF heard tobashite (fly); translated the AF reading."
+  },
+  {
+   "id": "vpz_bti_324",
+   "en": "Good. You did well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_325",
+   "en": "Mission accomplished. We're returning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_326",
+   "en": "I never expected you to achieve results this great.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_327",
+   "en": "As I thought, you never betray my trust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_328",
+   "en": "Keep up the good work as my right hand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_329",
+   "en": "You show promise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_330",
+   "en": "Your skill is reassuring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_331",
+   "en": "You performed beyond my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_340",
+   "en": "Somehow, I can't trust women.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends shinyou dekiru (can trust), which contradicts doumo; surely shinyou dekinu (can't trust), as MUF."
+  },
+  {
+   "id": "vpz_bti_341",
+   "en": "Why must I fight alongside you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_342",
+   "en": "Just concentrate on staying out of my way.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'sonnen shimasu' is a mishearing of sennen (concentrate); Britai would not use -masu here. Read as an order, as MUF."
+  },
+  {
+   "id": "vpz_bti_343",
+   "en": "This operation absolutely cannot fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_344",
+   "en": "Follow my orders and there'll be no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_345",
+   "en": "The operation's starting. Focus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_346",
+   "en": "You, take the support role!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_347",
+   "en": "I'm expecting great things from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_348",
+   "en": "Show me everything you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_349",
+   "en": "W-W-What is this? This feeling I have toward you...",
+   "flags": [],
+   "notes": "AF stutters three times and trails off where MUF ends with '!'."
+  },
+  {
+   "id": "vpz_bti_350",
+   "en": "With you here, the operation's success is assured!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_351",
+   "en": "Perhaps I'll follow you for once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_360",
+   "en": "To think you were the only one who could sortie.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has a garbled tail (to wa nai to); read as to wa na, as MUF."
+  },
+  {
+   "id": "vpz_bti_361",
+   "en": "What on earth were you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_362",
+   "en": "I'll ask you not to get in the way anymore.",
+   "flags": [],
+   "notes": "AF says moraitai where MUF heard moraou ka; same meaning."
+  },
+  {
+   "id": "vpz_bti_363",
+   "en": "You seem to be safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_364",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_365",
+   "en": "You carried out the operation without a hitch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_366",
+   "en": "I've seen plenty of your skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript demae (food delivery) is a mishearing of udemae (skill)."
+  },
+  {
+   "id": "vpz_bti_367",
+   "en": "Your fighting is rather pleasing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_368",
+   "en": "I never thought you'd be this good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_369",
+   "en": "I'm beginning to feel Culture myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_370",
+   "en": "To think I'd feel joy fighting alongside you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_615",
+   "en": "Who are you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vpz_bti_616",
+   "en": "Ngh... is this as far as I go?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'koko made iku' is garbled; most likely koko made ka (is this as far as I go), as MUF."
+  },
+  {
+   "id": "vpz_bti_617",
+   "en": "Did you think you could defeat me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "vp7_nkb_010",
+   "en": "Oops, I hit 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "AF line differs from MUF (a, yabe): naguchimatta, 'I went and hit (them)'. Slot 010 is an attack line, so Basara reluctantly landing a hit fits; object unstated, kept neutral 'em."
+  },
+  {
+   "id": "vpd_gvl_009",
+   "en": "Melee Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF line differs from MUF (nigasanu): kakutou-bi, with hi heard for bi. Same term as Gavil's 167 'Melee Beauty!'."
+  },
+  {
+   "id": "vpd_gvl_011",
+   "en": "Strike Beauty!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "AF line differs from MUF (massatsu-bi): transcript dageki-hei, most likely dageki-bi (strike beauty)."
+  },
+  {
+   "id": "vp7_mln_601",
+   "en": "You Protodeviln clinging to Gamlin, get out!",
+   "flags": [],
+   "notes": "Same line as MUF; Gamlin-san rendered as plain 'Gamlin' as in her other lines."
+  },
+  {
+   "id": "vo0_of0_000",
+   "en": "I'll be serving as your bridge operator. Pleased to work with you.",
+   "flags": [],
+   "notes": "Shared with MUF; existing English kept."
+  },
+  {
+   "id": "vo0_of1_000",
+   "en": "I'm your bridge operator. Nice to meet you.",
+   "flags": [],
+   "notes": "Shared with MUF; existing English kept."
+  },
+  {
+   "id": "vo0_om0_000",
+   "en": "I'll be your bridge operator. Let's work well together.",
+   "flags": [],
+   "notes": "Shared with MUF; existing English kept."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 86 vpz_bti_172: Transcript 'hineri subu ze'; most plausibly hineri-tsubuse (crush them), an order to the partner like the other pilots' 172 lines. MUF English read it as 'I'll crush you!'; either fits.",
+   "row 94 vpz_bti_180: AF transcript repeats yokarou twice where MUF has it once; kept the repeat, though it could be a Whisper echo.",
+   "row 99 vpz_bti_185: No subject in the Japanese. Slot 185 is the captain (leader) being shot down for every pilot, so 'the captain' is restored; MUF English had just 'Shot down...'.",
+   "row 102 vpz_bti_188: Iku zo read as 'we're going (home)': slot 188 is a song-induced withdrawal line for every pilot. MUF English had 'Let's go!', which reads as advancing.",
+   "row 154 vp7_nkb_010: AF line differs from MUF (a, yabe): naguchimatta, 'I went and hit (them)'. Slot 010 is an attack line, so Basara reluctantly landing a hit fits; object unstated, kept neutral 'em."
+  ],
+  "whisper_doubt": [
+   "row 81 vpz_bti_167: Transcript 'tochi no seigyo' is garbled; MUF reads totsugeki (charge), which fits the slot and length.",
+   "row 86 vpz_bti_172: Transcript 'hineri subu ze'; most plausibly hineri-tsubuse (crush them), an order to the partner like the other pilots' 172 lines. MUF English read it as 'I'll crush you!'; either fits.",
+   "row 89 vpz_bti_175: Transcript 'iyerusamu' is nonsense; same sounds as MUF's yurusanu (I won't allow it).",
+   "row 90 vpz_bti_176: Transcript 'te ga herasen'; surely tekagen wa sen (no more holding back), as MUF.",
+   "row 93 vpz_bti_179: Transcript 'yuroshisu' is a mishearing of yoroshii (very well), as MUF.",
+   "row 95 vpz_bti_181: Transcript 'dou shita tachi wo' is garbled; most likely dou shita, taichou (what's wrong, Captain), as MUF.",
+   "row 128 vpz_bti_340: Transcript ends shinyou dekiru (can trust), which contradicts doumo; surely shinyou dekinu (can't trust), as MUF.",
+   "row 130 vpz_bti_342: Transcript 'sonnen shimasu' is a mishearing of sennen (concentrate); Britai would not use -masu here. Read as an order, as MUF.",
+   "row 140 vpz_bti_360: Transcript has a garbled tail (to wa nai to); read as to wa na, as MUF.",
+   "row 146 vpz_bti_366: Transcript demae (food delivery) is a mishearing of udemae (skill).",
+   "row 152 vpz_bti_616: Transcript 'koko made iku' is garbled; most likely koko made ka (is this as far as I go), as MUF.",
+   "row 155 vpd_gvl_009: AF line differs from MUF (nigasanu): kakutou-bi, with hi heard for bi. Same term as Gavil's 167 'Melee Beauty!'.",
+   "row 156 vpd_gvl_011: AF line differs from MUF (massatsu-bi): transcript dageki-hei, most likely dageki-bi (strike beauty)."
+  ],
+  "kept_omission": [
+   "row 100 vpz_bti_186: Slot 186 reacts to the captain being shot down; yaku ni tatanu has no subject and the bare 'Useless.' keeps that, aimed at the downed captain."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,261 @@
+{
+ "_meta": {
+  "about": "Who speaks each voice-clip prefix (data/sound/voice/v<prefix>_<num>.at3). The prefix is the face id of the cut-in portrait (data/menu/face_*/<prefix>_*.gim) with a leading v. Copied from Macross Ultimate Frontier (same clips, same faces) for the 39 prefixes Ace Frontier has. Names follow work/glossary/characters.json.",
+  "how_identified": "As in Ultimate Frontier, whose clips these mostly are (6,546 of 6,712 byte-identical, docs/voice_subtitles.md). Face portraits, the EBOOT pilot table (0x35D908), the operator and pilot select screens, and what the clips say (self-introductions in the 000-020 launch lines). confidence: high = portrait and clip content agree; medium = one of them; low = a guess to check.",
+  "numbering": "000-020 launch and greeting lines; 100-198 combat lines shared by every pilot (same situation per number); 300-371 skills, partner and result lines; 600-699 character-specific story lines used by particular missions; 900-905 era prologue narration, already shown as English text on screen (no subtitle). Operator clips (vo0_*, vos_mis) use 000-999 for stock lines and 1000+ for mission lines; the four operators read the same script, each in their own manner."
+ },
+ "speakers": {
+  "o0_of0": {
+   "name": "Yuu Akimizu",
+   "series": "MUF original",
+   "role": "operator (player's choice)",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "polite, -desu/-masu"
+  },
+  "o0_of1": {
+   "name": "Claire Stanford",
+   "series": "MUF original",
+   "role": "operator",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "cool, mature"
+  },
+  "o0_om0": {
+   "name": "Itsuki Yamashiro",
+   "series": "MUF original",
+   "role": "operator",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "brisk, commanding"
+  },
+  "os_mis": {
+   "name": "Misa Hayase",
+   "series": "SDF Macross",
+   "role": "operator",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "officer, crisp"
+  },
+  "p0_of0": {
+   "name": "Miyuki Shirakawa",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p0_of1": {
+   "name": "Hilda V. Bergen",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p0_om0": {
+   "name": "Yuuto Kagura",
+   "series": "MUF original",
+   "role": "custom pilot (player or partner)",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p0_om1": {
+   "name": "Gary Murdoch",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_gam": {
+   "name": "Gamlin Kizaki",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_max": {
+   "name": "Maximilian Jenius",
+   "series": "Macross 7",
+   "role": "flying his Valkyrie",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_mil": {
+   "name": "Milia Fallyna Jenius",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p7_mln": {
+   "name": "Mylene Flare Jenius",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p7_nkb": {
+   "name": "Basara Nekki",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pd_ggl": {
+   "name": "Gigile",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pd_gpr": {
+   "name": "Gepelnitchi",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "medium",
+   "note": "processed voice; Whisper fails on many clips"
+  },
+  "pd_gvl": {
+   "name": "Gavil",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_alt": {
+   "name": "Alto Saotome",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_klm": {
+   "name": "Klan Klang",
+   "series": "Macross Frontier",
+   "role": "micronized",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_kln": {
+   "name": "Klan Klang",
+   "series": "Macross Frontier",
+   "role": "Meltrandi size",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_luk": {
+   "name": "Luca Angeloni",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_mcl": {
+   "name": "Michael Blanc",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_ozm": {
+   "name": "Ozma Lee",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pp_ism": {
+   "name": "Isamu Alva Dyson",
+   "series": "Macross Plus",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_hik": {
+   "name": "Hikaru Ichijyo",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_hyo": {
+   "name": "Hayao Kakizaki",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_lyn": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_max": {
+   "name": "Maximilian Jenius",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_mil": {
+   "name": "Milia Fallyna",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_roy": {
+   "name": "Roy Focker",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "px_gld": {
+   "name": "Guld Goa Bowman",
+   "series": "Macross Plus",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "px_sra": {
+   "name": "Sharon Apple (as the enemy)",
+   "series": "Macross Plus",
+   "gender": "female",
+   "confidence": "low"
+  },
+  "py_bjh": {
+   "name": "Vajra",
+   "series": "Macross Frontier",
+   "role": "Vajra (red head); likely cries, not speech",
+   "gender": "unknown",
+   "confidence": "medium"
+  },
+  "py_bjs": {
+   "name": "Vajra",
+   "series": "Macross Frontier",
+   "role": "Vajra (beige head); likely cries, not speech",
+   "gender": "unknown",
+   "confidence": "medium"
+  },
+  "py_blr": {
+   "name": "Brera Sterne",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pz_bd2": {
+   "name": "Golg Boddole Zer",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pz_bti": {
+   "name": "Vrlitwhai Kridanik",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pz_ipn": {
+   "name": "Zentradi soldier",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pz_mil": {
+   "name": "Milia Fallyna (Zentradi size)",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pz_qmj": {
+   "name": "Quamzin Kravshera",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  }
+ }
+}

@@ -1,0 +1,520 @@
+{
+ "slice": 3,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0278",
+   "en": "Vermillion Squadron",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title: 'Vermillion' spelled as glossary Vermillion Flight; sukoodoron rendered 'Squadron'."
+  },
+  {
+   "id": "u0279",
+   "en": "Destroy the Micronian mobile weapons that\nhave broken into our ship. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0280",
+   "en": "The diversion succeeded, and we captured Micronian samples. However, several enemy mobile weapons have broken into our ship, apparently to rescue the captured samples. We need no more samples, so destroy them swiftly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0281",
+   "en": "Tightrope",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0282",
+   "en": "To get a spy aboard the enemy ship,\napproach it in secret.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0283",
+   "en": "Information from the captured samples suggests the Micronians we contacted may be the legendary Protoculture. To investigate further, a micronized spy will be infiltrated into the enemy ship. Approach the enemy ship under cover of battle and send the spy in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0284",
+   "en": "Destroy the Destroids",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title is a katakana pun (desutoroi desutoroido); rendered 'Destroy the Destroids'."
+  },
+  {
+   "id": "u0285",
+   "en": "Destroy the Micronian mobile weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0286",
+   "en": "The Micronian battleship seems to have reached the enemy's home planet. We were ordered not to attack the Micronians rashly, as they may be the legendary Protoculture, but to watch them for now. Yet the Quamzin clan has apparently defied orders and struck the enemy ship. We can't let Quamzin's crew beat us to it.",
+   "flags": [],
+   "notes": "Kamujin ikka -> 'the Quamzin clan'; Kamujin-tachi -> 'Quamzin's crew'."
+  },
+  {
+   "id": "u0287",
+   "en": "Macross Invasion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0288",
+   "en": "Infiltrate the enemy ship and annihilate the enemy.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0289",
+   "en": "Intercepted combat footage and the enemy ship's sudden high-output energy attack leave no doubt: the enemy we face is the Protoculture. We must capture that ship and gain the Protoculture's power at all costs. The best plan is to exploit the enemy's direct attack and seize the ship from within.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'the enemy's direct attack' kept literal; presumably the Macross ramming the Zentradi ship (Daedalus-style), which the Zentradi plan to use to board it."
+  },
+  {
+   "id": "u0290",
+   "en": "Revolt Against Boddole Zer",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana title 'Riboruto Bodoruzaa' rendered 'Revolt Against Boddole Zer'."
+  },
+  {
+   "id": "u0291",
+   "en": "Break through the Boddole Zer Main Fleet with the\nMacross and storm the flagship. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0292",
+   "en": "As our troops defect one after another to the power of Culture, Commander Vrlitwhai has chosen a ceasefire with the Macross. But Boddole Zer sees Culture only as a threat and will try to destroy the Macross and us alike. To save Culture and Minmay's song, we must join the Macross in repelling the Boddole Zer Main Fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0293",
+   "en": "Training Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0294",
+   "en": "As part of training, hold a\nmock battle against Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0295",
+   "en": "To prepare for emergencies like Zentradi remnant revolts or unknown threats, the New U.N. Forces were pressed to keep their arms up to date. The current mainstay, the VF-11, has served nearly 10 years, and a successor is rumored to be in development. But whatever the machine, the pilot's skill is what counts, of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0296",
+   "en": "Wild Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0297",
+   "en": "Suppress the Zentradi remnants\nrioting on a frontier planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0298",
+   "en": "Zentradi remnants have reportedly rioted on a frontier planet outside the solar system. They have no intention of accepting our call to surrender, so combat is unavoidable. Orders have come down to annihilate the Zentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0299",
+   "en": "Project Super Nova",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0300",
+   "en": "To gauge your aptitude as a test pilot,\nhold a mock battle under live-combat rules.",
+   "flags": [],
+   "notes": "JP writes tekisei with the 'correct' kanji (typo for aptitude); read as aptitude. Player addressed as 'you'."
+  },
+  {
+   "id": "u0301",
+   "en": "The rumored next-generation mainstay variable fighter was being developed on planet Eden as \"Project Super Nova\". It is a competition between two companies, but reportedly neither prototype can be handled properly by an average pilot. Test pilot candidates will fly a mock battle under live-combat rules.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0302",
+   "en": "Flight Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0303",
+   "en": "Pass through each target area in turn,\nas quickly as possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0304",
+   "en": "To measure the prototype's flight performance, a test will see how fast it can go over the sea. It also examines airframe performance like thrust and maneuverability, and the G-load on the pilot. The test is a time trial: the time taken to pass through every target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0305",
+   "en": "Reach as many points as possible",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0306",
+   "en": "Control Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0307",
+   "en": "Destroy targets and run a time trial to the\ntarget area. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0308",
+   "en": "To measure the prototype's agility, a test will see how well it performs in a confined space like a sheer canyon. The test is scored on the destruction rate of targets along the route and a time trial to the destination.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0309",
+   "en": "Destroy targets and reach the target point",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0310",
+   "en": "Infight Test",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana 'infaito' kept as 'Infight Test' (close-range fighting); alternative 'Close Combat Test'."
+  },
+  {
+   "id": "u0311",
+   "en": "Destroy the units that keep appearing,\nwithin the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0312",
+   "en": "To measure the prototype's combat ability, a ground battle will test what combat results it can achieve. The goal of the test is to destroy as many units as possible within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0313",
+   "en": "Destroy as many enemies as possible",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0314",
+   "en": "In the Sky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0315",
+   "en": "Stop the escorted bombers from\nreaching their target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0316",
+   "en": "To gather practical combat data on the prototype, an air combat test will be held. It is a key test of how it performs in air combat, the very heart of a variable fighter. It is a mock battle against aircraft: destroy the bombers escorted by VF-11s before they reach the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0317",
+   "en": "Destroy the bombers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0318",
+   "en": "In the Blue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0319",
+   "en": "Destroy the escorted carrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0320",
+   "en": "For practical combat data on the prototype, a naval test will be held: a mock battle against aircraft and a carrier. Destroy the carrier escorted by VF-11s.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0321",
+   "en": "Destroy the carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0322",
+   "en": "Sabotage Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0323",
+   "en": "Destroy the escorted base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0324",
+   "en": "To gather practical combat data on the prototype, a ground combat test will be held. It is one of the key tests of how well the prototype performs under near-real combat conditions. The goal is to destroy a base guarded by VF-11s and Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0325",
+   "en": "Destroy the base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0326",
+   "en": "Battle Eden",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana title 'Batoru Eden' kept as 'Battle Eden' (a mock duel on Eden, not a battle for Eden)."
+  },
+  {
+   "id": "u0327",
+   "en": "Destroy the rival competition machine.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0328",
+   "en": "To gather combat data between prototypes, a mock battle will be fought against the rival model. Mock rounds are used, but the opponent has ace-level skill, so stay sharp. Needless to say, this is the most important test for adoption.",
+   "flags": [],
+   "notes": "'ki wo nuku koto wa dekinai' (impersonal) rendered as directive 'stay sharp' to the player."
+  },
+  {
+   "id": "u0329",
+   "en": "Destroy the enemy units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0330",
+   "en": "Burning Snow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0331",
+   "en": "As a live-combat test of the prototype,\nannihilate the Zentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0332",
+   "en": "Zentradi remnants have been reported on a moon near planet Eden. Since the entire area is snowfield, an unusual condition, annihilating them will double as a live-combat test.",
+   "flags": [],
+   "notes": "kinrin eisei (nearby satellite) -> 'a moon near planet Eden'."
+  },
+  {
+   "id": "u0333",
+   "en": "Dogfight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0334",
+   "en": "Annihilate the New U.N. Forces soldiers who\nhave run amok at the ceremony site.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0335",
+   "en": "Unrest has been detected in Macross City on Earth, host of the ceremony for the 30th anniversary of the end of the Space War. New U.N. Forces soldiers have run amok, casting an eerie mood over the ceremony. To end this emergency, the rampaging soldiers will be annihilated.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Uchuu taisen (unnumbered) rendered 'the Space War', not 'Space War I'."
+  },
+  {
+   "id": "u0336",
+   "en": "Voice of an Angel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0337",
+   "en": "To stop Sharon's rampage, annihilate the enemies\nshe controls. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0338",
+   "en": "Sharon Apple, the galaxy's most popular virtual idol, has run amok and seized the New U.N. Forces' central command. Her song has a hypnotic effect, and New U.N. Forces troops are controlled by her singing. To free the people from that devil's song, the enemies Sharon controls must be annihilated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0339",
+   "en": "Defeat Sharon Apple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0340",
+   "en": "New Prelude",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0341",
+   "en": "Hold a mock battle as training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0342",
+   "en": "The Macross 7 fleet seeks a new planet to colonize. In vast space, the danger of meeting unknown aliens, and of that leading to a war like Space War I, is ever present. To be ready for emergencies, combat training can never be neglected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0343",
+   "en": "Safe Navigation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0344",
+   "en": "Annihilate the Zentradi remnants blocking\nthe Macross 7 fleet's voyage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0345",
+   "en": "Several unidentified craft were spotted on the Macross 7 fleet's planned route. A survey to secure the route revealed them to be Zentradi remnants. What's more, on finding the fleet, they attacked without a word. With no other choice, we will drive off the Zentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0346",
+   "en": "Speaker Pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0347",
+   "en": "Wipe out the unknowns that just appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0348",
+   "en": "Battle 7 received word from a forward picket that it is under surprise attack by an unidentified force. The unidentified craft are using bizarre attacks never seen before, and more and more pilots are losing all will and being put out of action. To keep them from nearing the fleet, the unidentified craft must be annihilated.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "zen'eitei (advance/vanguard boat) rendered 'forward picket'."
+  },
+  {
+   "id": "u0349",
+   "en": "Keep Guest Alive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0350",
+   "en": "Spirit Girls",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0351",
+   "en": "Annihilate the Varauta Army forces in City 7.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0352",
+   "en": "The unknown craft that attacked the Macross 7 fleet proved to be modified U.N. Forces units once deployed in the Varauta system, a colony star system. Their reason for attacking is still unknown, but the enemy will be called the Varauta Army. Now the Varauta Army has attacked again and broken into City 7.",
+   "flags": [],
+   "notes": "Togo-gun (pre-New) rendered 'U.N. Forces' per brief: the Varauta units were old U.N. Forces machines."
+  },
+  {
+   "id": "u0353",
+   "en": "Spiritia Farm",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0354",
+   "en": "Recover the containers holding citizens\nwhile annihilating the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0355",
+   "en": "A string of kidnappings of citizens had been occurring in City 7. The Varauta Army was loading the kidnapped citizens into containers to ship them to Varauta vessels. To rescue the abducted people, we must recover the containers while driving off the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0356",
+   "en": "Recover All Containers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0357",
+   "en": "Fighting Woman Mayor Milia",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0278: Title: 'Vermillion' spelled as glossary Vermillion Flight; sukoodoron rendered 'Squadron'.",
+   "u0284: Title is a katakana pun (desutoroi desutoroido); rendered 'Destroy the Destroids'.",
+   "u0289: 'the enemy's direct attack' kept literal; presumably the Macross ramming the Zentradi ship (Daedalus-style), which the Zentradi plan to use to board it.",
+   "u0290: Katakana title 'Riboruto Bodoruzaa' rendered 'Revolt Against Boddole Zer'.",
+   "u0310: Katakana 'infaito' kept as 'Infight Test' (close-range fighting); alternative 'Close Combat Test'.",
+   "u0326: Katakana title 'Batoru Eden' kept as 'Battle Eden' (a mock duel on Eden, not a battle for Eden).",
+   "u0335: Uchuu taisen (unnumbered) rendered 'the Space War', not 'Space War I'.",
+   "u0348: zen'eitei (advance/vanguard boat) rendered 'forward picket'.",
+   "Large-unit restriction written '(No large units)' to match slice 2 (alternative '(No large units allowed)'). 'sanpuru' -> 'samples' and 'kidou heiki' -> 'mobile weapons' to match slice 2.",
+   "u0347 tm 'Wipe out the unknowns that just appeared.' kept; 'just appeared' renders 'totsujo' (suddenly)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

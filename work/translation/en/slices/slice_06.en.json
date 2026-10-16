@@ -1,0 +1,530 @@
+{
+ "slice": 6,
+ "rows_in_slice": 82,
+ "rows_examined": 82,
+ "rows": [
+  {
+   "id": "u0518",
+   "en": "Guld Goa Bowman puts his clear mind and refined piloting skills to use as chief developer and test pilot. Unlike a certain troublemaker, he is earnest and upright, with great strength of will, yet he also hides a fierce fighting instinct. Battle Guld, who has Zentradi blood in his veins.",
+   "flags": [],
+   "notes": "'A certain troublemaker' kept as vague as the Japanese (a dig at Isamu)."
+  },
+  {
+   "id": "u0519",
+   "en": "Defeat Guld Goa Bowman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0520",
+   "en": "A Captain Called Genius",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Open title; literally 'the captain who bears the name of genius'."
+  },
+  {
+   "id": "u0521",
+   "en": "With a genius touch, Maximilian Jenius commands the Macross 7 fleet and captains the space carrier Battle 7. Since taking command he has lived up to the name of genius, and his piloting skills are as sharp as ever. Battle Max: captain, commander and genius pilot!",
+   "flags": [],
+   "notes": "Japanese uses the short form Max in the last sentence; kept. Reordered fleet/carrier so 'Battle 7' does not wrap across lines."
+  },
+  {
+   "id": "u0522",
+   "en": "The Woman Warrior Returns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0523",
+   "en": "Battle Milia Fallyna Jenius and\nseize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0524",
+   "en": "Milia Fallyna Jenius, Mayor of City 7, boasts a 99% approval rating among its citizens. When City 7 is in danger, she shows the youthful spirit to sortie in a Valkyrie herself, mayor or not, and her skills as the ace Milia are as sharp as ever. Battle Milia, the fighting mayor!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0525",
+   "en": "Defeat Milia Fallyna Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0526",
+   "en": "Planet Dancer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0527",
+   "en": "Battle Ozma Lee and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0528",
+   "en": "Ozma Lee, S.M.S. Skull Squadron leader, was once a New U.N. Forces ace with a wealth of combat experience. He's soft on his sister and a bit overprotective, but he's as strict a soldier as he ever was. Battle Ozma, a soldier to the core.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0529",
+   "en": "Defeat Ozma Lee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0530",
+   "en": "Clumsy Woman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0531",
+   "en": "Battle Klan Klang and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0532",
+   "en": "Klan Klang, Pixie Team leader, upholds her clan's traditions and pride with a noble spirit. She's a beauty in her prime, but clumsy genes somehow make her body a child's when micronized. Battle Klan, who is clumsy in love as well as in her genes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0533",
+   "en": "Defeat Klan Klang",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0534",
+   "en": "Combat Machine",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0535",
+   "en": "Battle Brera Sterne and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0536",
+   "en": "With no memory of his past, Brera Sterne lives day after day of battle as an empty combat machine. Most of his body has been made cyborg by implants, and now he exists only to carry out the missions he is ordered to. Battle Brera, the sorrowful combat machine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0537",
+   "en": "Defeat Brera Sterne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0538",
+   "en": "The Threat of Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0539",
+   "en": "Battle Golg Boddole Zer and seize victory.\n(No large units)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Tag for large units being barred from sortie coined as '(Large units cannot sortie)'; align with u0509/u0553/u0608."
+  },
+  {
+   "id": "u0540",
+   "en": "Golg Boddole Zer, Supreme Commander of the Zentradi fleet, exists as a central bio-unit wired directly into the Boddole flagship. Battle Boddole Zer, a ruthless Zentradi who will not hesitate to kill even his own allies for the sake of his victory.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Japanese 'Boddol flagship' rendered 'the Boddole flagship'; no glossary entry."
+  },
+  {
+   "id": "u0541",
+   "en": "The Super Dimension Fortress Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0542",
+   "en": "Battle the SDF-1 Macross and seize victory.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Full series title would overflow (394 px); used the glossary mecha name 'SDF-1 Macross'. Title row u0541 keeps the full name."
+  },
+  {
+   "id": "u0543",
+   "en": "The Super Dimension Fortress Macross was built by restoring a giant space battleship that fell from the sky. The Macross name, which ended the year-long interstellar war with the Zentradi, would be passed down for ages. Battle the Macross, where the whole story began.",
+   "flags": [],
+   "notes": "Japanese says 'interstellar war' here (no 'First'), so not rendered as Space War I."
+  },
+  {
+   "id": "u0544",
+   "en": "Destroy the SDF-1",
+   "flags": [],
+   "notes": "Ship target: 'Destroy', as other ship objectives (u0321 carrier)."
+  },
+  {
+   "id": "u0545",
+   "en": "Duel Beauty",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Gavil-style 'beauty' title (glossary pattern '<X> Beauty'); kanji = duel + beauty. Mission is vs Glavil."
+  },
+  {
+   "id": "u0546",
+   "en": "Battle Glavil and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0547",
+   "en": "Glavil is a giant, monster-like Protodeviln of tremendous combat power. Without Gavil's orders it has only the wits to keep destroying, yet it wields weapons stronger than the Macross Cannon. Battle Glavil, menace to humanity.",
+   "flags": [],
+   "notes": "Glavil gender unknown in glossary; 'it' used, the Japanese calls Glavil a monster."
+  },
+  {
+   "id": "u0548",
+   "en": "Defeat Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0549",
+   "en": "Spiritia Black Hole",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0550",
+   "en": "Battle Gepelnitchi and seize victory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0551",
+   "en": "Gepelnitchi is a Protodeviln with the intellect to devise the Spiritia Farm Project for the endless sharing of Spiritia, and the leadership to carry it out. Battle Gepelnitchi, who has the power to drain all the Spiritia in the galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0552",
+   "en": "Next Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0553",
+   "en": "Battle the Vajra Queen and seize victory.\n(No large units)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same sortie tag as u0539."
+  },
+  {
+   "id": "u0554",
+   "en": "The Vajra Queen controls the Vajra and gives them orders. With the fertility to keep bearing cocoons for the Vajra's prosperity and the power to unite the galaxy's will, the Queen is a dire threat. Battle the Vajra Queen to save the galaxy.",
+   "flags": [],
+   "notes": "No pronoun for the Queen ('the Queen' repeated) to avoid assigning gender."
+  },
+  {
+   "id": "u0555",
+   "en": "Battleship Parade",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0556",
+   "en": "Battle enemy battleships of all eras and seize victory.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'successive/historical enemy battleships'; 'of every era' would be 345 px, so 'of all eras'."
+  },
+  {
+   "id": "u0557",
+   "en": "The Zentradi are a race of giants over 10 m tall, and their battleships are even more gigantic than they are. And after Space War I, the enemies humanity met as it spread across space were all huge and mighty. Battle the giant battleships that appear one after another!",
+   "flags": [],
+   "notes": "First Interstellar War rendered with glossary 'Space War I'."
+  },
+  {
+   "id": "u0558",
+   "en": "Fighter Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0559",
+   "en": "Practice piloting in Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0560",
+   "en": "Train in Fighter mode piloting of the Valkyrie variable fighter. Follow instructions and master Fighter mode.",
+   "flags": [],
+   "notes": "Compressed to 3 lines ('Follow instructions'). Same for u0563, u0566."
+  },
+  {
+   "id": "u0561",
+   "en": "Battroid Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0562",
+   "en": "Practice piloting in Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0563",
+   "en": "Train in Battroid mode piloting of the Valkyrie variable fighter. Follow instructions and master Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0564",
+   "en": "GERWALK Piloting Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0565",
+   "en": "Practice piloting in GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0566",
+   "en": "Train in GERWALK mode piloting of the Valkyrie variable fighter. Follow instructions and master GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0567",
+   "en": "Shooting Attack Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0568",
+   "en": "Practice shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0569",
+   "en": "Train in the Valkyrie variable fighter's shooting attacks. Follow the instructions and master how to shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0570",
+   "en": "Melee Attack Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0571",
+   "en": "Practice melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0572",
+   "en": "Train in the Valkyrie variable fighter's melee attacks. Follow the instructions and master how to fight in melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0573",
+   "en": "Special Maneuvers Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0574",
+   "en": "Practice special maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0575",
+   "en": "Train in the Valkyrie variable fighter's special maneuvers. Follow the instructions and master how to use them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0576",
+   "en": "Container Transport Drill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0577",
+   "en": "Practice container transport.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0578",
+   "en": "Train in how to transport containers. Follow the instructions and drill the controls and precautions into your head.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0579",
+   "en": "Reach the target point / Collect containers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0580",
+   "en": "Ground Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0581",
+   "en": "Conduct combat training on the ground.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0582",
+   "en": "Conduct combat training on the ground. Attack the targets freely and master control of your unit. The exercise ends when you reach the target point or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0583",
+   "en": "Conduct combat training on the ground",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0584",
+   "en": "Space Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0585",
+   "en": "Conduct combat training in space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0586",
+   "en": "Conduct combat training in space. Attack the targets freely and master control of your unit. The exercise ends when you reach the target point or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0587",
+   "en": "Conduct combat training in space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0588",
+   "en": "Zentradi Ship Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0589",
+   "en": "Conduct combat training inside a Zentradi ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0590",
+   "en": "Conduct combat training inside a Zentradi ship. Attack the targets freely and master control of your unit. The exercise ends when you reach the target point or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0591",
+   "en": "Conduct combat training inside a Zentradi ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0592",
+   "en": "Vajra Ship Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0593",
+   "en": "Conduct combat training inside a Vajra ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0594",
+   "en": "Conduct combat training inside a Vajra ship. Attack the targets freely and master control of your unit. The exercise ends when you reach the target point or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0595",
+   "en": "Conduct combat training inside a Vajra ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0596",
+   "en": "Flight Training Field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0597",
+   "en": "Conduct combat training in a canyon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0598",
+   "en": "Conduct combat training in a canyon. Attack the targets freely and master control of your unit. The exercise ends when you reach the target point or the time limit runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0599",
+   "en": "Conduct combat training in the canyon",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0520 open title 'A Captain Called Genius' (literally the captain who bears the name of genius).",
+   "u0545 open title 'Duel Beauty' follows the glossary Gavil '<X> Beauty' pattern, though the mission is vs Glavil.",
+   "u0539/u0553 '(Large units cannot sortie)' coined for the large-unit sortie ban tag; should match u0509 and u0608 in neighbouring slices.",
+   "u0540 'the Boddole flagship' for the Japanese 'Boddol flagship' (no glossary entry).",
+   "u0542 objective uses 'SDF-1 Macross' instead of the full series title to fit 336 px.",
+   "u0556 'enemy battleships of all eras' for the 'successive enemy battleships' wording.",
+   "u0547 Glavil referred to as 'it' (glossary gender unknown; the briefing calls it a monster)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Boddol flagship (u0540), rendered 'the Boddole flagship'"
+  ],
+  "unfinished": []
+ }
+}

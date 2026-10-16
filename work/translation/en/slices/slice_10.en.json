@@ -1,0 +1,399 @@
+{
+ "slice": 10,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "u0900",
+   "en": "Failed to load the data.\nTry loading again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0901",
+   "en": "Save the data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0902",
+   "en": "Returning to Top Menu.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0903",
+   "en": "Please enter a pilot name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0904",
+   "en": "Player and partner can't be set\nto the same type of pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0905",
+   "en": "Please enter a name",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0906",
+   "en": "Itsuki Yamashiro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0907",
+   "en": "Yuu Akimizu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0908",
+   "en": "Claire Stanford",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0909",
+   "en": "Misa Hayase",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Operator name label; 79 px vs 70 px estimate, a little over for a short label."
+  },
+  {
+   "id": "u0910",
+   "en": "Custom Color 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0911",
+   "en": "Custom Color 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0912",
+   "en": "Custom Color 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0913",
+   "en": "Default Color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0914",
+   "en": "Rolling Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0915",
+   "en": "Lets you roll in Fighter mode\nup to three times in a row.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0916",
+   "en": "Iron Wall",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0917",
+   "en": "Defense is doubled, and you no longer\nstagger when hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0918",
+   "en": "Clairvoyance",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0919",
+   "en": "Lets you lock on to every target\non the map.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0920",
+   "en": "Taunt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0921",
+   "en": "Enemy attack power doubles, but pilot\nEXP earned also doubles.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0922",
+   "en": "Dash Plus",
+   "flags": [],
+   "notes": "Skill name, glossary status open; literal katakana-English."
+  },
+  {
+   "id": "u0923",
+   "en": "Adds one more consecutive dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0924",
+   "en": "Chaff",
+   "flags": [],
+   "notes": "Skill name, glossary status open."
+  },
+  {
+   "id": "u0925",
+   "en": "Throws homing missiles off course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0926",
+   "en": "Repair",
+   "flags": [],
+   "notes": "Skill name, glossary status open."
+  },
+  {
+   "id": "u0927",
+   "en": "Restores HP to you and nearby allies\nby 1/5 of each unit's max HP.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0928",
+   "en": "Anima Spiritia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0929",
+   "en": "All allied units' stats increase 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0930",
+   "en": "Missile Shootdown",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Skill name, glossary status open. Literally 'missile dropping' (shooting missiles down); 'Missile Shootdown' chosen."
+  },
+  {
+   "id": "u0931",
+   "en": "Intercepts missiles closing in on you.\n*Not usable with some units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0932",
+   "en": "Awakening",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0933",
+   "en": "All weapons reload, attack lag drops,\nand you're invincible for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0934",
+   "en": "Infinite Boost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0935",
+   "en": "The boost gauge no longer rises.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0936",
+   "en": "Melee Genes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0937",
+   "en": "Melee attack power triples,\nbut you can no longer guard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0938",
+   "en": "Weakens all stats of Zentran weapons and\nZentradi-piloted units; strengthens others.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Description of the skill named after 'Do You Remember Love?' (name row not in this slice). 'Zentran-kei heiki' rendered 'Zentran weapons'."
+  },
+  {
+   "id": "u0939",
+   "en": "Circus Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0940",
+   "en": "Units that normally cannot fly\nbecome able to fly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0941",
+   "en": "Shock Guard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0942",
+   "en": "Guarding an enemy melee attack\nalways parries it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0943",
+   "en": "All allied units' stats increase 1.25x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0944",
+   "en": "Attack power, speed and boost capacity\nincrease 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0945",
+   "en": "Reflection",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0946",
+   "en": "Reflects beam-type shots and\nnegates solid-ammo attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0947",
+   "en": "Bombing King",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0948",
+   "en": "Ammo capacity increases 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0949",
+   "en": "Spiritia Drain",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Skill name, glossary status open. 'Spiritia kyuushuu' = Spiritia absorption; 'Spiritia Drain' chosen for a label."
+  },
+  {
+   "id": "u0950",
+   "en": "Part of the HP of enemies your rays touch\nis absorbed as your own HP.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0951",
+   "en": "Sharon's Temptation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0952",
+   "en": "Swaps the up/down and left/right controls\nof every enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0953",
+   "en": "Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0954",
+   "en": "Attack power triples; defense is halved.",
+   "flags": [],
+   "notes": "Single line as in the Japanese."
+  },
+  {
+   "id": "u0955",
+   "en": "Deals heavy damage to nearby enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0956",
+   "en": "Max World",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0957",
+   "en": "Stops all movement except your unit's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0958",
+   "en": "The operation will begin.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0959",
+   "en": "Switching to wireless play.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0960",
+   "en": "Training will begin.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0961",
+   "en": "Moving to Era Select.\nProceed?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0938: description belongs to the skill named after 'Do You Remember Love?'; 'Zentran weapons' for 'Zentran-kei heiki'.",
+   "u0922/u0924/u0926/u0930/u0949: open skill names given as Dash Plus, Chaff, Repair, Missile Shootdown, Spiritia Drain.",
+   "u0909: 'Misa Hayase' is 79 px vs a 70 px estimate (short label)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Skills with status open now translated: Dash Plus, Chaff, Repair, Missile Shootdown, Spiritia Drain"
+  ],
+  "unfinished": []
+ }
+}

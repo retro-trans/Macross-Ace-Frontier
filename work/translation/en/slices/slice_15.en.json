@@ -1,0 +1,335 @@
+{
+ "slice": 15,
+ "rows_in_slice": 53,
+ "rows_examined": 53,
+ "rows": [
+  {
+   "id": "u1357",
+   "en": "Force Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1358",
+   "en": "Campaign",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1359",
+   "en": "Free Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1360",
+   "en": "Versus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1361",
+   "en": "Co-op",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1362",
+   "en": "No Title",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1363",
+   "en": "\nStanding by.\nPlease wait a moment.\n×: Cancel",
+   "flags": [],
+   "notes": "tm 'Waiting for other players.' was over the box; literal 'taikichuu desu'."
+  },
+  {
+   "id": "u1364",
+   "en": "Start wireless play with this many players.\nProceed?",
+   "flags": [],
+   "notes": "Confirm phrase uses glossary 'Proceed?'."
+  },
+  {
+   "id": "u1365",
+   "en": "Stop recruiting opponents.\nProceed?",
+   "flags": [],
+   "notes": "tm used 'Are you sure?'; glossary sets 'Proceed?'."
+  },
+  {
+   "id": "u1366",
+   "en": "The connection was refused.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1367",
+   "en": "Disconnected from the host.",
+   "flags": [],
+   "notes": "tm line was over the box; compressed."
+  },
+  {
+   "id": "u1368",
+   "en": "Returning to Mission Select.\nProceed?",
+   "flags": [],
+   "notes": "tm was over the box and used 'Are you sure?'; matches u0902/u0961 'Returning to.../Moving to...'."
+  },
+  {
+   "id": "u1369",
+   "en": "Not enough players have joined the match.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1370",
+   "en": "A match can't have everyone on one team.",
+   "flags": [],
+   "notes": "tm was 373 px; compressed."
+  },
+  {
+   "id": "u1371",
+   "en": "You cannot sortie with the selected pilot and unit combination.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1372",
+   "en": "The mission will be aborted.\nProceed?",
+   "flags": [],
+   "notes": "glossary 'Proceed?'."
+  },
+  {
+   "id": "u1373",
+   "en": "The screenshots you took will not be\nsaved. Proceed?",
+   "flags": [],
+   "notes": "glossary 'Proceed?'."
+  },
+  {
+   "id": "u1374",
+   "en": "Player %d has left, so\nwireless play will now end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1375",
+   "en": "Not enough players.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1376",
+   "en": "Connecting.\nPlease wait a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1377",
+   "en": "No replay data has been recorded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1378",
+   "en": "Save the replay data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1379",
+   "en": "Play the replay data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1380",
+   "en": "Replay Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1381",
+   "en": "This is a special mission, so\nreplays cannot be saved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1382",
+   "en": "Unsaved screenshots will be\ndeleted. Proceed?",
+   "flags": [],
+   "notes": "glossary 'Proceed?'."
+  },
+  {
+   "id": "u1383",
+   "en": "Loading was interrupted.\nTry loading again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1384",
+   "en": "Saving was interrupted.\nTry saving again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1385",
+   "en": "Save complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1386",
+   "en": "Try saving the data again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1387",
+   "en": "Loading failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1388",
+   "en": "New Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1389",
+   "en": "Save Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1390",
+   "en": "This is Macross Ace Frontier save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1391",
+   "en": "This is Macross Ace Frontier replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1392",
+   "en": "Cpl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1393",
+   "en": "Sgt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1394",
+   "en": "Sgt. Maj.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1395",
+   "en": "WO",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1396",
+   "en": "2nd Lt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1397",
+   "en": "Lt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1398",
+   "en": "Capt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1399",
+   "en": "Major",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1400",
+   "en": "Lt. Col.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1401",
+   "en": "Col.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1402",
+   "en": "Civilian",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1403",
+   "en": "Div. Cmdr.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1404",
+   "en": "Ldg. Airman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1405",
+   "en": "Cmdr.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1406",
+   "en": "C-in-C",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1407",
+   "en": "Chief",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1408",
+   "en": "Capt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1409",
+   "en": "Mayor",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Confirm prompts: switched the tm 'Are you sure?' to the glossary 'Proceed?' (u1365 u1368 u1372 u1373 u1382); other slices still hold tm 'Are you sure?' rows (u1481/u1483 in slice 17 fixed too).",
+   "u1363: tm 'Waiting for other players.' replaced by literal 'Standing by.' to fit.",
+   "u1403 'Div. Cmdr.' and u1404 'Ldg. Airman' (glossary ranks) stay slightly over the 56 px estimate."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

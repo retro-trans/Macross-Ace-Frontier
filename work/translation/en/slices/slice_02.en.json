@@ -1,0 +1,517 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0198",
+   "en": "First Step",
+   "flags": [],
+   "notes": "Open mission title; katakana-English kept as natural English."
+  },
+  {
+   "id": "u0199",
+   "en": "As part of training, hold a mock battle\nagainst Destroids inside the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0200",
+   "en": "The giant battleship that fell from space brought humanity new knowledge and technology, and great upheaval, starting with the Unification Wars. Restored as the U.N. Forces battleship \"Macross\", it now carries OverTechnology's \"Valkyrie\" variable fighters. A mock battle aboard will double as a test run.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0201",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept (stock objective)."
+  },
+  {
+   "id": "u0202",
+   "en": "Booby Trap",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0203",
+   "en": "Annihilate the giant aliens striking back\nagainst the Macross's attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0204",
+   "en": "The Macross's restoration was finally complete, and its launch ceremony held. During it, an unknown space fleet was detected approaching, but the Macross's main cannon fired on the fleet by itself. The Macross had been an alien booby trap set for their enemies. And so, like it or not, war with the aliens began.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0205",
+   "en": "Countdown",
+   "flags": [],
+   "notes": "Episode title."
+  },
+  {
+   "id": "u0206",
+   "en": "Annihilate the giant aliens' ground forces\nattacking the Macross. (No large units)",
+   "flags": [],
+   "notes": "(No large units) = large-frame units cannot sortie; same rendering in every row of this slice."
+  },
+  {
+   "id": "u0207",
+   "en": "The Macross is under fierce attack from the giant aliens. To break the deadlock, it attempts to launch into space. But the enemy has also sent in ground forces, and launch preparations are getting nowhere. The giant aliens' ground forces must be driven back so the Macross can launch.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who must repel the ground forces is unstated (passive kept)."
+  },
+  {
+   "id": "u0208",
+   "en": "Space Fold",
+   "flags": [],
+   "notes": "Episode title."
+  },
+  {
+   "id": "u0209",
+   "en": "To ensure the Macross's fold succeeds,\nannihilate the giant aliens interfering.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0210",
+   "en": "The Macross escaped to space for now, but the giant aliens kept up the attack, and the space carriers ARMD-1 and ARMD-2 were destroyed just before joining it. To break this desperate situation, Capt. Global decides to fake a descent to Earth and fold to the Moon's far side instead.",
+   "flags": [],
+   "notes": "ARMD-1/ARMD-2 follow the JP numbering (glossary: ARMD-class space carrier)."
+  },
+  {
+   "id": "u0211",
+   "en": "Transformation",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0212",
+   "en": "Annihilate the enemy within the time limit\nand clear the Macross main cannon's line of fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0213",
+   "en": "The fold succeeded, but the Macross emerged in Pluto's orbit, and the fold system vanished as well. Another fold is now impossible, and on top of that, even the main cannon is unusable. Still, the alien fleet keeps up its relentless pursuit. The only way to drive it off is to risk a transformation and fire the main cannon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0214",
+   "en": "Protect the defense target",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0215",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0216",
+   "en": "Defend Successfully",
+   "flags": [],
+   "notes": "tm kept (condition label)."
+  },
+  {
+   "id": "u0217",
+   "en": "Average Rookie",
+   "flags": [],
+   "notes": "Open mission title; katakana-English kept as natural English."
+  },
+  {
+   "id": "u0218",
+   "en": "As the volunteers' final test, hold a\nmock battle. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0219",
+   "en": "The enemy was barely driven off, but with the fold system gone, the Macross must return to Earth by conventional travel. With continued battles against the giant aliens judged unavoidable on the long voyage, volunteers were sought among its citizens. A mock battle will train them and gauge their skill.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who judged / called for volunteers is unstated (passive kept)."
+  },
+  {
+   "id": "u0220",
+   "en": "Defeat Enemy Ace Fast",
+   "flags": [],
+   "notes": "tm was 'Defeat Ace Fast'; restored 'Enemy' (JP has it) to match u0277 'Defeat Enemy Ace'."
+  },
+  {
+   "id": "u0221",
+   "en": "Daedalus Attack",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0222",
+   "en": "To set up the Daedalus Attack, act as a\ndecoy and draw the giant aliens' attention.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0223",
+   "en": "The Macross had only been on the defensive, but Capt. Global decides on a surprise attack near Saturn to wipe out the enemy fleet with a main cannon salvo. But the cannon fails to fire, perhaps from poor upkeep, putting the ship in danger instead. To escape, Lt. Hayase's \"Daedalus Attack\" plan must succeed at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0224",
+   "en": "Bye-Bye Mars",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0225",
+   "en": "To get supplies, bring the\ncontainers to the designated point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0226",
+   "en": "After repeated battles, the Macross is in need of supplies. Sara Base on Mars has already been abandoned, but the Macross heads for Mars in search of the supplies that are likely still there. Enemy pursuit is expected, but without supplies, even getting back to Earth is in doubt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0227",
+   "en": "Recover the containers",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0228",
+   "en": "Longest Birthday",
+   "flags": [],
+   "notes": "Episode title."
+  },
+  {
+   "id": "u0229",
+   "en": "Shoot down Quamzin's unit, which has\nlaunched a surprise attack on the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0230",
+   "en": "After battles with the giant aliens and a long voyage, the Macross has finally come within a step of Earth. But the giant aliens' powerful jamming has let an enemy warship close in on the Macross. To reach Earth safely, it must shake off the enemy pursuit at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0231",
+   "en": "Blind Game",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0232",
+   "en": "Defend the Cat's Eye until the recon\nof the giant aliens is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0233",
+   "en": "With Earth in sight but unable to shake its pursuers, the Macross asks U.N. Forces HQ for backup, but HQ orders it to wear the enemy down as much as it can -- in effect, to buy time. Then a strange message comes: the enemy demands surrender! Lt. Hayase takes off in the Cat's Eye recon plane to learn its real aim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0234",
+   "en": "First Contact",
+   "flags": [],
+   "notes": "Episode title."
+  },
+  {
+   "id": "u0235",
+   "en": "Infiltrate the enemy ship to rescue\nthe recon team. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0236",
+   "en": "The Cat's Eye recon plane carrying Lt. Hayase was captured by the enemy, and contact is lost with 2nd Lt. Ichijyo and the other Valkyries sent to save her. Their survival is unconfirmed, but they can't be left to die, and a rescue should also yield valuable intel. A plan to infiltrate the enemy ship and rescue them is drawn up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0237",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0238",
+   "en": "Big Escape",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0239",
+   "en": "The enemy ship the team infiltrated folded far from the Macross, but Lt. Hayase's group was rescued. They say the aliens, who call themselves Zentradi, know only war and chase the Macross out of interest in and fear of human culture. Now an enemy ship that seems set to launch for the Macross has been found.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0240",
+   "en": "Blue Wind",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0241",
+   "en": "To break the encirclement and reach Earth,\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0242",
+   "en": "The enemy ship that folded out was indeed headed for the Macross. The rescue team escaped it and came back safely with Lt. Hayase's group. Their shocking report told of an enemy of unimaginable size and strange nature, and a hopeless gap in strength. Still, Capt. Global resolves to break the siege and return to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0243",
+   "en": "Kung Fu Dandy",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0244",
+   "en": "Defeat Quamzin's forces, which have\nattacked the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0245",
+   "en": "Back on Earth after a year, the Macross still has no landing permit from U.N. Forces HQ. With the ground right there yet unable to leave the ship, the citizens grow ever more discontent. Meanwhile, Quamzin, chafing at orders against rash moves on the Macross, defies them and attacks it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0246",
+   "en": "Defeat Milia's Unit",
+   "flags": [],
+   "notes": "Condition label."
+  },
+  {
+   "id": "u0247",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0248",
+   "en": "To keep the enemy from nearing the Macross,\ndrive them back. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0249",
+   "en": "As the Macross takes on supplies at sea, a Zentradi warship rapidly closes in. It is Milia's unit; she has heard from Quamzin that \"the Macross has a crack pilot too.\" Busy resupplying, the Macross cannot move. The enemy must be driven back so the resupply can finish safely.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Milia is female (glossary); 'unit' here = her squad. Who must drive the enemy back is unstated (passive kept)."
+  },
+  {
+   "id": "u0250",
+   "en": "Burst Point",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0251",
+   "en": "To let the civilians land, annihilate the\nZentradi forces. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0252",
+   "en": "Seeking a place for its civilians, the Macross is granted permission by the Ontario Autonomous Zone to take them in. The ship rejoices at the news, but the Zentradi forces appear as if to stop it. Annihilate the Zentradi forces at all costs so the civilians can be taken in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0253",
+   "en": "Drop Out",
+   "flags": [],
+   "notes": "Episode title."
+  },
+  {
+   "id": "u0254",
+   "en": "So the Daedalus Attack isn't disrupted,\nannihilate the enemy. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0255",
+   "en": "U.N. Forces Supreme HQ concluded that the Zentradi's target was the Macross, not Earth, and launched the Macross back into space. Attacked by numerous Zentradi fleets, the Macross tries to escape the crisis by destroying enemy ships one by one with the Daedalus Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0256",
+   "en": "Virgin Road",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0257",
+   "en": "Annihilate the Zentradi forces\nlaunching an all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0258",
+   "en": "With the Daedalus Attack turned against it, the Macross was invaded by many enemy units, but some of them wanted to defect. To the Zentradi, who knew only war, Earth culture was an immeasurable culture shock. Alarmed, Boddole Zer, commander of the Zentradi main fleet, launched an all-out attack on the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0259",
+   "en": "Keep Allies Alive",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0260",
+   "en": "Love Drifts Away",
+   "flags": [],
+   "notes": "tm kept; episode title."
+  },
+  {
+   "id": "u0261",
+   "en": "To push on to Boddole Zer's flagship,\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0262",
+   "en": "With many defecting, Vrlitwhai chose a ceasefire and sent archivist Exsedol to the Macross. He says main fleet commander Boddole Zer will likely erase the Macross and Vrlitwhai's Culture-tainted men alike. To beat such hopeless odds, song must deliver a culture shock, and the flagship must be hit in the chaos.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'archivist' for kiroku sanbou (record-keeping staff officer, Exsedol's post); 'his men' for Vrlitwhai-tachi."
+  },
+  {
+   "id": "u0263",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": "tm kept; film title."
+  },
+  {
+   "id": "u0264",
+   "en": "To end the interstellar war, defeat main\nfleet commander Boddole Zer. (No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0265",
+   "en": "Minmay's song dealt the Zentradi forces a culture shock, throwing their chain of command into confusion, if only for a while. This confusion must be used to defeat Boddole Zer, commander of the Zentradi main fleet, and end the war with the Zentradi.",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who must exploit the confusion is unstated (passive kept)."
+  },
+  {
+   "id": "u0266",
+   "en": "Defeat Golg Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0267",
+   "en": "Combat Training",
+   "flags": [],
+   "notes": "Open mission title; katakana-English kept as natural English."
+  },
+  {
+   "id": "u0268",
+   "en": "Win the hand-to-hand combat training.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0269",
+   "en": "For the warrior-race Zentradi, daily combat drills are vital. Hand-to-hand combat without mobile weapons, above all, is both the basis of fighting and the last resort. Winning hand-to-hand drills is also a mark of status for a Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0270",
+   "en": "Supply Block",
+   "flags": [],
+   "notes": "Open mission title; katakana-English kept as natural English."
+  },
+  {
+   "id": "u0271",
+   "en": "Destroy all enemy supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0272",
+   "en": "The Micronian battleship we're chasing seems about to stop at the red planet. Our advance party found an unmanned base there; the enemy likely plans to resupply. If we exploit an opening to destroy the supplies, the ship should be easy to take.",
+   "flags": [],
+   "notes": "Zentradi-side briefing: subject restored as 'we' (Zentradi forces)."
+  },
+  {
+   "id": "u0273",
+   "en": "Destroy the containers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0274",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": "tm kept."
+  },
+  {
+   "id": "u0275",
+   "en": "To capture a Micronian sample,\nlaunch a diversionary attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0276",
+   "en": "The recon team sent to investigate near the Micronian battleship has returned, but could not bring back any concrete records. Even their direct reports were full of baffling content, and no useful intel was gained. To advance the investigation, we will launch a diversionary attack and capture Micronians to serve as samples.",
+   "flags": [],
+   "notes": "Zentradi-side briefing: subject restored as 'we'."
+  },
+  {
+   "id": "u0277",
+   "en": "Defeat Enemy Ace",
+   "flags": [],
+   "notes": "tm kept."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0262: 'archivist' for kiroku sanbou (record-keeping staff officer, Exsedol's post); 'his men' for Vrlitwhai-tachi.",
+   "Objectives: the parenthetical for 'large-frame units cannot sortie' rendered '(No large units)' in u0206/0218/0235/0248/0251/0254/0264/0268; harmonise with other slices.",
+   "u0220: tm 'Defeat Ace Fast' changed to 'Defeat Enemy Ace Fast' (JP has 'enemy'; matches u0277).",
+   "u0216: tm 'Defend Successfully' kept for a success-condition label; 'Defense Successful' may read better if it is a result rather than a goal.",
+   "u0210: carriers written ARMD-1 / ARMD-2 as the JP numbers them (canon often ARMD-01/02).",
+   "u0264: hoshi-kan sensou rendered 'interstellar war' (not the proper name Space War I).",
+   "u0269-u0276: Zentradi-side briefings; 'we' restored in u0272/u0276 as the Zentradi forces.",
+   "Briefings u0200-u0272 were compressed to fit max_lines; no facts dropped, but phrasing is tight (e.g. u0262, u0233)."
+  ],
+  "kept_omission": [
+   "u0207: Who must repel the ground forces is unstated (passive kept).",
+   "u0219: Who judged / called for volunteers is unstated (passive kept).",
+   "u0249: Who must drive the enemy back is unstated (passive kept).",
+   "u0265: Who must exploit the confusion is unstated (passive kept)."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

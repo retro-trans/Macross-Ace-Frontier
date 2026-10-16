@@ -1,0 +1,497 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0962",
+   "en": "July, A.D. 1999. A giant object fell on South Ataria, a lone Pacific isle.",
+   "flags": [],
+   "notes": "Recast as a full sentence ending in this row; next row starts 'It was...'. 'South Ataria' without 'Island' to fit 462 px."
+  },
+  {
+   "id": "u0963",
+   "en": "It was a giant space battleship, built with tech far beyond Earth's science.",
+   "flags": [],
+   "notes": "Starts a new sentence to match the recast of u0962."
+  },
+  {
+   "id": "u0964",
+   "en": "The ship brought a technological revolution through OverTechnology,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0965",
+   "en": "but it also pointed to an unknown threat from extraterrestrial life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0966",
+   "en": "A.D. 2000. To counter the threat that was sure to come from space,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0967",
+   "en": "humanity founded the \"U.N. Government,\" a body above all nations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0968",
+   "en": "However, no small number of factions opposed it,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0969",
+   "en": "and they banded together as the Anti-U.N. Forces,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0970",
+   "en": "sparking the conflict that would later be called the \"Unification Wars.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0971",
+   "en": "The long war finally ended in 2007. Meanwhile, the giant battleship",
+   "flags": [],
+   "notes": "'choukika' (long-drawn-out) folded into 'The long war'. No A.D.: the row does not start with seireki."
+  },
+  {
+   "id": "u0972",
+   "en": "was under constant repair, to be reborn as a U.N. Forces battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0973",
+   "en": "After so many years of war, the threat from space that had started it all",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0974",
+   "en": "was all but forgotten, but the fateful hour was drawing near...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0975",
+   "en": "A.D. 2040. In search of new places to live, humanity",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0976",
+   "en": "had sent many large-scale colony fleets out into space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0977",
+   "en": "Numerous planets had been discovered and developed into colony worlds,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0978",
+   "en": "and an age had come when many a generation called one of them home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0979",
+   "en": "Drawn into the first interstellar war in history 30 years earlier,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0980",
+   "en": "humanity barely escaped extinction by wielding the power of \"culture,\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0981",
+   "en": "made peace with the Zentradi, and founded the New U.N. Government.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0982",
+   "en": "But the end of the war did not simply mean the arrival of peace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0983",
+   "en": "It began with postwar rebuilding, then quelling some Zentradi remnants,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0984",
+   "en": "and even to bolstering defenses against unknown threats yet to come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0985",
+   "en": "The New U.N. Forces were still absolutely indispensable,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0986",
+   "en": "and the buildup of new fighting strength went on as well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0987",
+   "en": "A.D. 2045. The 37th colony fleet, which had left Earth seven years earlier,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0988",
+   "en": "built around Macross 7, the seventh ship of the New Macross class,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0989",
+   "en": "carried over a million citizens through space in search of a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0990",
+   "en": "The fleet's commander, who was also captain of the space carrier Battle 7,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0991",
+   "en": "was Maximilian Jenius, the genius pilot of Space War I.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0992",
+   "en": "Meanwhile, Macross 7's residential City 7 was governed by Mayor Milia,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0993",
+   "en": "once feared even within the Zentradi forces as \"Milia the Ace.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0994",
+   "en": "She was also Max's wife, wed in wartime in the first interstellar marriage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0995",
+   "en": "Led by these two former aces, the Macross 7 fleet sailed on in peace,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0996",
+   "en": "but that a battle with the fearsome Varauta Army lay in wait for them",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0997",
+   "en": "was something not a single person had foreseen...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0998",
+   "en": "A.D. 2059, 49 years after the end of humanity's first interstellar war.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0999",
+   "en": "The 25th giant colony fleet to set out, the \"Macross Frontier,\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1000",
+   "en": "was sailing on toward the center of the galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1001",
+   "en": "The living areas inside the ship recreated the same environment as Earth's,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1002",
+   "en": "and over 10 million people went about their peaceful daily lives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1003",
+   "en": "But at the end of that tranquil voyage,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1004",
+   "en": "a fierce battle against unknown space creatures lay in wait,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1005",
+   "en": "and almost none of the citizens had any idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1006",
+   "en": "With Boddole Zer defeated, the Boddole Zer Main Fleet had lost its core.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1007",
+   "en": "The Zentradi, who knew nothing but fighting under orders,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1008",
+   "en": "no longer had the strength to take on the Macross and Vrlitwhai's fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1009",
+   "en": "The Zentradi forces, for all their overwhelming might,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1010",
+   "en": "had been defeated by the power of Lynn Minmay's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1011",
+   "en": "Thus Space War I ended, and the New U.N. Government was born.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1012",
+   "en": "A new foundation was laid for two races to walk the road ahead together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1013",
+   "en": "Earth, all but destroyed, steadily made its way toward recovery.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1014",
+   "en": "Yet new problems were bound to arise sooner or later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1015",
+   "en": "Overpopulation. Resource depletion. And contact with unknown threats.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1016",
+   "en": "To solve these problems not yet seen, humanity",
+   "flags": [],
+   "notes": "Subject 'hitobito' (people) rendered 'humanity'."
+  },
+  {
+   "id": "u1017",
+   "en": "planned to send colonists far into space, to new worlds beyond Earth.",
+   "flags": [],
+   "notes": "'ritsuan shita' (drew up a plan) rendered 'planned'."
+  },
+  {
+   "id": "u1018",
+   "en": "Having survived a grueling war,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1019",
+   "en": "%s and %s, too,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1020",
+   "en": "would in time set out on a journey into space...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1021",
+   "en": "And so the Macross's rampage under Sharon Apple was brought to a halt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1022",
+   "en": "The incident was classified top secret,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1023",
+   "en": "and word never spread beyond a handful of insiders, but",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1024",
+   "en": "the danger of runaway unmanned fighters and artificial intelligence",
+   "flags": [],
+   "notes": "Prefill changed: 'it brought the danger...' did not join with the next row 'came to be recognized'."
+  },
+  {
+   "id": "u1025",
+   "en": "came to be recognized as a serious problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1026",
+   "en": "In the end, the full-scale introduction of the Ghost was shelved,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1027",
+   "en": "and with it, the development of manned fighters would continue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1028",
+   "en": "The near-derailed development competition ended in a win for the YF-19,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1029",
+   "en": "which was formally adopted as the VF-19 Excalibur.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1030",
+   "en": "Meanwhile, the losing YF-21's capabilities were also highly rated,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1031",
+   "en": "and it was later reborn as the advanced VF-22, getting its chance to shine.",
+   "flags": [],
+   "notes": "Subject 'it' restored: the previous row's grammatical subject is 'capabilities'."
+  },
+  {
+   "id": "u1032",
+   "en": "And the two who had flown those planes,",
+   "flags": [],
+   "notes": "Prefill 'And as for the two...' changed so the sentence across u1032-u1035 parses."
+  },
+  {
+   "id": "u1033",
+   "en": "%s and %s,",
+   "flags": [],
+   "notes": "Comma added to fit the sentence across rows."
+  },
+  {
+   "id": "u1034",
+   "en": "would put their experience with the prototypes to use",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1035",
+   "en": "and join the crew of a ship bound for the far reaches of space...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1036",
+   "en": "The war against the Protodeviln, led by the mighty Gepelnitchi,",
+   "flags": [],
+   "notes": "Prefill was 478 px; 'immensely powerful' compressed to 'mighty'."
+  },
+  {
+   "id": "u1037",
+   "en": "had come to an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1038",
+   "en": "Just as in the war against the Zentradi long ago,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1039",
+   "en": "it was the power of Basara Nekki and friends' songs that ended the war.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1040",
+   "en": "Afterward, Basara kept on thriving as the vocalist of Fire Bomber,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1041",
+   "en": "and became a singer whose voice thundered across the galaxy.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0962/u0963: sentence recast into two sentences to fit 462 px; 'South Ataria' without 'Island'.",
+   "u1024, u1031, u1032/u1033, u1036: prefilled rows edited so the multi-row sentences parse and fit.",
+   "u1047/u1048 (slice 12 boundary): no subject in the Japanese; used 'they'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

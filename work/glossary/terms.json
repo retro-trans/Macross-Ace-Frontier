@@ -1,0 +1,2442 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-16",
+  "notes": "Game-system terms, in-universe terminology, conflicts and song titles. Entries marked 'provisional' are our own renderings, chosen before the UI was measured. Revisit them once the in-game text is extracted.",
+  "seeded_from": "Macross Ultimate Frontier glossary 0.1.0 (sister project, same engine), pruned and extended for Ace Frontier",
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスエースフロンティア",
+  "game_source_en": "https://macross.fandom.com/wiki/Macross_Ace_Frontier",
+  "fields": {
+   "af_uses": "How many Ace Frontier text entries (EBOOT, mission scripts, unit lists) contain the Japanese name or one of its ja_aliases. 0 = not in the dumped text; the name can still be heard in voice clips",
+   "songs": "Song and BGM titles (EBOOT BGM list and sound test). en = MUF's translation when MUF had the song, else the Macross Wiki article title, else the title as written when it is already English",
+   "skills": "Pilot skill names (EBOOT 0x26C664-). en = MUF's translation; 'open' = not translated yet",
+   "ranks": "Military ranks and titles shown in profiles. en = MUF's translation (abbreviated for the profile box)",
+   "missions": "Mission titles. status 'term': a glossary term or series title. 'episode': the title is an anime episode or film title, use the official English title (MUF wording where MUF already chose one). 'muf': MUF translated the same title. 'open': game original, translate freely",
+   "status": "verified / decided / muf (taken from the MUF translation) / wiki / episode / as_written / provisional / needs_research / open"
+  }
+ },
+ "lore": [
+  {
+   "ja": "フォールド",
+   "en": "fold",
+   "notes": "Space fold (FTL jump). 'fold' as a verb/noun, lowercase in running text.",
+   "af_uses": 11
+  },
+  {
+   "ja": "フォールド通信",
+   "en": "fold communication",
+   "af_uses": 1
+  },
+  {
+   "ja": "フォールドクォーツ",
+   "en": "fold quartz",
+   "sources": [
+    "https://macross.fandom.com/wiki/Fold_Quartz"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "ピンポイントバリア",
+   "en": "pinpoint barrier",
+   "af_uses": 2
+  },
+  {
+   "ja": "オーバーテクノロジー",
+   "en": "OverTechnology",
+   "af_uses": 6
+  },
+  {
+   "ja": "反応弾",
+   "en": "reaction weapon",
+   "aliases": [
+    "reaction warhead"
+   ],
+   "af_uses": 1
+  },
+  {
+   "ja": "マイクローン",
+   "en": "Micronian",
+   "notes": "Zentradi word for humans / normal-sized people.",
+   "af_uses": 14
+  },
+  {
+   "ja": "マイクローン化",
+   "en": "micronize",
+   "af_uses": 4
+  },
+  {
+   "ja": "巨人化",
+   "en": "macronize",
+   "af_uses": 0
+  },
+  {
+   "ja": "デカルチャー",
+   "en": "Deculture!",
+   "notes": "Zentradi exclamation of shock. Keep as 'Deculture!'.",
+   "af_uses": 1
+  },
+  {
+   "ja": "ヤック・デカルチャー",
+   "en": "Yack deculture!",
+   "af_uses": 1
+  },
+  {
+   "ja": "プロトカルチャー",
+   "en": "Protoculture",
+   "af_uses": 6
+  },
+  {
+   "ja": "スピリチア",
+   "en": "Spiritia",
+   "sources": [
+    "https://macross.fandom.com/wiki/Spiritia"
+   ],
+   "af_uses": 20
+  },
+  {
+   "ja": "アニマスピリチア",
+   "en": "Anima Spiritia",
+   "af_uses": 3
+  },
+  {
+   "ja": "歌エネルギー",
+   "en": "Song Energy",
+   "af_uses": 0
+  },
+  {
+   "ja": "スピーカーポッド",
+   "en": "speaker pod",
+   "af_uses": 3
+  },
+  {
+   "ja": "銀河の妖精",
+   "en": "Galactic Fairy",
+   "notes": "Sheryl's title.",
+   "af_uses": 2
+  },
+  {
+   "ja": "超時空シンデレラ",
+   "en": "Super Dimension Cinderella",
+   "notes": "Ranka's title.",
+   "af_uses": 1
+  },
+  {
+   "ja": "板野サーカス",
+   "en": "Itano Circus",
+   "notes": "Missile-swarm maneuver named after animator Ichiro Itano.",
+   "af_uses": 0
+  },
+  {
+   "ja": "統合戦争",
+   "en": "Unification Wars",
+   "sources": [
+    "https://macross.fandom.com/wiki/Unification_Wars"
+   ],
+   "af_uses": 4
+  },
+  {
+   "ja": "第一次星間大戦",
+   "en": "Space War I",
+   "sources": [
+    "https://macross.fandom.com/wiki/Space_War_I"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "バロータ戦役",
+   "en": "Varauta War",
+   "status": "needs_check",
+   "af_uses": 1
+  },
+  {
+   "ja": "バジュラ戦役",
+   "en": "Vajra War",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vajra_War"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "シャロン・アップル事件",
+   "en": "Sharon Apple Incident",
+   "af_uses": 0
+  },
+  {
+   "ja": "スーパーノヴァ計画",
+   "en": "Project Super Nova",
+   "af_uses": 1
+  },
+  {
+   "ja": "超長距離移民船団",
+   "en": "Long Distance Colony Fleet",
+   "af_uses": 0
+  },
+  {
+   "ja": "船団",
+   "en": "fleet",
+   "notes": "Colony fleet. 艦隊 (warfleet) is also 'fleet'.",
+   "af_uses": 38
+  },
+  {
+   "ja": "エイフォス",
+   "en": "AFOS",
+   "notes": "A.F.O.S. (Artifact From Outer Space), the Bird Human relic.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "エイフォスの欠片",
+   "en": "AFOS fragment",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "戦いのカドゥン",
+   "en": "Kadun of Battle",
+   "notes": "Mayan legend; カドゥン alone → 'Kadun'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "オペレーション・イコノクラスム",
+   "en": "Operation Iconoclasm",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "オペレーションスターゲイザー",
+   "en": "Operation Stargazer",
+   "sources": [
+    "https://macross.fandom.com/wiki/Protodeviln_War"
+   ],
+   "af_uses": 2
+  },
+  {
+   "ja": "スピリチア・ファーム・プロジェクト",
+   "en": "Spiritia Farm Project",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gepelnitchi"
+   ],
+   "af_uses": 3
+  },
+  {
+   "ja": "ミンメイ・アタック",
+   "en": "Minmay Attack",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Minmay"
+   ],
+   "af_uses": 1
+  },
+  {
+   "ja": "オペレーション・ミンメイ",
+   "en": "Operation Minmay",
+   "af_uses": 0
+  },
+  {
+   "ja": "ダイダロス・アタック",
+   "en": "Daedalus Attack",
+   "sources": [
+    "https://macross.fandom.com/wiki/Daedalus_Attack"
+   ],
+   "af_uses": 6
+  },
+  {
+   "ja": "ミス・マクロス",
+   "en": "Miss Macross",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Minmay"
+   ],
+   "af_uses": 2
+  },
+  {
+   "ja": "Ｖ型ウィルス",
+   "en": "V-type virus",
+   "notes": "Sheryl's illness. Wiki: 'V-Type infection'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/V-Type_infection"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "ビクター",
+   "en": "Victor",
+   "notes": "Codename for the Vajra group in mission MF_330. Not confirmed on the wiki.",
+   "af_uses": 0
+  },
+  {
+   "ja": "巨大異星人",
+   "en": "giant aliens",
+   "notes": "How humans refer to the Zentradi before contact.",
+   "af_uses": 9
+  },
+  {
+   "ja": "民間人",
+   "en": "civilians",
+   "af_uses": 4
+  },
+  {
+   "ja": "ゼントラーディ兵",
+   "en": "Zentradi soldier",
+   "af_uses": 5
+  },
+  {
+   "ja": "スーパー・ノヴァ計画",
+   "en": "Project Super Nova",
+   "notes": "Variant spelling of スーパーノヴァ計画.",
+   "af_uses": 1
+  },
+  {
+   "ja": "文化",
+   "en": "Culture",
+   "notes": "Zentradi word for human culture; capitalised when Zentradi speak of it.",
+   "af_uses": 8
+  },
+  {
+   "ja": "ＡＳＳ－１",
+   "en": "ASS-1",
+   "notes": "The crashed alien ship (Alien Starship One).",
+   "af_uses": 0
+  },
+  {
+   "ja": "新マクロス級",
+   "en": "New Macross class",
+   "af_uses": 2
+  },
+  {
+   "ja": "ゾラ人",
+   "en": "Zolans",
+   "af_uses": 0
+  },
+  {
+   "ja": "サラ基地",
+   "en": "Sara Base",
+   "notes": "Base on Mars (SDF TV).",
+   "af_uses": 1
+  },
+  {
+   "ja": "バトロイド・アタック",
+   "en": "Battroid Attack",
+   "notes": "In-game arcade game; spelling from the game's own logo.",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロスキャノン",
+   "en": "Macross Cannon",
+   "af_uses": 1
+  },
+  {
+   "ja": "プラネット・ダンス",
+   "en": "Planet Dance",
+   "notes": "Fire Bomber song and maneuver call.",
+   "af_uses": 0
+  },
+  {
+   "ja": "風の導き手",
+   "en": "Guide of the Wind",
+   "notes": "Sara Nome's title.",
+   "af_uses": 0
+  },
+  {
+   "ja": "サンプル",
+   "en": "samples",
+   "notes": "Protodeviln word for captive humans.",
+   "af_uses": 4
+  },
+  {
+   "ja": "美（ガビル）",
+   "en": "<X> Beauty!",
+   "notes": "Gavil's catchphrase pattern, e.g. 制圧美 → 'Suppression Beauty!', 殲滅美 → 'Annihilation Beauty'.",
+   "af_uses": 0
+  },
+  {
+   "ja": "マイクローン装置",
+   "en": "micronization device",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "コンビナートブロック",
+   "en": "industrial complex block",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "イージス艦",
+   "en": "Aegis ship",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "汎用空母",
+   "en": "multipurpose carrier",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 1
+  },
+  {
+   "ja": "フォールドジェネレーター",
+   "en": "fold generator",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "バトロイドカーニバル",
+   "en": "Battroid Carnival",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 2
+  },
+  {
+   "ja": "はぐれメルトラン艦隊",
+   "en": "rogue Meltrandi fleet",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "銀河の歌姫",
+   "en": "Galactic Diva",
+   "notes": "Coined in the dialogue translation (2026-10-15).",
+   "af_uses": 1
+  }
+ ],
+ "game_system": [
+  {
+   "ja": "SPゲージ",
+   "en": "SP Gauge",
+   "af_uses": 5
+  },
+  {
+   "ja": "SPアタック",
+   "en": "SP Attack",
+   "aliases": [
+    "SPA"
+   ],
+   "af_uses": 0
+  },
+  {
+   "ja": "合体SPアタック",
+   "en": "Combo SP Attack",
+   "status": "provisional",
+   "af_uses": 0
+  },
+  {
+   "ja": "チャージ攻撃",
+   "en": "Charge Attack",
+   "af_uses": 0
+  },
+  {
+   "ja": "スキル",
+   "en": "Skill",
+   "af_uses": 12
+  },
+  {
+   "ja": "オートスキル",
+   "en": "Auto Skill",
+   "af_uses": 0
+  },
+  {
+   "ja": "コマンドスキル",
+   "en": "Command Skill",
+   "af_uses": 1
+  },
+  {
+   "ja": "アンチミサイルアクション",
+   "en": "Anti-Missile Action",
+   "notes": "UI label 'ANTI' stays as is.",
+   "af_uses": 0
+  },
+  {
+   "ja": "ミサイルマーカー",
+   "en": "Missile Marker",
+   "af_uses": 0
+  },
+  {
+   "ja": "救助",
+   "en": "Rescue",
+   "af_uses": 0
+  },
+  {
+   "ja": "応急修理",
+   "en": "emergency repair",
+   "af_uses": 0
+  },
+  {
+   "ja": "娘々ショップ",
+   "en": "Nyan-Nyan Shop",
+   "af_uses": 0
+  },
+  {
+   "ja": "娘々ポイント",
+   "en": "Nyan-Nyan Points",
+   "af_uses": 0
+  },
+  {
+   "ja": "リアルフライトモード",
+   "en": "Real Flight Mode",
+   "af_uses": 0
+  },
+  {
+   "ja": "ノーマル",
+   "en": "Normal",
+   "af_uses": 0
+  },
+  {
+   "ja": "追加装備",
+   "en": "Add-on Equipment",
+   "status": "provisional",
+   "af_uses": 0
+  },
+  {
+   "ja": "パージ",
+   "en": "Purge",
+   "af_uses": 0
+  },
+  {
+   "ja": "クロニクルモード",
+   "en": "Chronicle Mode",
+   "af_uses": 0
+  },
+  {
+   "ja": "ストーリーモード",
+   "en": "Story Mode",
+   "af_uses": 0
+  },
+  {
+   "ja": "EXTRAミッション",
+   "en": "EXTRA Mission",
+   "af_uses": 0
+  },
+  {
+   "ja": "プレイヤーキャラ",
+   "en": "Player Character",
+   "af_uses": 0
+  },
+  {
+   "ja": "パートナーキャラ",
+   "en": "Partner Character",
+   "af_uses": 0
+  },
+  {
+   "ja": "サポートキャラ",
+   "en": "Support Character",
+   "af_uses": 0
+  },
+  {
+   "ja": "サブパイロット",
+   "en": "Sub-Pilot",
+   "af_uses": 0
+  },
+  {
+   "ja": "オペレーター",
+   "en": "Operator",
+   "af_uses": 7
+  },
+  {
+   "ja": "友好度",
+   "en": "Affinity",
+   "status": "provisional",
+   "af_uses": 2
+  },
+  {
+   "ja": "カスタマイズ",
+   "en": "Customize",
+   "af_uses": 2
+  },
+  {
+   "ja": "カスタマイズポイント",
+   "en": "Customize Points",
+   "af_uses": 0
+  },
+  {
+   "ja": "カラーエディット",
+   "en": "Color Edit",
+   "af_uses": 0
+  },
+  {
+   "ja": "ハンガー",
+   "en": "Hangar",
+   "af_uses": 0
+  },
+  {
+   "ja": "出撃",
+   "en": "Sortie",
+   "aliases": [
+    "Launch"
+   ],
+   "af_uses": 52
+  },
+  {
+   "ja": "撃墜",
+   "en": "shot down",
+   "aliases": [
+    "kill"
+   ],
+   "af_uses": 7
+  },
+  {
+   "ja": "ミッション",
+   "en": "Mission",
+   "af_uses": 47
+  },
+  {
+   "ja": "カスタムサウンドトラック",
+   "en": "Custom Soundtrack",
+   "af_uses": 0
+  },
+  {
+   "ja": "ギャラリー",
+   "en": "Gallery",
+   "af_uses": 1
+  },
+  {
+   "ja": "ミュージアム",
+   "en": "Museum",
+   "af_uses": 0
+  },
+  {
+   "ja": "チュートリアル",
+   "en": "Tutorial",
+   "af_uses": 1
+  },
+  {
+   "ja": "アドホック",
+   "en": "Ad Hoc",
+   "af_uses": 0
+  },
+  {
+   "ja": "協力プレイ",
+   "en": "Co-op",
+   "af_uses": 3
+  },
+  {
+   "ja": "対戦",
+   "en": "Versus",
+   "af_uses": 39
+  },
+  {
+   "ja": "特殊動作",
+   "en": "Special Maneuvers",
+   "notes": "Tutorial category.",
+   "af_uses": 6
+  },
+  {
+   "ja": "スペシャルアタック",
+   "en": "Special Attack",
+   "notes": "Tutorial spelling; SPアタック elsewhere stays 'SP Attack'.",
+   "af_uses": 4
+  },
+  {
+   "ja": "チャージ射撃",
+   "en": "Charge Shot",
+   "af_uses": 1
+  },
+  {
+   "ja": "チャージ格闘",
+   "en": "Charge Melee",
+   "af_uses": 1
+  },
+  {
+   "ja": "チャージブースト",
+   "en": "Charge Boost",
+   "af_uses": 0
+  },
+  {
+   "ja": "射撃攻撃",
+   "en": "shooting attack",
+   "af_uses": 8
+  },
+  {
+   "ja": "格闘攻撃",
+   "en": "melee attack",
+   "af_uses": 17
+  },
+  {
+   "ja": "方向キー",
+   "en": "D-pad",
+   "af_uses": 13
+  },
+  {
+   "ja": "アナログパッド",
+   "en": "analog stick",
+   "af_uses": 3
+  },
+  {
+   "ja": "マルチロックオン",
+   "en": "multi-lock-on",
+   "af_uses": 3
+  },
+  {
+   "ja": "ロックオンレベル",
+   "en": "lock-on level",
+   "af_uses": 0
+  },
+  {
+   "ja": "ノーマルフライト",
+   "en": "Normal Flight",
+   "af_uses": 0
+  },
+  {
+   "ja": "オプションパーツ",
+   "en": "option parts",
+   "notes": "May be the same thing as 追加装備; check against the UI.",
+   "af_uses": 0
+  },
+  {
+   "ja": "敵を殲滅せよ",
+   "en": "Annihilate all enemies",
+   "notes": "Stock objective (fixed form).",
+   "af_uses": 28
+  },
+  {
+   "ja": "敵エース機を撃破せよ",
+   "en": "Shoot down the enemy ace",
+   "notes": "Stock objective (fixed form).",
+   "af_uses": 0
+  },
+  {
+   "ja": "〜「…」（話者付き説明）",
+   "en": "Name: \"...\"",
+   "notes": "Speaker-label format in briefings; continuation lines indented with ASCII spaces under the opening quote.",
+   "af_uses": 0
+  },
+  {
+   "ja": "チューンポイント",
+   "en": "Tune Points",
+   "notes": "Set in the UI translation (2026-10-15).",
+   "af_uses": 2
+  },
+  {
+   "ja": "歌武装",
+   "en": "Song Weapon",
+   "notes": "Set in the UI translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "通信プレイ",
+   "en": "wireless play",
+   "notes": "Set in the UI translation (2026-10-15).",
+   "af_uses": 10
+  },
+  {
+   "ja": "よろしいですか？",
+   "en": "Proceed?",
+   "notes": "Set in the UI translation (2026-10-15).",
+   "af_uses": 21
+  },
+  {
+   "ja": "娘ｐｔ",
+   "en": "Nyan-Nyan Pts",
+   "notes": "Set in the UI translation (2026-10-15).",
+   "af_uses": 0
+  },
+  {
+   "ja": "パイロット男Ａ",
+   "en": "Male Pilot A",
+   "aliases": [],
+   "af_uses": 2,
+   "notes": "Player pilot slot; the player types the name. MUF later named this character Yuuto Kagura. Same pattern: 男Ｂ Male Pilot B (Gary Murdoch), 女Ａ Female Pilot A (Miyuki Shirakawa), 女Ｂ Female Pilot B (Hilda V. Bergen).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ace_Frontier"
+   ],
+   "status": "provisional"
+  },
+  {
+   "ja": "新米兵士",
+   "en": "Rookie Soldier",
+   "aliases": [],
+   "af_uses": 1,
+   "notes": "Generic AI pilot profile; also ベテラン兵士 'Veteran Soldier'.",
+   "sources": [],
+   "status": "provisional"
+  }
+ ],
+ "skills": [
+  {
+   "ja": "ローリングプラス",
+   "en": "Rolling Plus",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "鉄壁",
+   "en": "Iron Wall",
+   "af_uses": 2,
+   "status": "muf"
+  },
+  {
+   "ja": "千里眼",
+   "en": "Clairvoyance",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "挑発",
+   "en": "Taunt",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "ダッシュプラス",
+   "en": "",
+   "af_uses": 1,
+   "status": "open"
+  },
+  {
+   "ja": "チャフ",
+   "en": "",
+   "af_uses": 1,
+   "status": "open"
+  },
+  {
+   "ja": "修理",
+   "en": "",
+   "af_uses": 1,
+   "status": "open"
+  },
+  {
+   "ja": "アニマスピリチア",
+   "en": "Anima Spiritia",
+   "af_uses": 3,
+   "status": "provisional"
+  },
+  {
+   "ja": "ミサイル落とし",
+   "en": "",
+   "af_uses": 1,
+   "status": "open"
+  },
+  {
+   "ja": "覚醒",
+   "en": "Awakening",
+   "af_uses": 2,
+   "status": "muf"
+  },
+  {
+   "ja": "無限ブースト",
+   "en": "Infinite Boost",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "格闘の遺伝子",
+   "en": "Melee Genes",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "愛・おぼえていますか",
+   "en": "Do You Remember Love?",
+   "af_uses": 8,
+   "status": "muf"
+  },
+  {
+   "ja": "サーカス飛行",
+   "en": "Circus Flight",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "ショックガード",
+   "en": "Shock Guard",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "ＭＹ　ＦＲIＥＮＤＳ",
+   "en": "My Friends",
+   "af_uses": 6,
+   "status": "provisional"
+  },
+  {
+   "ja": "エース",
+   "en": "Ace",
+   "af_uses": 32,
+   "status": "muf"
+  },
+  {
+   "ja": "リフレクション",
+   "en": "Reflection",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "爆撃王",
+   "en": "Bombing King",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "スピリチア吸収",
+   "en": "",
+   "af_uses": 5,
+   "status": "open"
+  },
+  {
+   "ja": "シャロンの誘惑",
+   "en": "Sharon's Temptation",
+   "af_uses": 1,
+   "status": "muf"
+  },
+  {
+   "ja": "早瀬",
+   "en": "Hayase",
+   "af_uses": 9,
+   "status": "provisional"
+  },
+  {
+   "ja": "最後の晩餐",
+   "en": "The Last Supper",
+   "af_uses": 2,
+   "status": "muf"
+  },
+  {
+   "ja": "マックス・ワールド",
+   "en": "Max World",
+   "af_uses": 2,
+   "status": "provisional"
+  }
+ ],
+ "songs": [
+  {
+   "ja": "私の彼はパイロット",
+   "en": "My Boyfriend is a Pilot",
+   "af_uses": 5,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "シャオパイロン",
+   "en": "Shao Pai Long",
+   "af_uses": 4,
+   "sources": [
+    "https://macross.fandom.com/wiki/Shao_Pai_Long"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "愛おぼえていますか",
+   "en": "Do You Remember Love?",
+   "af_uses": 8,
+   "sources": [
+    "https://macross.fandom.com/wiki/Do_You_Remember_Love?"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "天使の絵の具",
+   "en": "Tenshi no Enogu",
+   "af_uses": 1,
+   "sources": [
+    "https://macross.fandom.com/wiki/Tenshi_no_Enogu"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "運命の矢",
+   "en": "Arrow of Fate",
+   "af_uses": 3,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "ドッグ・ファイター",
+   "en": "Dog Fighter",
+   "af_uses": 4,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "Seventh　Moon",
+   "en": "Seventh Moon",
+   "af_uses": 1,
+   "sources": [
+    "https://macross.fandom.com/wiki/Seventh_Moon"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "嵐の中で輝いて",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "架空の空",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "ゼントラ艦隊",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "ＭＥＮ　ＯＦ　ＤＥＳＴＩＮＹ",
+   "en": "MEN OF DESTINY",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "ＡＳＳＡＵＬＴ　ＷＡＶＥＳ",
+   "en": "ASSAULT WAVES",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "ＤＥＮＤＲＯＢＩＵＭ",
+   "en": "DENDROBIUM",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "ＦＥＩＮＴ　ＯＰＥＲＡＴＩＯＮ",
+   "en": "FEINT OPERATION",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "艦隊戦",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "灼熱の脱出",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "ハーフムーンラブ",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "宇宙を駆ける",
+   "en": "",
+   "af_uses": 1,
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "ja": "小白竜（シャオパイロン）",
+   "en": "Shao Pai Long",
+   "af_uses": 3,
+   "sources": [
+    "https://macross.fandom.com/wiki/Shao_Pai_Long"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "愛・おぼえていますか",
+   "en": "Do You Remember Love?",
+   "af_uses": 8,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "マクロス",
+   "en": "Macross",
+   "af_uses": 166,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "ゼントラディアン大要塞（前編）",
+   "en": "Zentradian Great Fortress (Part 1)",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "ゼントラディアン大要塞（後編）",
+   "en": "Zentradian Great Fortress (Part 2)",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "INFORMATION HIGH",
+   "en": "INFORMATION HIGH",
+   "af_uses": 3,
+   "sources": [
+    "https://macross.fandom.com/wiki/INFORMATION_HIGH"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "After in the dark",
+   "en": "After in the dark",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "Fly up to the air",
+   "en": "Fly up to the air",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "突撃ラブハート",
+   "en": "Totsugeki Love Heart",
+   "af_uses": 5,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "HOLY LONELY LIGHT",
+   "en": "Holy Lonely Light",
+   "af_uses": 4,
+   "sources": [
+    "https://macross.fandom.com/wiki/Holy_Lonely_Light"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "MY FRIENDS",
+   "en": "My Friends",
+   "af_uses": 6,
+   "sources": [
+    "https://macross.fandom.com/wiki/My_Friends"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "エース・フロンティア",
+   "en": "Ace Frontier",
+   "af_uses": 10,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "PLANET DANCE",
+   "en": "PLANET DANCE",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "TRY AGAIN",
+   "en": "Try Again",
+   "af_uses": 4,
+   "sources": [
+    "https://macross.fandom.com/wiki/Try_Again"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "ライオン",
+   "en": "Lion",
+   "af_uses": 4,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "アイモ",
+   "en": "Aimo",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "トライアングラー",
+   "en": "Triangler",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "射手座☆午後九時Don't be late",
+   "en": "Iteza☆Gogo Kuji Don't be late",
+   "af_uses": 4,
+   "sources": [
+    "https://macross.fandom.com/wiki/Iteza☆Gogo_Kuji_Don't_be_late"
+   ],
+   "status": "wiki"
+  },
+  {
+   "ja": "The Target",
+   "en": "The Target",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "ブリッツクリーク",
+   "en": "Blitzkrieg",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "root 2045",
+   "en": "root 2045",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "Stratosphere Diver",
+   "en": "Stratosphere Diver",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "ガウォーク・ストライクス",
+   "en": "GERWALK Strikes",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "Central Paranoia Unit",
+   "en": "Central Paranoia Unit",
+   "af_uses": 1,
+   "sources": [],
+   "status": "as_written"
+  },
+  {
+   "ja": "戦争の臓腑",
+   "en": "Bowels of War",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "巨人達の咆哮",
+   "en": "Roar of the Giants",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "フォーメーション・テイクオフ",
+   "en": "Formation Takeoff",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "ja": "リトル・ワンダー",
+   "en": "Little Wonder",
+   "af_uses": 2,
+   "sources": [],
+   "status": "muf"
+  }
+ ],
+ "works": [
+  {
+   "ja": "超時空要塞マクロス",
+   "en": "The Super Dimension Fortress Macross",
+   "af_uses": 20
+  },
+  {
+   "ja": "超時空要塞マクロス 愛・おぼえていますか",
+   "en": "Macross: Do You Remember Love?",
+   "af_uses": 2
+  },
+  {
+   "ja": "超時空要塞マクロス Flash Back 2012",
+   "en": "Macross: Flash Back 2012",
+   "af_uses": 0
+  },
+  {
+   "ja": "超時空要塞マクロスII -LOVERS AGAIN-",
+   "en": "Macross II: Lovers Again",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロスプラス",
+   "en": "Macross Plus",
+   "af_uses": 9
+  },
+  {
+   "ja": "マクロス7",
+   "en": "Macross 7",
+   "af_uses": 40
+  },
+  {
+   "ja": "マクロス ダイナマイト7",
+   "en": "Macross Dynamite 7",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロス ゼロ",
+   "en": "Macross Zero",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロスF",
+   "en": "Macross Frontier",
+   "aliases": [
+    "Macross F"
+   ],
+   "af_uses": 12
+  },
+  {
+   "ja": "マクロス VF-X2",
+   "en": "Macross VF-X2",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロスM3",
+   "en": "Macross M3",
+   "af_uses": 0
+  },
+  {
+   "ja": "マクロスエースフロンティア",
+   "en": "Macross Ace Frontier",
+   "af_uses": 7
+  },
+  {
+   "ja": "マクロスアルティメットフロンティア",
+   "en": "Macross Ultimate Frontier",
+   "aliases": [
+    "MUF"
+   ],
+   "af_uses": 0
+  }
+ ],
+ "ranks": [
+  {
+   "ja": "伍長",
+   "en": "Cpl.",
+   "status": "muf"
+  },
+  {
+   "ja": "軍曹",
+   "en": "Sgt.",
+   "status": "muf"
+  },
+  {
+   "ja": "曹長",
+   "en": "Sgt. Maj.",
+   "status": "muf"
+  },
+  {
+   "ja": "准尉",
+   "en": "WO",
+   "status": "muf"
+  },
+  {
+   "ja": "少尉",
+   "en": "2nd Lt.",
+   "status": "muf"
+  },
+  {
+   "ja": "中尉",
+   "en": "Lt.",
+   "status": "muf"
+  },
+  {
+   "ja": "大尉",
+   "en": "Capt.",
+   "status": "muf"
+  },
+  {
+   "ja": "少佐",
+   "en": "Major",
+   "status": "muf"
+  },
+  {
+   "ja": "中佐",
+   "en": "Lt. Col.",
+   "status": "muf"
+  },
+  {
+   "ja": "大佐",
+   "en": "Col.",
+   "status": "muf"
+  },
+  {
+   "ja": "民間人",
+   "en": "Civilian",
+   "status": "muf"
+  },
+  {
+   "ja": "師団長",
+   "en": "Div. Cmdr.",
+   "status": "muf"
+  },
+  {
+   "ja": "空士長",
+   "en": "Ldg. Airman",
+   "status": "muf"
+  },
+  {
+   "ja": "司令",
+   "en": "Cmdr.",
+   "status": "muf"
+  },
+  {
+   "ja": "長官",
+   "en": "C-in-C",
+   "status": "muf"
+  },
+  {
+   "ja": "主任",
+   "en": "Chief",
+   "status": "muf"
+  },
+  {
+   "ja": "艦長",
+   "en": "Capt.",
+   "status": "muf"
+  },
+  {
+   "ja": "市長",
+   "en": "Mayor",
+   "status": "muf"
+  }
+ ],
+ "missions": [
+  {
+   "id": "eboot:25AE3C",
+   "ja": "ファースト・ステップ",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25AFD4",
+   "ja": "ブービー・トラップ",
+   "en": "Booby Trap",
+   "muf_en": "Booby Trap",
+   "refers_to": "SDF Macross ep. 1",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25B148",
+   "ja": "カウントダウン",
+   "en": "Countdown",
+   "muf_en": "",
+   "refers_to": "SDF Macross ep. 2",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25B294",
+   "ja": "スペース・フォールド",
+   "en": "Space Fold",
+   "muf_en": "",
+   "refers_to": "SDF Macross ep. 3",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25B418",
+   "ja": "トランス・フォーメーション",
+   "en": "Transformation",
+   "muf_en": "Transformation",
+   "refers_to": "SDF Macross ep. 5",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25B5D4",
+   "ja": "アベレージ・ルーキー",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25B75C",
+   "ja": "ダイダロス・アタック",
+   "en": "Daedalus Attack",
+   "muf_en": "Daedalus Attack",
+   "refers_to": "SDF Macross ep. 6",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25B8E8",
+   "ja": "バイバイ・マルス",
+   "en": "Bye-Bye Mars",
+   "muf_en": "Bye-Bye Mars",
+   "refers_to": "SDF Macross ep. 7",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25BA38",
+   "ja": "ロンゲスト・バースデー",
+   "en": "Longest Birthday",
+   "muf_en": "",
+   "refers_to": "SDF Macross ep. 8",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25BB98",
+   "ja": "ブラインド・ゲーム",
+   "en": "Blind Game",
+   "muf_en": "Blind Game",
+   "refers_to": "SDF Macross ep. 10",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25BD18",
+   "ja": "ファースト・コンタクト",
+   "en": "First Contact",
+   "muf_en": "",
+   "refers_to": "SDF Macross ep. 11",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25BEB8",
+   "ja": "ビッグ・エスケープ",
+   "en": "Big Escape",
+   "muf_en": "Big Escape",
+   "refers_to": "SDF Macross ep. 12",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25BFFC",
+   "ja": "ブルー・ウインド",
+   "en": "Blue Wind",
+   "muf_en": "Blue Wind",
+   "refers_to": "SDF Macross ep. 13",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C180",
+   "ja": "カンフー・ダンディ",
+   "en": "Kung Fu Dandy",
+   "muf_en": "Kung Fu Dandy",
+   "refers_to": "SDF Macross ep. 16",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C304",
+   "ja": "パイン・サラダ",
+   "en": "Pineapple Salad",
+   "muf_en": "Pineapple Salad",
+   "refers_to": "SDF Macross ep. 18",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C48C",
+   "ja": "バースト・ポイント",
+   "en": "Burst Point",
+   "muf_en": "Burst Point",
+   "refers_to": "SDF Macross ep. 19",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C5E4",
+   "ja": "ドロップ・アウト",
+   "en": "Drop Out",
+   "muf_en": "",
+   "refers_to": "SDF Macross ep. 23",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C744",
+   "ja": "バージン・ロード",
+   "en": "Virgin Road",
+   "muf_en": "Virgin Road",
+   "refers_to": "SDF Macross ep. 25",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25C8C8",
+   "ja": "愛は流れる",
+   "en": "Love Drifts Away",
+   "muf_en": "Love Drifts Away",
+   "refers_to": "SDF Macross ep. 27 (Wikipedia: 'Love Flows By'; MUF chose 'Love Drifts Away')",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_The_Super_Dimension_Fortress_Macross_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25CA40",
+   "ja": "愛・おぼえていますか",
+   "en": "Do You Remember Love?",
+   "muf_en": "Do You Remember Love?",
+   "refers_to": "DYRL film title",
+   "sources": [
+    "https://macross.fandom.com/wiki/The_Super_Dimension_Fortress_Macross:_Do_You_Remember_Love%3F"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25CBD4",
+   "ja": "コンバット・トレーニング",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25CD08",
+   "ja": "サプライ・ブロック",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25CE1C",
+   "ja": "スカルリーダー",
+   "en": "Skull Leader",
+   "muf_en": "Skull Leader",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:25CF9C",
+   "ja": "バーミリオン・スコードロン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D0E4",
+   "ja": "タイト・ロープ",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D22C",
+   "ja": "デストロイ・デストロイド",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D38C",
+   "ja": "マクロス・インベイジョン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D510",
+   "ja": "リボルト・ボドルザー",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D6AC",
+   "ja": "トレーニング・バトル",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25D94C",
+   "ja": "プロジェクト・スーパーノヴァ",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25DAD4",
+   "ja": "フライト・テスト",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25DC48",
+   "ja": "コントロール・テスト",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25DDC0",
+   "ja": "インファイト・テスト",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25DEC4",
+   "ja": "イン・ザ・スカイ",
+   "en": "In the Sky",
+   "muf_en": "In the Sky",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:25E028",
+   "ja": "イン・ザ・ブルー",
+   "en": "In the Blue",
+   "muf_en": "In the Blue",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:25E108",
+   "ja": "サボタージュ・ミッション",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25E224",
+   "ja": "バトル・エデン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25E35C",
+   "ja": "バーニング・スノウ",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25E464",
+   "ja": "ドッグ・ファイト",
+   "en": "Dogfight",
+   "muf_en": "Dogfight",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:25E5B4",
+   "ja": "天使の歌声",
+   "en": "Voice of an Angel",
+   "muf_en": "Voice of an Angel",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:25E75C",
+   "ja": "ニュープレリュード",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25E870",
+   "ja": "セーフナビゲーション",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25E9D8",
+   "ja": "スピーカーポッド",
+   "en": "Speaker Pod",
+   "muf_en": "Speaker Pod",
+   "refers_to": "Macross 7 ep. 1",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25EB34",
+   "ja": "スピリットギャル",
+   "en": "Spirit Girls",
+   "muf_en": "",
+   "refers_to": "Macross 7 ep. 5",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25ECB4",
+   "ja": "スピリチアファーム",
+   "en": "Spiritia Farm",
+   "muf_en": "Spiritia Farm",
+   "refers_to": "Macross 7 ep. 12",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25EE08",
+   "ja": "戦う女市長ミリア",
+   "en": "Fighting Woman Mayor Milia",
+   "muf_en": "",
+   "refers_to": "Macross 7 ep. 14",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25EF4C",
+   "ja": "乙女のジェラシー",
+   "en": "A Maiden's Jealousy",
+   "muf_en": "A Maiden's Jealousy",
+   "refers_to": "Macross 7 ep. 15 (Wikipedia: 'A Girl's Jealousy'; MUF chose 'A Maiden's Jealousy')",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F208",
+   "ja": "熱き炎の男たち",
+   "en": "Men of Burning Flame",
+   "muf_en": "Men of Burning Flame",
+   "refers_to": "Macross 7 ep. 22 (Wikipedia: 'Men of Burning Passion'; MUF chose 'Men of Burning Flame')",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F380",
+   "ja": "惑星ラクスの死闘",
+   "en": "Death Struggle on Planet Lux",
+   "muf_en": "Death Struggle on Planet Lux",
+   "refers_to": "Macross 7 ep. 26 (Wikipedia: 'Deadly Battle at Planet Lux'; MUF wording kept)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F4DC",
+   "ja": "七色の歌エナジー",
+   "en": "Rainbow Song Energy",
+   "muf_en": "Rainbow Song Energy",
+   "refers_to": "Macross 7 ep. 27 (Wikipedia: 'Rainbow-Colored Song Energy'; MUF wording kept)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F65C",
+   "ja": "裏切りと少女の涙",
+   "en": "Betrayal and a Girl's Tears",
+   "muf_en": "Betrayal and a Girl's Tears",
+   "refers_to": "Macross 7 ep. 33",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F7B4",
+   "ja": "宇宙遺跡のナゾ？",
+   "en": "Mystery of the Cosmic Ruins?",
+   "muf_en": "",
+   "refers_to": "Macross 7 ep. 37",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25F8BC",
+   "ja": "古の亡霊",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25FA0C",
+   "ja": "不意の急襲",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:25FB3C",
+   "ja": "悪夢の突入作戦",
+   "en": "Nightmare Assault Operation",
+   "muf_en": "Nightmare Assault Operation",
+   "refers_to": "Macross 7 ep. 44 (Wikipedia: 'Nightmarish Strike Operation'; MUF wording kept)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25FCB4",
+   "ja": "野望の第4惑星",
+   "en": "Ambition on Varauta 4",
+   "muf_en": "",
+   "refers_to": "Macross 7 ep. 45",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25FDFC",
+   "ja": "ガムリンの叛乱",
+   "en": "Gamlin's Revolt",
+   "muf_en": "",
+   "refers_to": "Macross 7 ep. 46 (AF writes 叛乱; same title)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:25FF40",
+   "ja": "銀河に響く歌声",
+   "en": "A Song Echoing Across the Galaxy",
+   "muf_en": "A Song Echoing Across the Galaxy",
+   "refers_to": "Macross 7 ep. 49 (Wikipedia: 'A Song Heard Across the Galaxy'; MUF wording kept)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_7_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:260090",
+   "ja": "スピリチアドリーム",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:2601EC",
+   "ja": "ファイアーボンバー",
+   "en": "Fire Bomber",
+   "muf_en": "",
+   "refers_to": "band name (organizations)",
+   "sources": [],
+   "status": "term"
+  },
+  {
+   "id": "eboot:26034C",
+   "ja": "クロース・エンカウンター",
+   "en": "Close Encounter",
+   "muf_en": "Close Encounter",
+   "refers_to": "Macross F ep. 1 (Macross Wiki page title: 'Cross Encounter')",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:2604B8",
+   "ja": "ハード・チェイス",
+   "en": "Hard Chase",
+   "muf_en": "",
+   "refers_to": "Macross F ep. 2",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:260604",
+   "ja": "タフ・シミュレーション",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:260764",
+   "ja": "シークレット・ベース",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:2608E0",
+   "ja": "ニューエアフレーム",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:260A68",
+   "ja": "デーモン・オフィサー",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:260BC4",
+   "ja": "オン・ユア・マークス",
+   "en": "On Your Marks",
+   "muf_en": "On Your Marks",
+   "refers_to": "Macross F ep. 3",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:260D14",
+   "ja": "ミス・マクロス",
+   "en": "Miss Macross",
+   "muf_en": "Miss Macross",
+   "refers_to": "SDF Macross ep. 9 / Macross F ep. 4",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:260E64",
+   "ja": "ファースト・アタック",
+   "en": "First Attack",
+   "muf_en": "First Attack",
+   "refers_to": "Macross F ep. 7",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:261008",
+   "ja": "フレンドリー・ファイア",
+   "en": "Friendly Fire",
+   "muf_en": "Friendly Fire",
+   "refers_to": "Macross F ep. 9",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:261154",
+   "ja": "ファステスト・デリバリー",
+   "en": "Fastest Delivery",
+   "muf_en": "Fastest Delivery",
+   "refers_to": "Macross F ep. 12",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:261304",
+   "ja": "メモリー・オブ・グローバル",
+   "en": "Memory of Global",
+   "muf_en": "Memory of Global",
+   "refers_to": "Macross F ep. 13 (Wikipedia: 'Memory of the Global'; MUF chose 'Memory of Global')",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:26146C",
+   "ja": "マザーズ・ララバイ",
+   "en": "Mother's Lullaby",
+   "muf_en": "Mother's Lullaby",
+   "refers_to": "Macross F ep. 14",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Macross_Frontier_episodes"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:261628",
+   "ja": "ならずもの",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:2616C4",
+   "ja": "統合軍2059",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:2616D8",
+   "ja": "海と風と",
+   "en": "Of Sea and Wind",
+   "muf_en": "Of Sea and Wind",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:261834",
+   "ja": "蒼き死闘",
+   "en": "Deadly Duel in Blue",
+   "muf_en": "Deadly Duel in Blue",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:2619B8",
+   "ja": "ドッグファイター",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:261B00",
+   "ja": "戦士との戦い",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:261C08",
+   "ja": "ヤック・デカルチャー",
+   "en": "Yack Deculture!",
+   "muf_en": "",
+   "refers_to": "Zentradi exclamation (terms.lore)",
+   "sources": [],
+   "status": "term"
+  },
+  {
+   "id": "eboot:261D14",
+   "ja": "マクロス地獄",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:261E40",
+   "ja": "ジャイアント・エネミー",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:261F74",
+   "ja": "マクロスエースフロンティア",
+   "en": "Macross Ace Frontier",
+   "muf_en": "",
+   "refers_to": "game title (terms.works)",
+   "sources": [],
+   "status": "term"
+  },
+  {
+   "id": "eboot:26208C",
+   "ja": "ファミ通・おぼえていますか",
+   "en": "Do You Remember Famitsu?",
+   "muf_en": "",
+   "refers_to": "password extra mission (LAMGV)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ace_Frontier"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:2621E0",
+   "ja": "ジェネレーション・ドライブ",
+   "en": "Generation Drive",
+   "muf_en": "",
+   "refers_to": "password extra mission (KSALE)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ace_Frontier"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:26228C",
+   "ja": "超時空編集部デンゲキ",
+   "en": "The Super Dimension Editorial Department Dengeki",
+   "muf_en": "",
+   "refers_to": "password extra mission (IGYSU)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ace_Frontier"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:2623A0",
+   "ja": "ゼントラ丼大盛り",
+   "en": "Supersized Zentradi Rice Bowl",
+   "muf_en": "",
+   "refers_to": "password extra mission (EHIAR)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ace_Frontier"
+   ],
+   "status": "episode"
+  },
+  {
+   "id": "eboot:2625C8",
+   "ja": "天才と呼ばれるパイロット",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262750",
+   "ja": "最後の晩餐",
+   "en": "The Last Supper",
+   "muf_en": "The Last Supper",
+   "refers_to": "",
+   "sources": [],
+   "status": "muf"
+  },
+  {
+   "id": "eboot:262888",
+   "ja": "エースのミリア",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262A18",
+   "ja": "武人ブリタイ",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262B64",
+   "ja": "ピーキー・パイロット",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262CB4",
+   "ja": "スリーピング・ビースト",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262E2C",
+   "ja": "天才の名を持つ艦長",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:262F38",
+   "ja": "女戦士再び",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:263094",
+   "ja": "プラネット・ダンサー",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:2631D4",
+   "ja": "クラムジー・ウーマン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:26331C",
+   "ja": "コンバット・マシン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:26346C",
+   "ja": "ボドルザーの脅威",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:26359C",
+   "ja": "超時空要塞マクロス",
+   "en": "The Super Dimension Fortress Macross",
+   "muf_en": "",
+   "refers_to": "series title (terms.works)",
+   "sources": [],
+   "status": "term"
+  },
+  {
+   "id": "eboot:2636E8",
+   "ja": "決闘美",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:263804",
+   "ja": "スピリチア・ブラックホール",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:263928",
+   "ja": "ネクスト・クイーン",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  },
+  {
+   "id": "eboot:263A60",
+   "ja": "バトルシップパレード",
+   "en": "",
+   "muf_en": "",
+   "refers_to": "",
+   "sources": [],
+   "status": "open"
+  }
+ ]
+}

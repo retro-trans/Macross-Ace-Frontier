@@ -1,0 +1,518 @@
+{
+ "slice": 8,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0761",
+   "en": "MBR-04-Mk IV Tomahawk\nLarge beam cannons on both arms, plus missiles, MGs and more. Fit for many roles: storming enemy ships, city defense, interception.",
+   "flags": [],
+   "notes": "Title Mk IV per glossary (Roman IV not in charset)."
+  },
+  {
+   "id": "u0762",
+   "en": "Heavy artillery Destroid\nFront-mounted weapons make it excel at concentrated fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0763",
+   "en": "Super Flamethrower",
+   "flags": [],
+   "notes": "SP attack name of the Tomahawk (literally super flame-throwing)."
+  },
+  {
+   "id": "u0764",
+   "en": "ADR-04-Mk X Defender\nTwin AA guns on both arms. With a large radar for ultra-long-range space combat, it stood in for gun turrets defending the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0765",
+   "en": "Anti-air interceptor Destroid\nUsed as one of the Macross's anti-air weapons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0766",
+   "en": "Super Shot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0767",
+   "en": "SDR-04-Mk XII Phalanx\nCarries masses of missiles on both arms. Served as the Macross's AA fire when the Zentradi surprise attack left too few gun turrets ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0768",
+   "en": "Close-in air defense Destroid for space\nExcels at short-range attacks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0769",
+   "en": "Full Salvo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0770",
+   "en": "MBR-07-Mk II Spartan\nBuilt for close combat with giant aliens. After the war it was also sent to quell riots by aliens who could not adapt to life on Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0771",
+   "en": "Close-combat Destroid\nHeavily armored and highly mobile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0772",
+   "en": "Melee Combo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0773",
+   "en": "HWR-00-Mk II Monster\nFour large cannons on its head and missile launchers on its arms. The U.N. Forces' top firepower, but its heavy arms leave it slow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0774",
+   "en": "Ultra-long-range artillery Destroid\nTerrible mobility, but tremendous firepower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0775",
+   "en": "SDF-1 Macross\nAn alien battleship that suddenly fell to Earth. Its arrival brought humanity face to face with OverTechnology far beyond its own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0776",
+   "en": "Super Dimension Fortress rebuilt from a giant space battleship\nArmed with weapons of many kinds of OverTechnology",
+   "flags": [],
+   "notes": "Choujikuu yousai = Super Dimension Fortress."
+  },
+  {
+   "id": "u0777",
+   "en": "VF-1D Valkyrie\nTwo-seat VF-1A, mainly for training. Hikaru Ichijyo, caught up in the Zentradi surprise attack, flew it to save Minmay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0778",
+   "en": "Valkyrie used as a training craft\nA trainer, but also capable of real combat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0779",
+   "en": "VF-1A Valkyrie (Standard)\nThe most widely deployed variable fighter on the Macross. Mainly flown by regular pilots. Fights anywhere, from ground to space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0780",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0781",
+   "en": "VF-1A Valkyrie (Max)\nMax's blue unit. Same specs as the standard model, but its genius pilot drew the attention of friend and foe alike.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0782",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0783",
+   "en": "Clone",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Max SP attack 'bunshin' (split self / clone images). Chose Clone."
+  },
+  {
+   "id": "u0784",
+   "en": "VF-1A Valkyrie (Hikaru)\nHikaru's unit in the film. To counter the overwhelming Zentradi forces, its missile load, range and thrust are greatly increased.",
+   "flags": [],
+   "notes": "Title has no film marker in the source, so none added; body says it is the film version."
+  },
+  {
+   "id": "u0785",
+   "en": "Known as the Super Valkyrie\nHikaru's unit with more acceleration, mobility and firepower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0786",
+   "en": "VF-1J Valkyrie (Hikaru)\nHikaru's unit after he became a U.N. Forces pilot. Outperforms the A model, with more firepower from twin head lasers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0787",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nHikaru's unit, the hero mecha of Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0788",
+   "en": "VF-1J Valkyrie (Max)\nGiven to Max after he married Milia. Again painted blue. Flying with Milia's red unit, he racked up even more victories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0789",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0790",
+   "en": "Speed Up",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "SP attack 'kousokuka' (speeding up)."
+  },
+  {
+   "id": "u0791",
+   "en": "VF-1J Valkyrie (Milia)\nGiven to Milia after she married Max. Again painted red. Flying with Max's blue unit, she racked up even more victories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0792",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0793",
+   "en": "VF-1J Valkyrie (Hikaru)\nA VF-1J wearing armor that adds both weapons and plating. Heavily armored and loaded with arms, it can down a battleship alone.",
+   "flags": [],
+   "notes": "Armored version; source title carries no (A) marker, kept as written."
+  },
+  {
+   "id": "u0794",
+   "en": "Known as the Armored Valkyrie\nHikaru's unit, boasting heavy armor and high firepower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0795",
+   "en": "VF-1S Valkyrie (Roy)\nHigh-end unit for squadron leaders. After Focker was killed in action, his junior Hikaru Ichijyo flew it to defend the Macross.",
+   "flags": [],
+   "notes": "Unit suffix (Roy) as in the unit table (u0159); body keeps Focker as written."
+  },
+  {
+   "id": "u0796",
+   "en": "High-performance commander's Valkyrie\nFocker's unit, with a skull as its trademark",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0797",
+   "en": "VF-1S Valkyrie (Hikaru)\nUpgraded Super Parts with twin beam cannons. In the final battle it stormed the enemy flagship with the Macross and beat Boddole Zer.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says Super Parts (not Super Pack); kept. Enemy mothership rendered as flagship."
+  },
+  {
+   "id": "u0798",
+   "en": "Known as the Strike Valkyrie\nHikaru's unit with powerful twin beam cannons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0799",
+   "en": "VF-1S Valkyrie (Roy)\nSortied to save Hikaru and co. from the Zentradi. Met Quamzin in an enemy ship and saved them, but the two took each other down.",
+   "flags": [],
+   "notes": "Source 'aiuchi' = both took each other down."
+  },
+  {
+   "id": "u0800",
+   "en": "Known as the Strike Valkyrie\nFocker's unit with powerful twin beam cannons",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0801",
+   "en": "Regult\nThe Zentradi's most widely used battle pod. Swappable weapons suit it to many operations. Not popular with the troops.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0802",
+   "en": "The Zentradi forces' main battle pod\nSimple in design and easy to field",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0803",
+   "en": "Glaug\nHigh-end unit with large cannons on both arms plus many lasers and machine guns. As Quamzin's ride, it tormented the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0804",
+   "en": "Battle pod developed from collected combat data\nHigh-performance, and especially good at melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0805",
+   "en": "Nousjadeul-Ger\nHumanoid powered suit, more mobile and comfier than the Regult. Well armed, with shoulder cannons, handheld weapons, etc.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0806",
+   "en": "The Zentradi forces' main powered suit\nExcels in firepower, agility and mobility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0807",
+   "en": "Queadluun-Rau (Standard)\nHigh-end Meltrandi battle suit. Highly mobile, it threatened Valkyrie squadrons with powerful weapons and many missiles.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0808",
+   "en": "Battle suit developed by the Zentradi forces\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0809",
+   "en": "Queadluun-Rau (Milia)\nMilia's red unit. Unbeaten, she was feared even by allies. After a fierce dogfight, Max finally got on her tail and shot her down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source passive (had her back taken and was shot down) made active with Max as agent; Max is named in the sentence."
+  },
+  {
+   "id": "u0810",
+   "en": "Battle suit developed by the Zentradi forces\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0811",
+   "en": "Queadluun-Rau (Max)\nBlue unit of Max, who married Milia and grew to Zentradi size. Teamed with Milia's unit, he racked up huge victories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0812",
+   "en": "Battle suit developed by the Zentradi forces\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0813",
+   "en": "Zentradi Soldier\nA rank-and-file Zentradi soldier. Wears only a spacesuit, but at over 10 m tall is no weaker than a Battroid in melee.",
+   "flags": [],
+   "notes": "Kept the soldier ungendered."
+  },
+  {
+   "id": "u0814",
+   "en": "A soldier of the Zentradi forces\nA giant five times the height of a human",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0815",
+   "en": "Vrlitwhai Kridanik\nZentradi fleet commander. Tougher than regular soldiers, he can work in space unprotected for a short time. A strong fighter too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0816",
+   "en": "Zentradi fleet commander\nA warrior who can down a Valkyrie bare-handed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0817",
+   "en": "Golg Boddole Zer\nZentradi fleet supreme commander. Central bio-unit of a mobile fortress built 120,000 cycles ago; larger than normal Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0818",
+   "en": "Zentradi fleet supreme commander\nThe living central unit of the Boddole flagship",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Boddole kan' (Boddole ship) not in glossary; rendered the Boddole flagship."
+  },
+  {
+   "id": "u0819",
+   "en": "Tentacle Frenzy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0820",
+   "en": "VF-11B Thunderbolt\nProduced as the forerunner of the VF-11C. Isamu flew it while hunting down Zentradi remnants scattered across space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0821",
+   "en": "Variable fighter developed as the VF-1's successor\nA VF-14A with improved engine thrust",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source says the unit is a VF-14A with boosted engine thrust; translated as written although odd for a VF-11B."
+  },
+  {
+   "id": "u0822",
+   "en": "YF-19 Excalibur (Isamu)\nNew engines give it high mobility, but make it hard to handle. Heads to Earth to rescue Myung, held captive by Sharon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0823",
+   "en": "Prototype variable fighter of the VF-19\nIsamu's unit, powerful but temperamental",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0824",
+   "en": "YF-21 Sturmvogel (Guld)\nFlown by brain waves. Guld charged the Ghost, a new unmanned fighter run by Sharon, to stop it; both were destroyed.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title: glossary has only YF-21; Sturmvogel taken from VF-22S Sturmvogel II. 'Tokkou' = suicide charge; 'aiuchi' = both destroyed."
+  },
+  {
+   "id": "u0825",
+   "en": "Prototype variable fighter of the VF-22\nGuld's unit, fitted with the BDI system",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0826",
+   "en": "Charge",
+   "flags": [],
+   "notes": "SP attack 'totsugeki' (charge/assault)."
+  },
+  {
+   "id": "u0827",
+   "en": "VF-11C Thunderbolt (Standard)\nU.N. Forces mainstay from A.D. 2040 on. Its easy handling and maintenance kept it the main fighter for a long time.",
+   "flags": [],
+   "notes": "Source starts with seireki, so A.D. kept; source says U.N. Forces (not New U.N.)."
+  },
+  {
+   "id": "u0828",
+   "en": "Variable fighter developed as the VF-1's successor\nMainly used by regular soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0829",
+   "en": "VF-17D Nightmare (Standard)\nStealth unit for special missions. A big frame with many weapons. After the Protodeviln appeared, it mainly defended City 7.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0830",
+   "en": "Variable fighter developed for special missions\nMainly used by the Diamond Force team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0831",
+   "en": "VF-17S Nightmare (Kinryu/Gamlin)\nCommander version of the VF-17. After leader Kinryu died, Gamlin took over Diamond Force and flew this unit.",
+   "flags": [],
+   "notes": "Taichou Kinryu rendered leader Kinryu."
+  },
+  {
+   "id": "u0832",
+   "en": "Variable fighter developed for special missions\nMainly used by the Diamond Force leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0833",
+   "en": "VF-17S Nightmare (Milia)\nTo protect City 7, cut off from the fleet by an enemy ploy, Mayor Milia flew leader Kinryu's old unit, repainted red.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0834",
+   "en": "Variable fighter developed for special missions\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0835",
+   "en": "VF-22S Sturmvogel II (Max)\nMax flew it to attack the Protodeviln nest. A high-end unit full of new tech, such as the ability to fold alone.",
+   "flags": [],
+   "notes": "Single-unit fold navigation compressed to fold alone."
+  },
+  {
+   "id": "u0836",
+   "en": "Special-mission VF, successor to the VF-17\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0837",
+   "en": "VF-22S Sturmvogel II (Milia)\nMilia's red unit. She fought beside Max in Operation Stargazer, and once even sang with a Sound Booster fitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0838",
+   "en": "Special-mission VF, successor to the VF-17\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0839",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0840",
+   "en": "VF-11MAXL Kai Mylene Valkyrie (Mylene)\nVF-11 modified for Mylene, known for its feminine Battroid mode. She sang with Basara, making the battlefield her stage.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0783 Max SP attack 'bunshin' rendered Clone (alternatives: Afterimage, Shadow Clone).",
+   "u0790 SP attack 'kousokuka' rendered Speed Up.",
+   "u0797 Source says Super Parts (not the glossary Super Pack); kept as Super Parts.",
+   "u0809 Passive 'caught from behind and shot down' rewritten with Max as agent.",
+   "u0818 'Boddole kan' not in glossary; rendered the Boddole flagship.",
+   "u0821 Source calls the VF-11B a VF-14A with boosted thrust; translated literally.",
+   "u0824 YF-21 Sturmvogel: glossary lists only YF-21; nickname taken by analogy to VF-22S Sturmvogel II."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Boddole kan (Boddole Zer's flagship, u0818)",
+   "YF-21 nickname Sturmvogel (u0824)"
+  ],
+  "unfinished": []
+ }
+}

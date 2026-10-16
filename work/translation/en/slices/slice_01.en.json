@@ -1,0 +1,1245 @@
+{
+ "slice": 1,
+ "rows_in_slice": 197,
+ "rows_examined": 197,
+ "rows": [
+  {
+   "id": "u0001",
+   "en": "Mission clear rank display will show\nthe rank earned with the currently selected unit.\nProceed?",
+   "flags": [],
+   "notes": "Toggle message: rank display switches to the rank earned with the selected unit. 'Proceed?' per game_system term."
+  },
+  {
+   "id": "u0002",
+   "en": "Mission clear rank display will show\nthe overall rank.\nProceed?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "MAX_BYTES=31 (odd for a 70-byte original, but respected): 'mission clear' dropped from line 1; the paired message u0001 gives the context. Japanese: change mission clear rank display to the overall rank."
+  },
+  {
+   "id": "u0003",
+   "en": "Now saving.\nDo not remove the Memory Stick⑳.",
+   "flags": [],
+   "notes": "Memory Stick + Duo icon glyph kept."
+  },
+  {
+   "id": "u0004",
+   "en": "Now loading.\nDo not remove the Memory Stick⑳.",
+   "flags": [],
+   "notes": "Memory Stick + Duo icon glyph kept."
+  },
+  {
+   "id": "u0005",
+   "en": "Delete the save data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0006",
+   "en": "Hikaru Ichijyo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0007",
+   "en": "Roy Focker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0008",
+   "en": "Maximilian Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0009",
+   "en": "Milia Fallyna",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0010",
+   "en": "Hayao Kakizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0011",
+   "en": "Lynn Minmay",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0012",
+   "en": "Quamzin Kravshera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0013",
+   "en": "Zentradi Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0014",
+   "en": "Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0015",
+   "en": "Golg Boddole Zer",
+   "flags": [],
+   "notes": "Glossary en (alias of Golg Boddole Zer)."
+  },
+  {
+   "id": "u0016",
+   "en": "Isamu Alva Dyson",
+   "flags": [],
+   "notes": "tm kept: glossary en includes 'Alva' although the Japanese drops it."
+  },
+  {
+   "id": "u0017",
+   "en": "Guld Goa Bowman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0018",
+   "en": "Sharon Apple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0019",
+   "en": "Basara Nekki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0020",
+   "en": "Mylene Flare Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0021",
+   "en": "Gamlin Kizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0022",
+   "en": "Milia Fallyna Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0023",
+   "en": "Gigile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0024",
+   "en": "Gavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0025",
+   "en": "Gepelnitchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0026",
+   "en": "Alto Saotome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0027",
+   "en": "Michael Blanc",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0028",
+   "en": "Luca Angeloni",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0029",
+   "en": "Ozma Lee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0030",
+   "en": "Klan Klang",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0031",
+   "en": "Klan Klang (Micronian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0032",
+   "en": "Brera Sterne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0033",
+   "en": "Vajra (S)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0034",
+   "en": "Vajra (L)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0035",
+   "en": "Male Pilot A",
+   "flags": [],
+   "notes": "Player slot, per game_system term; MUF names not used."
+  },
+  {
+   "id": "u0036",
+   "en": "Male Pilot B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0037",
+   "en": "Female Pilot A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0038",
+   "en": "Female Pilot B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0039",
+   "en": "Rookie Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0040",
+   "en": "Grunt: Shot 0 Melee 0",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0041",
+   "en": "Grunt: Shot 0 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0042",
+   "en": "Grunt: Shot 0 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0043",
+   "en": "Grunt: Shot 0 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0044",
+   "en": "Grunt: Shot 1 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0045",
+   "en": "Grunt: Shot 1 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0046",
+   "en": "Grunt: Shot 1 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0047",
+   "en": "Grunt: Shot 1 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0048",
+   "en": "Grunt: Shot 2 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0049",
+   "en": "Grunt: Shot 2 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0050",
+   "en": "Grunt: Shot 2 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0051",
+   "en": "Grunt: Shot 2 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0052",
+   "en": "Grunt: Shot 3 Melee 0 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0053",
+   "en": "Grunt: Shot 3 Melee 1 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0054",
+   "en": "Grunt: Shot 3 Melee 2 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0055",
+   "en": "Grunt: Shot 3 Melee 3 Atk 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0056",
+   "en": "Grunt: Shot 0 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0057",
+   "en": "Grunt: Shot 0 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0058",
+   "en": "Grunt: Shot 0 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0059",
+   "en": "Grunt: Shot 1 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0060",
+   "en": "Grunt: Shot 1 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0061",
+   "en": "Grunt: Shot 1 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0062",
+   "en": "Grunt: Shot 1 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0063",
+   "en": "Grunt: Shot 2 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0064",
+   "en": "Grunt: Shot 2 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0065",
+   "en": "Grunt: Shot 2 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0066",
+   "en": "Grunt: Shot 2 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0067",
+   "en": "Grunt: Shot 3 Melee 0 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0068",
+   "en": "Grunt: Shot 3 Melee 1 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0069",
+   "en": "Grunt: Shot 3 Melee 2 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0070",
+   "en": "Grunt: Shot 3 Melee 3 Atk 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0071",
+   "en": "Grunt: Shot 0 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0072",
+   "en": "Grunt: Shot 0 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0073",
+   "en": "Grunt: Shot 0 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0074",
+   "en": "Grunt: Shot 1 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0075",
+   "en": "Grunt: Shot 1 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0076",
+   "en": "Grunt: Shot 1 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0077",
+   "en": "Grunt: Shot 1 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0078",
+   "en": "Grunt: Shot 2 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0079",
+   "en": "Grunt: Shot 2 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0080",
+   "en": "Grunt: Shot 2 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0081",
+   "en": "Grunt: Shot 2 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0082",
+   "en": "Grunt: Shot 3 Melee 0 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0083",
+   "en": "Grunt: Shot 3 Melee 1 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0084",
+   "en": "Grunt: Shot 3 Melee 2 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0085",
+   "en": "Grunt: Shot 3 Melee 3 Atk 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0086",
+   "en": "Veteran Soldier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0087",
+   "en": "Expert Marksman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0088",
+   "en": "Melee Expert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0089",
+   "en": "Escape Expert",
+   "flags": [],
+   "notes": "AI profile label, 'expert at fleeing/escape'. Parallels Melee Expert."
+  },
+  {
+   "id": "u0090",
+   "en": "Iron Wall Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0091",
+   "en": "Flawless",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0092",
+   "en": "Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0093",
+   "en": "Macross Ace Frontier",
+   "flags": [],
+   "notes": "Game title used as a unit-table entry (x3)."
+  },
+  {
+   "id": "u0094",
+   "en": "Cat's Eye",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0095",
+   "en": "Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0096",
+   "en": "Air Combat Pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0097",
+   "en": "Quel-Quallie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0098",
+   "en": "Heavy Attack Craft",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0099",
+   "en": "Picket Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0100",
+   "en": "Picket Ship (Bow)",
+   "flags": [],
+   "notes": "Ship part (front) = Bow; (middle) Mid; (rear) Stern."
+  },
+  {
+   "id": "u0101",
+   "en": "Picket Ship (Mid)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0102",
+   "en": "Picket Ship (Stern)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0103",
+   "en": "Picket Main Gun",
+   "flags": [],
+   "notes": "'Ship' dropped to fit: 'Picket Ship Main Gun' was 135 px > 122."
+  },
+  {
+   "id": "u0104",
+   "en": "Picket Ship Missile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0105",
+   "en": "Drone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0106",
+   "en": "Bomber",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0107",
+   "en": "Multipurpose Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0108",
+   "en": "Varauta Fleet Flagship Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0109",
+   "en": "Varauta Fleet Flagship Carrier (Right 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0110",
+   "en": "Varauta Fleet Flagship Carrier (Center)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0111",
+   "en": "Varauta Fleet Flagship Carrier (Left 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0112",
+   "en": "Varauta Fleet Flagship Carrier (Left 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0113",
+   "en": "Varauta Fleet Flagship Carrier (Right 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0114",
+   "en": "Varauta Fleet Flagship Carrier Main Gun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0115",
+   "en": "Varauta Fleet Flagship Carrier Sub Gun",
+   "flags": [],
+   "notes": "Secondary gun rendered 'Sub Gun' for brevity."
+  },
+  {
+   "id": "u0116",
+   "en": "Varauta Fleet Flagship Carrier Missile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0117",
+   "en": "Varauta Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0118",
+   "en": "Varauta Ship (Bow)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0119",
+   "en": "Varauta Ship (Mid)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0120",
+   "en": "Varauta Ship (Stern)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0121",
+   "en": "Varauta Main Gun",
+   "flags": [],
+   "notes": "'Ship' dropped to fit; carrier has its own full label."
+  },
+  {
+   "id": "u0122",
+   "en": "Varauta Ship Missile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0123",
+   "en": "Ghost (Luca)",
+   "flags": [],
+   "notes": "Luca's personal Ghost drones."
+  },
+  {
+   "id": "u0124",
+   "en": "Carrier-class Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0125",
+   "en": "Carrier-class Vajra (Bow)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0126",
+   "en": "Carrier-class Vajra (Mid)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0127",
+   "en": "Carrier-class Vajra (Stern)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0128",
+   "en": "Carrier-class Vajra (Left)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0129",
+   "en": "Carrier-class Vajra (Right)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0130",
+   "en": "Carrier-class Vajra (Bottom)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0131",
+   "en": "Carrier Vajra Main Gun",
+   "flags": [],
+   "notes": "'-class' dropped to fit."
+  },
+  {
+   "id": "u0132",
+   "en": "Carrier Vajra Machine Gun",
+   "flags": [],
+   "notes": "'-class' dropped to fit; still 167 px vs 175."
+  },
+  {
+   "id": "u0133",
+   "en": "Carrier-class Vajra Missile",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0134",
+   "en": "VF-1J (Hikaru)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0135",
+   "en": "VF-1J (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0136",
+   "en": "VF-1J (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0137",
+   "en": "VF-1S (Roy)",
+   "flags": [],
+   "notes": "Pilot suffix uses short name 'Roy' as in u0159."
+  },
+  {
+   "id": "u0138",
+   "en": "VF-1A (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0139",
+   "en": "VF-1A (Hikaru, Movie)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "(F) = DYRL film version -> 'Movie' per glossary versions convention, pilot first."
+  },
+  {
+   "id": "u0140",
+   "en": "VF-1S (Hikaru, Movie)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0141",
+   "en": "VF-1S (Roy, Movie)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0142",
+   "en": "VF-1J (Hikaru, Armored)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "(A) = armored version."
+  },
+  {
+   "id": "u0143",
+   "en": "Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0144",
+   "en": "Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0145",
+   "en": "Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0146",
+   "en": "Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0147",
+   "en": "Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0148",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0149",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0150",
+   "en": "Nousjadeul-Ger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0151",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0152",
+   "en": "Queadluun-Rau (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0153",
+   "en": "Queadluun-Rau (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0154",
+   "en": "Zentradi Soldier",
+   "flags": [],
+   "notes": "Variant spelling in the Japanese (missing long vowel); same unit as Zentradi Soldier."
+  },
+  {
+   "id": "u0155",
+   "en": "VF-17S (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0156",
+   "en": "VF-22S (Max)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0157",
+   "en": "VF-22S (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0158",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0159",
+   "en": "VF-0S (Roy)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0160",
+   "en": "SV-51γ (Nora)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0161",
+   "en": "SV-51γ (Ivanov)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0162",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0163",
+   "en": "Queadluun-Rhea (Klan)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0164",
+   "en": "Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0165",
+   "en": "Panzersoln",
+   "flags": [],
+   "notes": "Glossary Az-130 Panzersoln; label has no model number."
+  },
+  {
+   "id": "u0166",
+   "en": "Zaubergeran",
+   "flags": [],
+   "notes": "Glossary FBz-99G Zaubergeran; label has no model number."
+  },
+  {
+   "id": "u0167",
+   "en": "Unbreakable Container",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "145 px vs estimated 140 px box; 'Indestr.' would fit but reads badly."
+  },
+  {
+   "id": "u0168",
+   "en": "Breakable Container",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "129 px vs estimated 122 px box."
+  },
+  {
+   "id": "u0169",
+   "en": "Asteroids",
+   "flags": [],
+   "notes": "Glossary 'asteroid field' shortened to 'Asteroids' for the 3-kanji box (58 vs 56 px)."
+  },
+  {
+   "id": "u0170",
+   "en": "Door (In Warship)",
+   "flags": [],
+   "notes": "Battleship interior -> 'In Warship' to fit."
+  },
+  {
+   "id": "u0171",
+   "en": "Door (In Vajra Ship)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0172",
+   "en": "Switch (In Warship)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0173",
+   "en": "Switch (In Vajra Ship)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0174",
+   "en": "Flight Test Target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0175",
+   "en": "Target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0176",
+   "en": "Vajra Cocoon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0177",
+   "en": "Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0178",
+   "en": "Base (Sub-target)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0179",
+   "en": "Half Macross",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary has no en (needs_research). Literal 'Half Macross' (half-body Macross); not verified against the mission that uses it."
+  },
+  {
+   "id": "u0180",
+   "en": "Half Macross 01",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0181",
+   "en": "Half Macross 02",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0182",
+   "en": "Half Macross 03",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0183",
+   "en": "Half Macross 04",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0184",
+   "en": "Half Macross 05",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0185",
+   "en": "Half Macross 06",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0186",
+   "en": "Half Macross 07",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0187",
+   "en": "Half Macross 08",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0188",
+   "en": "Half Macross 09",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0189",
+   "en": "Half Macross 10",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u0179."
+  },
+  {
+   "id": "u0190",
+   "en": "Half-M Main Gun",
+   "flags": [
+    "uncertain",
+    "overflow"
+   ],
+   "notes": "Japanese abbreviates as 'Half-Ma main gun'. 110 px vs estimated 70 px box; no shorter form keeps 'main gun' readable."
+  },
+  {
+   "id": "u0191",
+   "en": "Half-M Missile",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese abbreviation 'Half-Ma missile'."
+  },
+  {
+   "id": "u0192",
+   "en": "Depot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0193",
+   "en": "Unknown",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0194",
+   "en": "ENTDIS Dummy",
+   "flags": [],
+   "notes": "Debug label; ENTDIS kept as an ID."
+  },
+  {
+   "id": "u0195",
+   "en": "Area Marker (Circle)",
+   "flags": [],
+   "notes": "Debug label: object used to display an area (circle)."
+  },
+  {
+   "id": "u0196",
+   "en": "Area Marker (Rectangle)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0197",
+   "en": "Radar Text",
+   "flags": [],
+   "notes": "Debug label: text inside the radar."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0002: MAX_BYTES=31 forced 'Show the / overall rank. / Proceed?' (drops 'mission clear'); the 31-byte cap looks suspicious for a 70-byte string - worth checking.",
+   "u0179-u0191: 'Half Macross' (glossary needs_research); parts 01-10, 'Half-M Main Gun' / 'Half-M Missile'. Rename if the mission shows it is e.g. a half-buried Macross.",
+   "u0139-u0142: film/armored versions as 'VF-1A (Hikaru, Movie)', 'VF-1J (Hikaru, Armored)'; glossary families suggest Super/Strike/Armored Valkyrie names as an alternative.",
+   "u0167/u0168/u0169/u0190: slightly over estimated unit-table boxes (145/140, 129/122, 58/56, 110/70 px).",
+   "u0103/u0121/u0131/u0132: dropped 'Ship' / '-class' in gun labels to fit.",
+   "Pilot-table tm names (u0006, u0010, u0039, u0087, u0090) and tm unit names (u0096, u0098, u0107) exceed the estimated box widths; kept as MUF/glossary names."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "half Macross mission object (glossary entry has empty en)"
+  ],
+  "unfinished": []
+ }
+}

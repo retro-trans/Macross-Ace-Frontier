@@ -1,0 +1,269 @@
+{
+ "slice": 13,
+ "rows_in_slice": 36,
+ "rows_examined": 36,
+ "rows": [
+  {
+   "id": "u1063",
+   "en": "U.N. Forces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Faction label, 72 px vs 56 px estimate; glossary form kept."
+  },
+  {
+   "id": "u1064",
+   "en": "Zentradi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1065",
+   "en": "New U.N. Forces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Faction label, 104 px vs 70 px estimate; glossary form kept."
+  },
+  {
+   "id": "u1066",
+   "en": "Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1067",
+   "en": "Vajra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1068",
+   "en": "A unit that cannot sortie is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1069",
+   "en": "A unit the player cannot pilot is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1070",
+   "en": "A unit the partner cannot pilot is selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1071",
+   "en": "The player and partner cannot sortie as the same pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1072",
+   "en": "Switch eras with Left/Right on the D-pad\nto play the tutorials.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1073",
+   "en": "Macross: Do You Remember Love?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese is 'SDF Macross (theatrical version)', i.e. the DYRL film; used the works glossary title."
+  },
+  {
+   "id": "u1074",
+   "en": "Macross Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1075",
+   "en": "Macross 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1076",
+   "en": "Macross F",
+   "flags": [],
+   "notes": "Glossary alias 'Macross F' to fit 83 px (the Japanese itself writes 'Macross F')."
+  },
+  {
+   "id": "u1077",
+   "en": "Game Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1078",
+   "en": "My Boyfriend is a Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1079",
+   "en": "Shao Pai Long",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1080",
+   "en": "Do You Remember Love?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary title; 161 px vs 157 px estimate."
+  },
+  {
+   "id": "u1081",
+   "en": "Tenshi no Enogu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1082",
+   "en": "Arrow of Fate",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Prefill (glossary) 86 px vs 70 px estimate."
+  },
+  {
+   "id": "u1083",
+   "en": "Dog Fighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1084",
+   "en": "Shining in the Storm",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. 129 px vs 122 px. Same title as the Gundam 08th MS Team song; likely an engine leftover (see MS rows)."
+  },
+  {
+   "id": "u1085",
+   "en": "Unreal Sky",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. 'Kakuu no sora' = imaginary/fictional sky; 'Unreal Sky' chosen to fit 70 px."
+  },
+  {
+   "id": "u1086",
+   "en": "Zentradi Fleet",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. 'Zentora' short for Zentradi; 'Zentradi Fleet'."
+  },
+  {
+   "id": "u1087",
+   "en": "Fleet Battle",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. 73 px vs 56 px estimate."
+  },
+  {
+   "id": "u1088",
+   "en": "Fiery Escape",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. Literal 'scorching escape'; 'Fiery Escape' to fit 87 px."
+  },
+  {
+   "id": "u1089",
+   "en": "Half Moon Love",
+   "flags": [],
+   "notes": "Song glossary status open."
+  },
+  {
+   "id": "u1090",
+   "en": "Racing in Space",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song glossary status open. Literal 'running through space'."
+  },
+  {
+   "id": "u1091",
+   "en": "MS Battle 01",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'MS' kept as written (probably Mobile Suit: looks like a leftover from the engine's Gundam games)."
+  },
+  {
+   "id": "u1092",
+   "en": "MS Battle 02",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u1091."
+  },
+  {
+   "id": "u1093",
+   "en": "Opening Movie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1094",
+   "en": "Credits",
+   "flags": [],
+   "notes": "'Staff roll' rendered 'Credits'."
+  },
+  {
+   "id": "u1095",
+   "en": "A rookie operator whose natural cheer makes up for her inexperience. Her looks and manner make her seem younger than she is, which really bothers her. (CV: Kimiko Koyama)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Identified as Yuu Akimizu (rookie operator; female CV). Compressed to fit 3 lines."
+  },
+  {
+   "id": "u1096",
+   "en": "A big-sister operator whose orders are sometimes gentle, sometimes strict, always on point. A bit pushy but caring, she is popular with the crew as an admired big sister. (CV: Yuu Adachi)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Identified as Claire Stanford (big-sister operator; female CV). Compressed to fit 3 lines."
+  },
+  {
+   "id": "u1097",
+   "en": "A skilled operator who reads battles calmly. His blunt words to pilots get him misunderstood, but he's just bad at showing feelings and is truly kind. Glasses are his trademark. (CV: Kiyotaka Furushima)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Identified as Itsuki Yamashiro (male CV, glossary gender male). 'jou ni atsui' rendered 'truly kind' to fit 3 lines."
+  },
+  {
+   "id": "u1098",
+   "en": "A U.N. Forces Lt. and air combat controller on the Macross bridge. A by-the-book stickler, she was treated as an \"old lady\" by Hikaru, but slowly came to have feelings for him. (CV: Mika Doi)",
+   "flags": [],
+   "notes": "Misa Hayase profile."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1063/u1065: 'U.N. Forces' and 'New U.N. Forces' faction labels exceed the width estimate (72/56, 104/70 px); kept the glossary form.",
+   "u1080/u1082/u1084/u1087: short labels a little over the estimate.",
+   "u1073: '(theatrical version)' rendered as the film title 'Macross: Do You Remember Love?'.",
+   "u1084-u1092: song titles with status open translated by me (Shining in the Storm, Unreal Sky, Zentradi Fleet, Fleet Battle, Fiery Escape, Half Moon Love, Racing in Space, MS Battle 01/02); the MS rows look like Gundam-engine leftovers.",
+   "u1095-u1097: profiles matched to Yuu Akimizu, Claire Stanford, Itsuki Yamashiro by role and voice actor gender; CV readings Kimiko Koyama, Yuu Adachi, Kiyotaka Furushima."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Song titles with status open now translated: u1084-u1092"
+  ],
+  "unfinished": []
+ }
+}

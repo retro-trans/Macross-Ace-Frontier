@@ -1,0 +1,3875 @@
+{
+ "_doc": "Every texture with Japanese text that tools/redraw_images.py redraws (v0.1.1). No Japanese: the transcriptions are in work/translation/en/images/img_*.json (gitignored). group: A hangar, B gallery+settings, C other menus, D HUD/script (texture review agents), muf (identical to an Ultimate Frontier texture, MUF's row reused), titles (mission title cards), tips (loading tip cards). Kept as art (not listed): official series logos, in-scene text in the anime loading stills mac00009-mac00256 and their thumbnails.",
+ "count": 346,
+ "by_group": {
+  "C": 26,
+  "muf": 84,
+  "B": 49,
+  "A": 25,
+  "tips": 5,
+  "D": 50,
+  "titles": 107
+ },
+ "textures": [
+  {
+   "file": "data/menu/character_menu/c08.gim",
+   "size": [
+    60,
+    138
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "STA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/character_menu/c11_m00.gim",
+   "size": [
+    108,
+    18
+   ],
+   "group": "C",
+   "kind": "menu title",
+   "en": "Enter Name",
+   "flags": []
+  },
+  {
+   "file": "data/menu/data_select/data_select_prize_base.gim",
+   "size": [
+    148,
+    152
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Switch Page",
+   "flags": []
+  },
+  {
+   "file": "data/menu/data_select/dl03.gim",
+   "size": [
+    289,
+    96
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "Squad\nSTA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK\nSTA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/face_m/auto_select_f_m.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/face_m/impossible_f_m.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "No Sortie",
+   "flags": []
+  },
+  {
+   "file": "data/menu/face_m/limit_f_m.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Restricted",
+   "flags": []
+  },
+  {
+   "file": "data/menu/face_s/auto_select_f_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/face_s/impossible_f_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "No Sortie",
+   "flags": []
+  },
+  {
+   "file": "data/menu/face_s/limit_f_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Restricted",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_all_cha_ti_bar_base.gim",
+   "size": [
+    316,
+    28
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change Category",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_all_common_header.gim",
+   "size": [
+    324,
+    14
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Sorties\nCustom Rate\nKills (as Enemy)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_all_mec_ti_bar_base.gim",
+   "size": [
+    316,
+    28
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Change Category",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_all_rate_base.gim",
+   "size": [
+    266,
+    47
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Total Sorties\nTimes Shot Down\nMission Clear Rate\nTotal Kills\nItem Recovery Rate\nPlay Time",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_rank_deco2.gim",
+   "size": [
+    9,
+    9
+   ],
+   "group": "B",
+   "kind": "other",
+   "en": "th",
+   "flags": [
+    "numbers",
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_ribbon_1st.gim",
+   "size": [
+    39,
+    162
+   ],
+   "group": "B",
+   "kind": "other",
+   "en": "1st\n2nd\n3rd",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_ribbon_2nd.gim",
+   "size": [
+    39,
+    117
+   ],
+   "group": "B",
+   "kind": "other",
+   "en": "2nd\n3rd",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_ribbon_3rd.gim",
+   "size": [
+    39,
+    72
+   ],
+   "group": "B",
+   "kind": "other",
+   "en": "3rd",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_c_title_bar.gim",
+   "size": [
+    316,
+    28
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change Category",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_com_clear_rate_base.gim",
+   "size": [
+    315,
+    51
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Macross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_free_dialog_header.gim",
+   "size": [
+    168,
+    13
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Total Kills\nTimes Shot Down",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_free_rank_header.gim",
+   "size": [
+    284,
+    17
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Matches\n1st\n2nd\n3rd\n4th",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_free_title_cost.gim",
+   "size": [
+    315,
+    14
+   ],
+   "group": "B",
+   "kind": "menu title",
+   "en": "Force Battle",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_r_free_title_free.gim",
+   "size": [
+    315,
+    14
+   ],
+   "group": "B",
+   "kind": "menu title",
+   "en": "Free Battle",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_all_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Tactical Analysis\nChange Category\nMode Balance\nCombat Style\nTotal Missiles Fired\nx100M\nx10K\nshots\nBattroid\nGERWALK\nFighter\nMelee\nShooting\nOther\nTotal Sorties\nTimes Shot Down\nMission Clear Rate\nTotal Kills\nItem Recovery Rate\nPlay Time",
+   "flags": [
+    "mockup",
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_record_all_tactics_base.gim",
+   "size": [
+    315,
+    150
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Tactical Analysis\nChange Category\nMode Balance\nCombat Style\nTotal Missiles Fired\nx100M\nx10K\nshots\nBattroid\nGERWALK\nFighter\nMelee\nShooting\nEnemy",
+   "flags": [
+    "numbers",
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_record_campaign_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_record_chara_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "B",
+   "kind": "menu title",
+   "en": "Character Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_freeplay_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Force Battle\nMatches\n1st\n2nd\n3rd\n4th\nFree Battle\nMatches\n1st\n2nd\n3rd\n4th\nChange Category\nRoy Focker Assassination\nRoy Focker Assassination\nTotal Kills\nTimes Shot Down",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_record_joint_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_all.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Overall Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_base.gim",
+   "size": [
+    127,
+    174
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Overall Record\nCampaign Record\nCo-op Mission Record\nVF Record\nVersus Record\nCharacter Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_campaign.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Campaign Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_character.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Character Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_freeplay.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Versus Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_joint.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Co-op Mission Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_list_mecha.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "VF Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/gallery/gal_record_mecha_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/gal_record_all_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Tactical Analysis\nChange Category\nMode Balance\nCombat Style\nTotal Missiles Fired\nx100M\nx10K\nshots\nBattroid\nGERWALK\nFighter\nMelee\nShooting\nOther\nTotal Sorties\nTimes Shot Down\nMission Clear Rate\nTotal Kills\nItem Recovery Rate\nPlay Time",
+   "flags": [
+    "mockup",
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/gal_record_campaign_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/gal_record_chara_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Character Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_freeplay_base.gim",
+   "size": [
+    327,
+    207
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Force Battle\nMatches\n1st\n2nd\n3rd\n4th\nFree Battle\nMatches\n1st\n2nd\n3rd\n4th\nChange Category\nRoy Focker Assassination\nRoy Focker Assassination\nTotal Kills\nTimes Shot Down",
+   "flags": [
+    "mockup",
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/gal_record_joint_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_all.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Overall Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_base.gim",
+   "size": [
+    127,
+    174
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Overall Record\nCampaign Record\nCo-op Mission Record\nVF Record\nVersus Record\nCharacter Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_campaign.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Campaign Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_character.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Character Affinity",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_freeplay.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Versus Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_joint.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Co-op Mission Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_list_mecha.gim",
+   "size": [
+    115,
+    15
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "VF Record",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/gal_record_mecha_base.gim",
+   "size": [
+    327,
+    208
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Change Category\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nRoy Focker Assassination\nMacross\nMacross Plus\nMacross 7\nMacross F\nExtra\nS-Rank Rate",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/hangar/han_color_edit.gim",
+   "size": [
+    100,
+    18
+   ],
+   "group": "A",
+   "kind": "menu title",
+   "en": "Color Settings",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_m_info_info_base.gim",
+   "size": [
+    224,
+    133
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Weather\nTime\nTime Limit",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_m_list_bgm.gim",
+   "size": [
+    67,
+    12
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change BGM",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_m_list_briefing.gim",
+   "size": [
+    39,
+    12
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Details",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_mecha_edit.gim",
+   "size": [
+    100,
+    18
+   ],
+   "group": "A",
+   "kind": "menu title",
+   "en": "Unit Settings",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_mission_base.gim",
+   "size": [
+    473,
+    209
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Sortie",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_mission_next.gim",
+   "size": [
+    22,
+    11
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "Next",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_chroma_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Saturation",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_color1_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Color 1",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_color2_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Color 2",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_color3_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Color 3",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_hue_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Hue",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_c_e_value_w.gim",
+   "size": [
+    56,
+    13
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Brightness",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_color_word_c_reset.gim",
+   "size": [
+    124,
+    16
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Reset to Default",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_p_color_word_c_select.gim",
+   "size": [
+    55,
+    11
+   ],
+   "group": "muf",
+   "kind": "menu title",
+   "en": "Pick Color",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_play_color_edit_base.gim",
+   "size": [
+    197,
+    210
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Color 1\nHue\nSaturation\nBrightness\nColor 2\nHue\nSaturation\nBrightness\nColor 3\nHue\nSaturation\nBrightness",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_play_p_skill_edit_base.gim",
+   "size": [
+    272,
+    204
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "SP Cost\nEquip",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_play_pilot_status_base.gim",
+   "size": [
+    249,
+    191
+   ],
+   "group": "A",
+   "kind": "caption",
+   "en": "Stamina\nShooting\nMelee\nDefense\nSpeed\nFocus\nAwakening",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/han_skill_edit.gim",
+   "size": [
+    100,
+    18
+   ],
+   "group": "A",
+   "kind": "menu title",
+   "en": "Skill Settings",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/hangar_decision_button.gim",
+   "size": [
+    54,
+    19
+   ],
+   "group": "A",
+   "kind": "button label",
+   "en": "OK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/hangar/mission_part/han_mission_logo_mp.gim",
+   "size": [
+    68,
+    23
+   ],
+   "group": "A",
+   "kind": "banner",
+   "en": "MACROSS PLUS",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/load/mac00001.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "tips",
+   "kind": "message",
+   "en": "Yuu and Itsuki's MAF Primer - Enter the Instructor -\nItsuki: I'm Yamashiro, your tactics instructor from today. Glad to have you.\nYuu: Yes, Instructor!\nItsuki: Good answer.\nNow, straight to it: what matters most to a pilot?\nYuu: Defeating the enemy?\nItsuki: That too, but what matters most is staying alive.\nYou can clear most stages as long as you don't get shot down.\nYuu: Understood, Instructor!\nItsuki: Good. From next time I'll teach you techniques for real combat.\nFirst, play the tutorial and master the basic controls.\n★Play the tutorial before you start a mission and you'll\n  learn to fly a Valkyrie much more easily.\nNext  -  Customizing  -",
+   "flags": []
+  },
+  {
+   "file": "data/menu/load/mac00002.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "tips",
+   "kind": "message",
+   "en": "Yuu and Itsuki's MAF Primer - Customizing -\nItsuki: Well, everyone, got the basic controls down from the tutorial?\nYuu: Yes, Instructor!\nItsuki: Good attitude. The basics matter in everything.\nSo today, as a special lesson, I'll teach you the secrets of tuning.\nYuu: A special lesson? How lovely★\nItsuki: ...\nThere's a lot you can upgrade, but [y]beginners should start with HP.[/]\nRaising Range, so missiles reach farther, or each weapon's power is good too.\nYuu: That's really helpful!\nItsuki: Good. Next time I'll explain each unit's traits and weapons.\n★Clear a mission and you earn Tune Points.\n  Use your Tune Points to keep making your unit stronger!\nNext  -  Master Your Unit  -",
+   "flags": []
+  },
+  {
+   "file": "data/menu/load/mac00003.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "tips",
+   "kind": "message",
+   "en": "Yuu and Itsuki's MAF Primer - Master Your Unit -\nItsuki: Straight to it, Akimizu: is there a unit you like in MAF?\nYuu: The Spartan!★\nItsuki: ...Well, it's certainly a fine unit, but you can't leave out\nthe biggest draw of every Macross series:\nthe Valkyrie variable fighter.\nYuu: It transforms into three modes: Fighter, GERWALK and Battroid, right?\nItsuki: Hm, you've done your homework.\nEach of the three modes has its strengths. Switch between them well\nand you should gain the upper hand in battle.\nBetween us: with the skill [o]\"Circus Flight\"[/], even units that\ncan't fly get a flight mode. Now you're set for air combat too!!\nYuu: No way! That's amazing, Instructor★\nItsuki: Next time is the last lesson. I've saved my best material for it.\nNext  -  Offense Is the Best Defense  -",
+   "flags": []
+  },
+  {
+   "file": "data/menu/load/mac00004.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "tips",
+   "kind": "message",
+   "en": "Yuu and Itsuki's MAF Primer - Offense Is the Best Defense -\nItsuki: This time I'll explain how to attack.\nIn MAF, whoever masters missiles masters the world...\nYuu: M-missiles?\nItsuki: That's right!! In range, homing, rounds fired, damage and more,\nmissiles are an extremely powerful way to attack.\nYuu: I like melee better, though.\nItsuki: Heh. For people like you, I've added the [o]\"Melee Finish Bonus\"[/].\nDefeat an enemy with melee for an extra bonus. Do give it a try.\nYuu: Now that's DESTROY!!\nItsuki: And one more thing you mustn't forget: the [o]\"Special Attack\"[/]!!\nIt uses 3 blocks of the SP Gauge, but it's an extremely powerful attack.\nAnd don't overlook that you're fully invincible while it's active.\nItsuki: Well, that ends our lessons. Any last questions?\nYuu: Um, er... Instructor, are your glasses just for show?\nItsuki: Heh, sorry. That's a secret.",
+   "flags": []
+  },
+  {
+   "file": "data/menu/load/mac00005.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "tips",
+   "kind": "message",
+   "en": "Why You Should Play MAF Co-op\n◆Versus (Free Battle, Force Battle)\n- Battle your friends, up to 4 players.\n- Bring the units you've each trained and fight the ultimate battle.\n- Battle your friends and earn lots of Tune Points.\n◆Co-op Missions\n- You can play every Campaign mode mission together with friends.\n- Even if it's hard alone, with friends at your side you can\n  surely overcome any tough mission.\n- Some super-hard missions can only be played in co-op,\n  so take them on together★\n◆ID Card Exchange\n- Play co-op with friends and you swap ID cards automatically.\n- Set your intro, title and icon, and show them off to everyone★",
+   "flags": []
+  },
+  {
+   "file": "data/menu/map_face/mm17.gim",
+   "size": [
+    222,
+    42
+   ],
+   "group": "muf",
+   "kind": "banner",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_l/auto_select_m_l.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_l/impossible_m_l.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "No Sortie",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_l/limit_m_l.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Restricted",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_l/no_partner_l.gim",
+   "size": [
+    50,
+    64
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Standby",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_s/auto_select_m_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_s/impossible_m_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "No Sortie",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_s/limit_m_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Restricted",
+   "flags": []
+  },
+  {
+   "file": "data/menu/mecha_s/no_partner_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Standby",
+   "flags": []
+  },
+  {
+   "file": "data/menu/music/common_s_m_def_b.gim",
+   "size": [
+    170,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Reset to Default",
+   "flags": []
+  },
+  {
+   "file": "data/menu/music/common_s_m_def_w.gim",
+   "size": [
+    170,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Reset to Default",
+   "flags": []
+  },
+  {
+   "file": "data/menu/music/common_s_m_keyguide.gim",
+   "size": [
+    175,
+    22
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Set\nPlay BGM",
+   "flags": []
+  },
+  {
+   "file": "data/menu/music/common_s_m_rdm_b.gim",
+   "size": [
+    170,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Randomize",
+   "flags": []
+  },
+  {
+   "file": "data/menu/music/common_s_m_rdm_w.gim",
+   "size": [
+    170,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Randomize",
+   "flags": []
+  },
+  {
+   "file": "data/menu/result/result_c_p_header.gim",
+   "size": [
+    23,
+    89
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "STA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/result/result_c_score_base.gim",
+   "size": [
+    291,
+    243
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "BONUS\nBONUS\nBONUS",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_00_d.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Forward (Nose Down)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_00_d_w.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Forward (Nose Down)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_00_u.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Forward (Nose Up)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_00_u_w.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Forward (Nose Up)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_01_d.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Backward (Nose Down)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_01_d_w.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Backward (Nose Down)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_01_u.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Backward (Nose Up)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_01_u_w.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Backward (Nose Up)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_02.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Move Left / Turn Left",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_03.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Move Right / Turn Right",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_04_a.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Transform (Fighter)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_04_b.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Lock On / Release Lock",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_05_a.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Transform (GERWALK)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_05_b.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Switch Lock-On Target",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_06_a.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Transform (GERWALK)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_06_b.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Switch Lock-On Target",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_07_a.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Transform (Battroid)",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_07_b.gim",
+   "size": [
+    129,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Switch Target Category",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_08.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Special Weapon",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_09.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Melee",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_10.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Main Weapon",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_11.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Boost",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_12.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Guard",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_13_a.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Lock On / Switch",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_font2_13_b.gim",
+   "size": [
+    81,
+    19
+   ],
+   "group": "B",
+   "kind": "button label",
+   "en": "Transform",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/con_window_a.gim",
+   "size": [
+    470,
+    260
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Switch Weapon\nSpecial Weapon\nSpecial Attack\nMelee\nCommand Skill\nMove Left / Turn Left\nMain Weapon\nCharge Shot\nMove Right / Turn Right\nBoost\nCharge Melee\nTransform (Fighter)\nGuard\nCharge Boost\nTransform (GERWALK)\nLock On / Switch\nSwitch Target Category\nTransform (GERWALK)\nShow Menu\nSwitch Target Category\nTransform (Battroid)\nWingman Orders\nRelease Lock",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/setting/con_window_b.gim",
+   "size": [
+    470,
+    260
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Special Weapon\nSwitch Weapon\nMelee\nSpecial Attack\nMove Left / Turn Left\nMain Weapon\nCommand Skill\nMove Right / Turn Right\nBoost\nCharge Shot\nLock On / Release Lock\nGuard\nCharge Melee\nSwitch Lock-On Target\nTransform\nCharge Boost\nSwitch Lock-On Target\nShow Menu\nSwitch Target Category\nWingman Orders",
+   "flags": [
+    "mockup"
+   ]
+  },
+  {
+   "file": "data/menu/setting/dl03.gim",
+   "size": [
+    289,
+    96
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "Squad\nSTA\nSHT\nMEL\nDEF\nREA\nSEN\nSTA\nSHT\nMEL\nDEF\nREA\nSEN",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/setting/set_card_spec.gim",
+   "size": [
+    289,
+    96
+   ],
+   "group": "B",
+   "kind": "caption",
+   "en": "STA\nSHT\nMEL\nDEF\nSPD\nFOC\nAWK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/set_clist_word1.gim",
+   "size": [
+    24,
+    14
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Rec.",
+   "flags": []
+  },
+  {
+   "file": "data/menu/setting/set_clist_word2.gim",
+   "size": [
+    24,
+    14
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Del.",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_2d_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "2D Display",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_2d_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "2D Display",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_mis-int_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Abort Mission",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_mis-int_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Abort Mission",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_mis-reo_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Resume Mission",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_mis-reo_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Resume Mission",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_vie_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change View",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_p_m_vie_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change View",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_pause_map_base.gim",
+   "size": [
+    235,
+    259
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "Weather\nTime Limit\nTime",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_bgm_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change BGM",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_bgm_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Change BGM",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_con_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Controller",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_con_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Controller",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_cstm_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Customize",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_cstm_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Customize",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_end_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Quit",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_end_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Quit",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_fre_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Network",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_fre_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Network",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_hang_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Hangar",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_hang_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Hangar",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_load_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Load",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_load_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Load",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_play_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Play from Start",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_play_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Play from Start",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_prev_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "View Screenshots",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_prev_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "View Screenshots",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_ptsv_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save Screenshots",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_ptsv_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save Screenshots",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rped_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "End Replay",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rped_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "End Replay",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rpsv_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save Replay",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rpsv_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save Replay",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rtry_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Retry",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rtry_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Retry",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rule_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "C",
+   "kind": "menu title",
+   "en": "Rule Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_rule_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "C",
+   "kind": "menu title",
+   "en": "Rule Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_save_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_save_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Save",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_set_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Era Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_set_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Era Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_top_b.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Top Menu",
+   "flags": []
+  },
+  {
+   "file": "data/menu/system/common_s_m_top_w.gim",
+   "size": [
+    139,
+    17
+   ],
+   "group": "muf",
+   "kind": "button label",
+   "en": "Top Menu",
+   "flags": []
+  },
+  {
+   "file": "data/menu/title/title.gim",
+   "size": [
+    480,
+    272
+   ],
+   "group": "C",
+   "kind": "other",
+   "en": "©1982,1984,1994,2002 BIGWEST\n©2007 BIGWEST/MACROSS F PROJECT/MBS",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/common_prohibition.gim",
+   "size": [
+    31,
+    39
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "N/A",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/face_s/auto_select_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/mecha_s/auto_select_s.gim",
+   "size": [
+    33,
+    41
+   ],
+   "group": "muf",
+   "kind": "other",
+   "en": "Auto Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/network_decision_button.gim",
+   "size": [
+    54,
+    19
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "OK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/network_hangar_button.gim",
+   "size": [
+    77,
+    39
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Hangar\nSortie",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/vsnet/network_possible.gim",
+   "size": [
+    324,
+    52
+   ],
+   "group": "C",
+   "kind": "banner",
+   "en": "CAN JOIN",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/network_waiting.gim",
+   "size": [
+    324,
+    52
+   ],
+   "group": "C",
+   "kind": "banner",
+   "en": "READY",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_num_window.gim",
+   "size": [
+    201,
+    113
+   ],
+   "group": "C",
+   "kind": "message",
+   "en": "How many players?\nOK",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_00.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Mode",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_01.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Rule",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_02.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Rule Details",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_03.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Time Limit",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_04.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "BGM Select",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_05.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Large Units",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_06.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Tuning",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_08.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Skills",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_font_09.gim",
+   "size": [
+    63,
+    13
+   ],
+   "group": "C",
+   "kind": "button label",
+   "en": "Unit Modes",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/vsnet/room_rurle_window.gim",
+   "size": [
+    248,
+    209
+   ],
+   "group": "C",
+   "kind": "caption",
+   "en": "Mode\nRule\nRule Details\nTime Limit\nBGM Select\nLarge Units\nTuning\nSkills\nUnit Modes",
+   "flags": [
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/menu/vsresult/result_vs_font.gim",
+   "size": [
+    126,
+    18
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Kills\nDeaths",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsresult/result_vs_font_potential.gim",
+   "size": [
+    100,
+    18
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Force Gauge Left",
+   "flags": []
+  },
+  {
+   "file": "data/menu/vsresult/result_vs_font_score.gim",
+   "size": [
+    100,
+    18
+   ],
+   "group": "muf",
+   "kind": "caption",
+   "en": "Score",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_101.gim",
+   "size": [
+    85,
+    15
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Withdrew",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_103.gim",
+   "size": [
+    58,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Mission Complete",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_105.gim",
+   "size": [
+    71,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Test Complete",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_107.gim",
+   "size": [
+    57,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Rescue Complete",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_32.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_34.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Sighted",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_36.gim",
+   "size": [
+    58,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_38.gim",
+   "size": [
+    58,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Sighted",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_40.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Ace Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_42.gim",
+   "size": [
+    57,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Failed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_44.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Escaped",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_46.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Broke Through",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_48.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Mission Time Over",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_51.gim",
+   "size": [
+    85,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_53.gim",
+   "size": [
+    85,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Sighted",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_55.gim",
+   "size": [
+    71,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Allies Arrived",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_57.gim",
+   "size": [
+    72,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Allies Sighted",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_60.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Supply Recovery Point",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_62.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Point",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_65.gim",
+   "size": [
+    56,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Successful",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_67.gim",
+   "size": [
+    84,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Escaped",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_69.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Destroyed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_71.gim",
+   "size": [
+    44,
+    15
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemies Annihilated",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_73.gim",
+   "size": [
+    56,
+    15
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Recovery Complete",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_75.gim",
+   "size": [
+    85,
+    15
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Point Reached",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_77.gim",
+   "size": [
+    58,
+    15
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Left Battle Area",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_ope_79.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Ace Sighted",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_04.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_06.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Ace Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_08.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Damaged",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_10.gim",
+   "size": [
+    113,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Heavily Damaged",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_102.gim",
+   "size": [
+    113,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Moving Out",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_104.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Ally Destroyed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_105.gim",
+   "size": [
+    113,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Moving Out",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_12.gim",
+   "size": [
+    113,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target on the Move",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_14.gim",
+   "size": [
+    113,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Caution: Target Escaping",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_16.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_19.gim",
+   "size": [
+    28,
+    16
+   ],
+   "group": "D",
+   "kind": "cockpit HUD",
+   "en": "Last",
+   "flags": [
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_20.gim",
+   "size": [
+    16,
+    16
+   ],
+   "group": "D",
+   "kind": "cockpit HUD",
+   "en": "min",
+   "flags": [
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_24.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_26.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Allies Arrived",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_29.gim",
+   "size": [
+    15,
+    16
+   ],
+   "group": "D",
+   "kind": "cockpit HUD",
+   "en": "tgt",
+   "flags": [
+    "numbers",
+    "uncertain"
+   ]
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_42.gim",
+   "size": [
+    16,
+    16
+   ],
+   "group": "D",
+   "kind": "cockpit HUD",
+   "en": "sec",
+   "flags": [
+    "numbers"
+   ]
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_44.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Victory Conditions Changed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_66.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Point Appeared",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_68.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Escaped",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_70.gim",
+   "size": [
+    86,
+    16
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Destroyed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_72.gim",
+   "size": [
+    126,
+    19
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Enemy Ace Destroyed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_74.gim",
+   "size": [
+    126,
+    19
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Target Destroyed",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat/2d_rat_76.gim",
+   "size": [
+    126,
+    19
+   ],
+   "group": "D",
+   "kind": "banner",
+   "en": "Defense Target Escaped",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "New Prelude",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Safe Navigation",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Speaker Pod",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_040_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Spirit Girls",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Spiritia Farm",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Fighting Woman Mayor Milia",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_075_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "A Maiden's Jealousy",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_080_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Men of Burning Flame",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Death Struggle on Planet Lux",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_100_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Rainbow Song Energy",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Betrayal and a Girl's Tears",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Mystery of the Cosmic Ruins?",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Ghosts of the Past",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_140_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Surprise Raid",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_155_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Nightmare Assault Operation",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_160_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Ambition on Varauta 4",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_170_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Gamlin's Revolt",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/m7_180_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "A Song Echoing Across the Galaxy",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Skull Leader",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Pilot Called a Genius",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Last Supper",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_040_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Milia the Ace",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Vrlitwhai the Warrior",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Peaky Pilot",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_070_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Sleeping Beast",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_080_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "A Captain Called Genius",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Woman Warrior Returns",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_100_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Planet Dancer",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Clumsy Woman",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Combat Machine",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Threat of Boddole Zer",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_140_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Super Dimension Fortress Macross",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_150_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Duel Beauty",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_160_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Spiritia Black Hole",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_170_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Next Queen",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mc_180_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Battleship Parade",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/md_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Spiritia Dream",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/md_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Fire Bomber",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Tough Simulation",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Secret Base",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "New Airframe",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Demon Officer",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Close Encounter",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_061_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Hard Chase",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_070_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "On Your Marks",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_080_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Miss Macross",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_085_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Miss Macross",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "First Attack",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_105_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Friendly Fire",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Fastest Delivery",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Memory of Global",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mf_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Mother's Lullaby",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Of Sea and Wind",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Deadly Duel in Blue",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Dogfighter",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Battle with Warriors",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Macross Ace Frontier",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_070_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Yack Deculture!",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_100_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Macross Hell",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Giant Enemy",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Do You Remember Famitsu?",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Generation Drive",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_140_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "The Super Dimension Editorial Department Dengeki",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mo_150_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Supersized Zentradi Rice Bowl",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Training Battle",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Wild Ace",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_040_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Project Super Nova",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Flight Test",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Control Test",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_070_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Infight Test",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "In the Sky",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_100_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "In the Blue",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Sabotage Mission",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Battle Eden",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Burning Snow",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_145_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Dogfight",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mp_155_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Voice of an Angel",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_005_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "First Step",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Booby Trap",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Countdown",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Space Fold",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_040_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Transformation",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Average Rookie",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Daedalus Attack",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_070_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Bye-Bye Mars",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_085_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Longest Birthday",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Blind Game",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_100_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "First Contact",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_110_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Big Escape",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_120_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Blue Wind",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_130_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Kung Fu Dandy",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_145_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Pineapple Salad",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_148_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Burst Point",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_150_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Drop Out",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_160_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Virgin Road",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_170_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Love Drifts Away",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/ms_180_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Do You Remember Love?",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/my_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Rogues",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/my_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "U.N. Forces 2059",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_010_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Combat Training",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_020_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Supply Block",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_030_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Skull Leader",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_040_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Vermillion Squadron",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_050_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Tightrope",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_060_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Destroy the Destroids",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_080_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Macross Invasion",
+   "flags": []
+  },
+  {
+   "file": "data/script/fesrat_m/mz_090_title.gim",
+   "size": [
+    480,
+    48
+   ],
+   "group": "titles",
+   "kind": "menu title",
+   "en": "Revolt Against Boddole Zer",
+   "flags": []
+  }
+ ]
+}

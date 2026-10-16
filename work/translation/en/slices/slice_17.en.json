@@ -1,0 +1,1687 @@
+{
+ "slice": 17,
+ "rows_in_slice": 276,
+ "rows_examined": 276,
+ "rows": [
+  {
+   "id": "u1442",
+   "en": "A rookie who has dreamed of being a pilot since childhood.\nHonest and earnest; a little timid, but shows a bold side\nonce fired up. (CV: Jun Konno)",
+   "flags": [],
+   "notes": "Player pilot profile (Male Pilot A slot). Hard 3-line row, no pronouns (player)."
+  },
+  {
+   "id": "u1443",
+   "en": "Raised wealthy, wanting for nothing, but bored of a thrill-free\nlife, so became a pilot. A veteran of many battlefields; foul-mouthed,\nbut adored as a good big brother. (CV: Tetsu Inada)",
+   "flags": [],
+   "notes": "Player pilot profile (Male Pilot B slot). 'big brother' is in the source."
+  },
+  {
+   "id": "u1444",
+   "en": "Born into a military family where service is mandatory, and a\nrare female pilot even among them. Cheerful and friendly with\nboth men and women, which men often misread. (CV: Hinako Sasaki)",
+   "flags": [],
+   "notes": "Player pilot profile (Female Pilot A slot). 'female pilot' is in the source; no pronouns added."
+  },
+  {
+   "id": "u1445",
+   "en": "A female pilot of proven skill, rigorously trained from childhood\nby a mercenary father. Raised by a single dad, perhaps, so rough\nby nature, yet with a feminine side: likes cooking. (CV: Miho Hino)",
+   "flags": [],
+   "notes": "Player pilot profile (Female Pilot B slot)."
+  },
+  {
+   "id": "u1446",
+   "en": "Flawless Nameless ALL99 Pilot",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Probably the default ID-card greeting or a title; context unclear."
+  },
+  {
+   "id": "u1447",
+   "en": "Please enter a message.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1448",
+   "en": "Locked",
+   "flags": [],
+   "notes": "tm 'Not Acquired' was 82 px in a 56 px box."
+  },
+  {
+   "id": "u1449",
+   "en": "This ID card will be deleted.\nProceed?",
+   "flags": [],
+   "notes": "'meishi' = the ID card of u1187/u1188."
+  },
+  {
+   "id": "u1450",
+   "en": "Increases weapon attack power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1451",
+   "en": "Improves accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1452",
+   "en": "Power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1453",
+   "en": "Accuracy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1454",
+   "en": "Raises the weapon's attack power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1455",
+   "en": "Increases the weapon's accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1456",
+   "en": "Raises the weapon's rate of fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1457",
+   "en": "Extends the weapon's range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1458",
+   "en": "Raises the weapon's bullet speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1459",
+   "en": "Shortens the reload time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1460",
+   "en": "Increases the weapon's ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1461",
+   "en": "Rapid Fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1462",
+   "en": "Range",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1463",
+   "en": "Velocity",
+   "flags": [],
+   "notes": "tm 'Bullet Speed' was 79 px in a 56 px box."
+  },
+  {
+   "id": "u1464",
+   "en": "Reload",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1465",
+   "en": "Ammo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1466",
+   "en": "Increases the unit's durability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1467",
+   "en": "Raises defense vs. shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1468",
+   "en": "Raises defense vs. melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1469",
+   "en": "Raises the unit's movement speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1470",
+   "en": "Extends how long you can boost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1471",
+   "en": "Increases the unit's stability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1472",
+   "en": "Increases the unit's turning speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1473",
+   "en": "Widens the lock-on range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1474",
+   "en": "Shot Def.",
+   "flags": [],
+   "notes": "tm 'Shooting Def.' over the box; 'Shot' as in the AI profile labels."
+  },
+  {
+   "id": "u1475",
+   "en": "Melee Def.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1476",
+   "en": "Speed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1477",
+   "en": "Boost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1478",
+   "en": "Balancer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1479",
+   "en": "Turning",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1480",
+   "en": "Radar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1481",
+   "en": "The color settings will be reset to default. Proceed?",
+   "flags": [],
+   "notes": "glossary 'Proceed?'."
+  },
+  {
+   "id": "u1482",
+   "en": "Rapid Fire:%d Ammo:%d",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1483",
+   "en": "This data will be overwritten.\nProceed?",
+   "flags": [],
+   "notes": "glossary 'Proceed?'."
+  },
+  {
+   "id": "u1484",
+   "en": "Unlock Guest Pilot Growth",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1485",
+   "en": "Remove Tune Lower Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1486",
+   "en": "Remove Tune Upper Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1487",
+   "en": "Remove Pilot Skill Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1488",
+   "en": "Remove Boarding Size Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1489",
+   "en": "Remove Fixed-Pilot Unit Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1490",
+   "en": "Remove Era Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1491",
+   "en": "Unlock Tune Limit Toggle",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'unlock: disabling of Remove Tune Upper Limit'; read as an option to switch u1486 off."
+  },
+  {
+   "id": "u1492",
+   "en": "Unlock Operator Select",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1493",
+   "en": "Unlock BGM Select",
+   "flags": [],
+   "notes": "Pattern of u1492."
+  },
+  {
+   "id": "u1494",
+   "en": "There is no pilot data, so\nCo-op cannot be selected.\nContinue anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1495",
+   "en": "There is no save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1496",
+   "en": "Beginner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1497",
+   "en": "Default",
+   "flags": [],
+   "notes": "Title condition 'owned from the start'; tm 'Owned at Start' over the box."
+  },
+  {
+   "id": "u1498",
+   "en": "Trainee Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1499",
+   "en": "In Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1500",
+   "en": "Greenhorn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1501",
+   "en": "Mission Clear Rate\n5%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1502",
+   "en": "Recruit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1503",
+   "en": "Mission Clear Rate\n10%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1504",
+   "en": "Fledgling",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1505",
+   "en": "Mission Clear Rate\n15%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1506",
+   "en": "Rookie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1507",
+   "en": "Mission Clear Rate\n20%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1508",
+   "en": "Supernova",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1509",
+   "en": "Mission Clear Rate\n25%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1510",
+   "en": "Virtuoso",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1511",
+   "en": "Mission Clear Rate\n30%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1512",
+   "en": "The Real Deal",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1513",
+   "en": "Mission Clear Rate\n35%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1514",
+   "en": "Full-Fledged",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1515",
+   "en": "Mission Clear Rate\n40%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1516",
+   "en": "Galactic Guide",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1517",
+   "en": "Mission Clear Rate\n45%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1518",
+   "en": "Instructor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1519",
+   "en": "Mission Clear Rate\n50%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1520",
+   "en": "Hardened Warrior",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1521",
+   "en": "Mission Clear Rate\n55%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1522",
+   "en": "Swift as Lightning",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1523",
+   "en": "Mission Clear Rate\n60%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1524",
+   "en": "Crack Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1525",
+   "en": "Mission Clear Rate\n65%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1526",
+   "en": "Elite Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1527",
+   "en": "Mission Clear Rate\n70%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1528",
+   "en": "Battle-Hardened",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1529",
+   "en": "Mission Clear Rate\n75%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1530",
+   "en": "King of Melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1531",
+   "en": "Mission Clear Rate\n80%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1532",
+   "en": "Asura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1533",
+   "en": "Mission Clear Rate\n85%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1534",
+   "en": "God of Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1535",
+   "en": "Mission Clear Rate\n90%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1536",
+   "en": "Expert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1537",
+   "en": "Mission Clear Rate\n95%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1538",
+   "en": "Ace Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1539",
+   "en": "Mission Clear Rate\n100%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1540",
+   "en": "First-Gen Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1541",
+   "en": "1 Versus Match",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1542",
+   "en": "Destroid Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1543",
+   "en": "10 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1544",
+   "en": "Speed Star",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1545",
+   "en": "25 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1546",
+   "en": "Hard Puncher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1547",
+   "en": "50 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1548",
+   "en": "Spiritia Dream",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1549",
+   "en": "75 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1550",
+   "en": "Hard Rocker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1551",
+   "en": "100 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1552",
+   "en": "150 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1553",
+   "en": "Star Performer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1554",
+   "en": "200 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1555",
+   "en": "300 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1556",
+   "en": "Purple Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1557",
+   "en": "400 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1558",
+   "en": "Kira☆",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1559",
+   "en": "500 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1560",
+   "en": "Gojappe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1561",
+   "en": "600 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1562",
+   "en": "To the Endth☆",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1563",
+   "en": "800 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1564",
+   "en": "1000 Versus Matches",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1565",
+   "en": "Turkey",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1566",
+   "en": "1 Versus Win",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1567",
+   "en": "Rising Star",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1568",
+   "en": "10 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1569",
+   "en": "New Face",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1570",
+   "en": "20 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1571",
+   "en": "Up-and-Comer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1572",
+   "en": "30 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1573",
+   "en": "Dark Horse",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1574",
+   "en": "40 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1575",
+   "en": "Head Honcho",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1576",
+   "en": "50 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1577",
+   "en": "Professional",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1578",
+   "en": "75 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1579",
+   "en": "Emperor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1580",
+   "en": "100 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1581",
+   "en": "Army of One",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1582",
+   "en": "150 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1583",
+   "en": "Unrivaled",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1584",
+   "en": "200 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1585",
+   "en": "Overlord",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1586",
+   "en": "250 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1587",
+   "en": "Fierce Deity",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1588",
+   "en": "300 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1589",
+   "en": "Demon God",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1590",
+   "en": "500 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1591",
+   "en": "Roy Focker Medal",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1592",
+   "en": "1000 Versus Wins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1593",
+   "en": "Super Dimension Fortress",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1594",
+   "en": "Play Time\n6 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1595",
+   "en": "Super Dimension Restaurant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1596",
+   "en": "Play Time\n12 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1597",
+   "en": "Galactic Diva",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1598",
+   "en": "Play Time\n24 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1599",
+   "en": "Galactic Fairy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1600",
+   "en": "Play Time\n50 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1601",
+   "en": "Super Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1602",
+   "en": "Play Time\n75 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1603",
+   "en": "Super Dimension Cinderella",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1604",
+   "en": "Play Time\n100 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1605",
+   "en": "Missile Maniac",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1606",
+   "en": "Missiles Fired\nOver 1,000,000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1607",
+   "en": "Fan Favorite",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1608",
+   "en": "Affinity: All A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1609",
+   "en": "Battle Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1610",
+   "en": "Player Pilot\nStats\nAll 99",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1611",
+   "en": "Skill Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1612",
+   "en": "Player Pilot\nAll Skills Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1613",
+   "en": "Tactician",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1614",
+   "en": "All Pilots Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1615",
+   "en": "True Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1616",
+   "en": "All Units Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1617",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1618",
+   "en": "Campaign Missions\nAll S or Higher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1619",
+   "en": "Campaign Missions\nAll SS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1620",
+   "en": "All 8 Previous\nTitles Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1621",
+   "en": "King of Fists",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1622",
+   "en": "Melee Usage\n75% or Higher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1623",
+   "en": "Sniper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1624",
+   "en": "Shooting Usage\n75% or Higher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1625",
+   "en": "Galactic Vocalist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1626",
+   "en": "Song Usage\n75% or Higher",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1627",
+   "en": "Battroid Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1628",
+   "en": "Battroid Mode\nUsage 75%+",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1629",
+   "en": "GERWALK Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1630",
+   "en": "GERWALK Mode\nUsage 75%+",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1631",
+   "en": "Fighter Diehard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1632",
+   "en": "Fighter Mode\nUsage 75%+",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1633",
+   "en": "Skull Squadron",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1634",
+   "en": "Hikaru Ichijyo\nUnlocked",
+   "flags": [],
+   "notes": "Source gives the full name here (others use short forms)."
+  },
+  {
+   "id": "u1635",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1636",
+   "en": "Focker\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1637",
+   "en": "Genius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1638",
+   "en": "Max\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1639",
+   "en": "Vermillion Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1640",
+   "en": "Kakizaki\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1641",
+   "en": "Ally Killer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1642",
+   "en": "Quamzin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1643",
+   "en": "Milia\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1644",
+   "en": "Strongest Bride",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1645",
+   "en": "Milia (Micronian)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1646",
+   "en": "Militant Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1647",
+   "en": "Vrlitwhai\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1648",
+   "en": "Hellraiser",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1649",
+   "en": "Isamu\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1650",
+   "en": "Kamikaze Daredevil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1651",
+   "en": "Guld\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1652",
+   "en": "Listen to My Song!!",
+   "flags": [],
+   "notes": "Basara's catchphrase."
+  },
+  {
+   "id": "u1653",
+   "en": "Basara\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1654",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1655",
+   "en": "Mylene\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1656",
+   "en": "Diamond Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1657",
+   "en": "Gamlin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1658",
+   "en": "Strongest Captain",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1659",
+   "en": "Max (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1660",
+   "en": "Beautiful Mayor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1661",
+   "en": "Milia (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1662",
+   "en": "Gigile\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1663",
+   "en": "Vanguard of Beauty",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1664",
+   "en": "Gavil\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1665",
+   "en": "Kabuki Actor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1666",
+   "en": "Alto\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1667",
+   "en": "One Shot, One Kill",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1668",
+   "en": "Michael\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1669",
+   "en": "Young Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1670",
+   "en": "Luca\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1671",
+   "en": "Pineapple Cake",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1672",
+   "en": "Ozma\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1673",
+   "en": "Pixie Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1674",
+   "en": "Klan\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1675",
+   "en": "Clumsy Genes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1676",
+   "en": "Klan (Micronian)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1677",
+   "en": "Handsome Cyborg",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1678",
+   "en": "Brera\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1679",
+   "en": "Old Lady!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1680",
+   "en": "Misa Hayase\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1681",
+   "en": "Training Completion Bonus\nAll units receive\n%d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1682",
+   "en": "Boarding limits have been lifted for\nVrlitwhai Kridanik, Gavil, the Fire Valkyrie,\nMylene Valkyrie and Queadluun-Rhea (Klan).",
+   "flags": [],
+   "notes": "Word order rearranged across the 3 lines; 'Klan-ki' = Klan's unit, written like '(Hikaru)'."
+  },
+  {
+   "id": "u1683",
+   "en": "The era limit has been removed.\nYou can now sortie in any era\nwith the units you've obtained.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1684",
+   "en": "The floor on units' initial performance is gone.\nTuning below initial performance converts\nthe difference back into Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1685",
+   "en": "Unit performance limits have been removed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1686",
+   "en": "Operator selection is now available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1687",
+   "en": "Operator Misa Hayase can now be selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1688",
+   "en": "BGM selection is now available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1689",
+   "en": "The pilot skill limit has been removed.\nAll skills can now be learned.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1690",
+   "en": "The unit boarding size limit has been removed.\nPilots can board any unit, whatever their body size.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1691",
+   "en": "\"The Super Dimension Fortress Macross\"\nU.N. Forces guest pilots\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1692",
+   "en": "\"The Super Dimension Fortress Macross\"\nZentradi guest pilots\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1693",
+   "en": "Guest pilots appearing in \"Macross Plus\"\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1694",
+   "en": "\"Macross 7\" guest pilots from\nthe Macross 7 fleet\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1695",
+   "en": "\"Macross 7\" guest pilots from\nthe Varauta Army\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1696",
+   "en": "\"Macross Frontier\" guest pilots\nfrom S.M.S.\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1697",
+   "en": "\"Macross Frontier\" guest pilots\nfrom outside S.M.S.\ncan now level up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1698",
+   "en": "New mission added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1699",
+   "en": "New mission added to Versus Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1700",
+   "en": "New mission added to Co-op Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1701",
+   "en": "%s\nis now available.",
+   "flags": [],
+   "notes": "%s = pilot or unit name."
+  },
+  {
+   "id": "u1702",
+   "en": "%s has been promoted\nfrom %s to %s.",
+   "flags": [],
+   "notes": "Line 2 measures over only because each %s is counted as 10 wide letters; ranks are short (Cpl., Lt.)."
+  },
+  {
+   "id": "u1703",
+   "en": "%s's performance\nlimit has been removed.",
+   "flags": [],
+   "notes": "%s = unit name."
+  },
+  {
+   "id": "u1704",
+   "en": "You earned the title [%s].",
+   "flags": [],
+   "notes": "Full-width brackets -> ASCII."
+  },
+  {
+   "id": "u1705",
+   "en": "Select the unit you will fly\nas a test pilot\n(YF-19 or YF-21).",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1706",
+   "en": "Checking password...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1707",
+   "en": "Password accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1708",
+   "en": "Incorrect password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1709",
+   "en": "This password has\nalready been accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1710",
+   "en": "[%s]\nhas been added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1711",
+   "en": "Please enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1712",
+   "en": "Save the screenshot to the Memory Stick Duo?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1713",
+   "en": "Delete the screenshot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1714",
+   "en": "Player",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1715",
+   "en": "Partner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1716",
+   "en": "Replay Data\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1717",
+   "en": "",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Not text: the 4 bytes are a float (about 18.73) inside a data table in the decrypted EBOOT that happen to decode as two kanji. Leave empty; inserting text here would corrupt data."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1442-u1445: player-pilot profiles are hard 3-line ui rows; kept within ~470 px, assuming the profile box (448 px for WRAP profiles) is the same; please verify in game.",
+   "u1446: meaning/context of 'ALL99 flawless nameless pilot' unclear (title or ID-card sample).",
+   "u1491: 'Unlock Tune Limit Toggle' is an interpretation (literally: unlock disabling the tune-limit removal).",
+   "u1448 'Locked', u1463 'Velocity', u1474 'Shot Def.', u1497 'Default': tm labels changed to fit the box.",
+   "Tm title names over their per-row box (e.g. 'Hardened Warrior') kept: titles share one display field at least as wide as the widest Japanese title (~157-192 px).",
+   "u1702: line 2 warns only because each %s counts as 10 wide letters.",
+   "u1717: false-positive string (float data); left unfinished on purpose."
+  ],
+  "kept_omission": [
+   "u1443 u1444 u1445: player-pilot profiles written without a subject pronoun on purpose (player gets neutral wording)."
+  ],
+  "missing_glossary": [],
+  "unfinished": [
+   "u1717"
+  ]
+ }
+}

@@ -1,0 +1,996 @@
+{
+ "slice": 7,
+ "rows_in_slice": 161,
+ "rows_examined": 161,
+ "rows": [
+  {
+   "id": "u0600",
+   "en": "Auto Select",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0601",
+   "en": "The map is chosen automatically.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0602",
+   "en": "The map is chosen automatically.\nWhich map you get stays a\nsurprise until you start!",
+   "flags": [],
+   "notes": "Second sentence literally 'which map it will be is something to look forward to after the start'."
+  },
+  {
+   "id": "u0603",
+   "en": "Wild Plain",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0604",
+   "en": "Battle across an endlessly sprawling wasteland.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0605",
+   "en": "Mountain Snow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0606",
+   "en": "Battle on snow that's white as far as you can see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0607",
+   "en": "Close Canyon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0608",
+   "en": "Battle in a narrow, enclosed canyon.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0609",
+   "en": "Battle in a narrow, enclosed canyon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0610",
+   "en": "Over the Ocean",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0611",
+   "en": "Battle over the wide blue sea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0612",
+   "en": "Land and Sea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0613",
+   "en": "Battle while looking down on scattered islands.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0614",
+   "en": "Blue Sky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0615",
+   "en": "Battle in a vast sky that goes on forever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0616",
+   "en": "Sunset Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0617",
+   "en": "Battle bathed in the red glow of sunset.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0618",
+   "en": "City Fight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0619",
+   "en": "Battle in a maze of city streets.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0620",
+   "en": "Battle in a maze of city streets.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0621",
+   "en": "Skyscraper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0622",
+   "en": "Battle among beautifully glowing skyscrapers.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0623",
+   "en": "Battle among beautifully glowing skyscrapers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0624",
+   "en": "Battle Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0625",
+   "en": "Battle inside a Zentradi ship.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0626",
+   "en": "Battle inside a Zentradi ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0627",
+   "en": "Vajra Nest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0628",
+   "en": "Battle inside a Vajra ship.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0629",
+   "en": "Battle inside a Vajra ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0630",
+   "en": "Great Meteor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0631",
+   "en": "Battle on top of a giant meteorite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0632",
+   "en": "Deep Space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0633",
+   "en": "Battle in the pitch-black void of space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0634",
+   "en": "Earth Light",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0635",
+   "en": "Battle in space with Earth right before your eyes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0636",
+   "en": "Zentradian Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0637",
+   "en": "Battle near the Zentradi fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0638",
+   "en": "Beside City 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0639",
+   "en": "Battle near the Macross 7.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0640",
+   "en": "Beyond Jupiter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0641",
+   "en": "Battle in the space around Jupiter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0642",
+   "en": "Fire Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0643",
+   "en": "Battle near a star glowing red.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0644",
+   "en": "Training Hall",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0645",
+   "en": "Battle in an enclosed training space.\n(No large units)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0646",
+   "en": "Battle in an enclosed training space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0647",
+   "en": "Parameter Tuning 01",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0648",
+   "en": "Parameter Tuning 02",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0649",
+   "en": "35mm Gatling Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0650",
+   "en": "Anti-Air/Ground Missiles\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0651",
+   "en": "Medium-Range Air-to-Air Missiles\nRapid-fire. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0652",
+   "en": "Laser Machine Gun\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0653",
+   "en": "Melee\nPerforms a melee attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0654",
+   "en": "55mm Triple-Barrel Gatling Gun Pod\nStandard main armament of the Valkyrie",
+   "flags": [],
+   "notes": "TM line 2 'weapon' changed to 'armament' to match the other gun-pod rows (u0677, u0688)."
+  },
+  {
+   "id": "u0655",
+   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0656",
+   "en": "Micro Missiles (Rapid)\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "TM line 2 shortened (was 354 px)."
+  },
+  {
+   "id": "u0657",
+   "en": "Micro Missiles (Multi-Blast)\nMulti-lock. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0658",
+   "en": "Micro Missiles (Rapid-Blast)\nRapid-fire. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0659",
+   "en": "Anti-Air/Ground Missiles\nMissiles that create a powerful blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0660",
+   "en": "Anti-Air/Ground Missiles + Micro\nAttacks with reaction weapons",
+   "flags": [],
+   "notes": "Line 2 literally 'attacks with reaction weapons' (glossary: reaction weapon)."
+  },
+  {
+   "id": "u0661",
+   "en": "Anti-Air Laser Cannon\nOne anti-air laser cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0662",
+   "en": "Anti-Air Laser Cannon\nTwo anti-air laser cannons mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0663",
+   "en": "Anti-Air Laser Cannon\nFour anti-air laser cannons mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0664",
+   "en": "Quad Laser Cannon/Twin Beam Cannon\nBeam cannons only an ace pilot can handle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0665",
+   "en": "Ultra-High-Maneuver Micro Missiles\nRapid-fire. Missiles that create a powerful blast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0666",
+   "en": "Large Hand Grenade/High-Speed AP Rounds\nMulti-lock. Missiles that create a powerful blast",
+   "flags": [],
+   "notes": "AP = armor-piercing; the full form was 352 px."
+  },
+  {
+   "id": "u0667",
+   "en": "30mm Six-Barrel Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0668",
+   "en": "Anti-Air Pulse Laser Cannon\nOne anti-air laser cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0669",
+   "en": "Bayonet\nMelee attack with a bayonet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0670",
+   "en": "7-Barrel Gun Pod (Laser)\nStandard main armament (laser)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0671",
+   "en": "Medium-Caliber Beam Cannon\nBeam cannon mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0672",
+   "en": "Small-Caliber Laser Cannon\nLaser cannons mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0673",
+   "en": "New Standard Gatling Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0674",
+   "en": "Built-in Laser Gun\nLaser gun mounted at the waist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0675",
+   "en": "Pinpoint Barrier Punch\nMelee attack with a pinpoint barrier punch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0676",
+   "en": "New Standard Caseless Gatling Gun Pod\nStandard main armament of the Valkyrie ×2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0677",
+   "en": "Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0678",
+   "en": "Laser Beam Gun\nBeam guns mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0679",
+   "en": "Pinpoint Barrier\nGenerates a pinpoint barrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0680",
+   "en": "Launcher Pod\nFires speaker pods to make the target hear the song",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'shoots in speaker pods and makes (them) listen to the song'; listener unstated, rendered 'the target'."
+  },
+  {
+   "id": "u0681",
+   "en": "Song (My Friends)\nBlasts out a fiery song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'makes (them) listen to a hot song that makes the soul tremble'. Same line for u0682-u0685."
+  },
+  {
+   "id": "u0682",
+   "en": "Song (Holy Lonely Light)\nBlasts out a fiery song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0683",
+   "en": "Song SP (Try Again)\nBlasts out a fiery song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0684",
+   "en": "Song (Totsugeki Love Heart)\nBlasts out a fiery song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0685",
+   "en": "Song SP (My Friends)\nBlasts out a fiery song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u0686",
+   "en": "Medium-Caliber Laser Beam Gun\nBeam gun mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0687",
+   "en": "5-Barrel Gatling Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0688",
+   "en": "5-Barrel Gatling Gun Pod\nStandard main armament of the Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0689",
+   "en": "Sniper Rifle\nRifle capable of long-range fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0690",
+   "en": "Missiles (Blast)\nMissiles that create a powerful blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0691",
+   "en": "Anti-Air Beam Cannon\nBeam cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0692",
+   "en": "Ghost\nLaunches a wave attack with three Ghosts",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0693",
+   "en": "Knife\nPerforms a melee attack with a knife",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0694",
+   "en": "VF-27 Beam Gun Pod\nGun pod that can fire beams rapidly",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0695",
+   "en": "Missiles\nMulti-lock. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0696",
+   "en": "Heavy Quantum Beam Cannon\nHeavy quantum beam from a dedicated gun pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0697",
+   "en": "55mm Gun Pod\nStandard main armament",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0698",
+   "en": "Medium Anti-Ship Missiles (Rapid)\nMissiles that create a powerful blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0699",
+   "en": "Medium Anti-Ship Missiles (Rapid-Blast)\nRapid-fire. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0700",
+   "en": "12.7mm Machine Gun\nMachine gun mounted at the waist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0701",
+   "en": "Fuel-Air Bomb\nFuel-air bomb",
+   "flags": [],
+   "notes": "Japanese repeats the name as the description; repetition kept."
+  },
+  {
+   "id": "u0702",
+   "en": "Missile Jamming\nJams incoming missiles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0703",
+   "en": "78mm Liquid-Cooled High-Speed Autocannon\nHigh-speed autocannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0704",
+   "en": "Call Allies\nCalls in Defender units",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0705",
+   "en": "Anti-Air Laser Machine Gun\nAnti-air machine gun mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0706",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nRockets fired in rapid succession at one enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0707",
+   "en": "Gun Cluster (Laser Cannon)\nAttacks with the Gun Cluster's laser cannon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0708",
+   "en": "Gun Cluster (Flamethrower)\nAttacks with the Gun Cluster's flamethrower",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0709",
+   "en": "Short-Range High-Maneuver Homing Missiles\nHoming missiles of tremendous destructive power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0710",
+   "en": "Short-Range High-Maneuver Homing Missiles\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0711",
+   "en": "Short-Range High-Maneuver Homing Missiles\nRapid-fire. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0712",
+   "en": "Liquid-Cooled Charged Particle Beam Cannon\nBeam cannons mounted on both arms",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0713",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "TM line 2 shortened (was 354 px). Japanese line 2 says missiles although the name says rockets; kept."
+  },
+  {
+   "id": "u0714",
+   "en": "Gun Cluster (180mm Grenade)\nAttacks with the Gun Cluster's 180mm grenades",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0715",
+   "en": "Liquid-Cooled 40cm Liquid-Propellant Cannon\nPowerful cannons mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0716",
+   "en": "Triple Anti-Ground Missile Launcher\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0717",
+   "en": "Laser Cannon\nLaser cannon mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0718",
+   "en": "Guided Focused Beam Cannon System\nFires beams from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0719",
+   "en": "Large Homing Anti-Ship Missile Launcher\nRapid-fire. Missiles that create a powerful blast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0720",
+   "en": "Medium-Caliber Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0721",
+   "en": "Close-Combat Small Homing Missile\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "TM line 2 shortened (was 354 px)."
+  },
+  {
+   "id": "u0722",
+   "en": "Close-Combat Large Multi-Warhead Missiles\nMissiles that create a powerful blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0723",
+   "en": "Small-Caliber Anti-Air Laser Machine Gun\nAnti-air machine gun on the back of the head",
+   "flags": [],
+   "notes": "TM line 2 shortened (was 342 px): dropped 'mounted'."
+  },
+  {
+   "id": "u0724",
+   "en": "Large-Caliber Impact Cannon\nImpact cannons mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0725",
+   "en": "Long-Range Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0726",
+   "en": "Close-Combat Homing Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0727",
+   "en": "Small-Caliber Anti-Personnel Laser Machine Gun\nAnti-personnel machine gun mounted on the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0728",
+   "en": "Small Laser Machine Pistol\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0729",
+   "en": "Medium-Caliber Rapid-Fire Impact Cannon\nImpact cannon mounted on the shoulder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0730",
+   "en": "Large-Caliber Mid-Range Fluid Plasma Cannon\nPlasma cannon mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0731",
+   "en": "Hand Grenade\nThrows a hand grenade",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0732",
+   "en": "Air-to-Air High-Speed 3-Barrel Laser Pulse Gun\nPulse guns mounted on both hands",
+   "flags": [],
+   "notes": "'high-rotation' (rotary barrels) rendered High-Speed."
+  },
+  {
+   "id": "u0733",
+   "en": "Close-Range Ultra-Small Maneuvering Missiles\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0734",
+   "en": "Close-Range Ultra-Small Maneuvering Missiles\nRapid-fire. Missiles that create a blast on impact",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0735",
+   "en": "Medium-Caliber Rapid-Fire Impact Cannon\nImpact cannon mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0736",
+   "en": "Laser Machine Pistol\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0737",
+   "en": "Net Gun\nCaptures the target with a net gun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0738",
+   "en": "Call Allies\nCalls in Zentradi soldiers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0739",
+   "en": "Pipe Throw\nThrows a pipe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0740",
+   "en": "Soldier Charge\nSends Zentradi soldiers charging in",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0741",
+   "en": "Tentacle Attack\nExtends tentacles to attack the enemy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0742",
+   "en": "Multi-Tentacle\nTentacles that can attack several enemies at once",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0743",
+   "en": "Omni-Tentacle\nTentacles that attack in all directions",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0744",
+   "en": "Spiritia Absorption Device\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0745",
+   "en": "Flash Grenade\nA flash grenade that blinds the target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0746",
+   "en": "Laser Gun\nLaser guns mounted on both shoulders",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0747",
+   "en": "Pentacle Beam\nPowerful beam from the pentagram on its hand",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0748",
+   "en": "Head Beam\nA beam fired from the head",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0749",
+   "en": "Pulse Wave\nA shockwave released from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0750",
+   "en": "Spiritia Absorption Beam (Large)\nA beam that absorbs a large amount of Spiritia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0751",
+   "en": "Spiritia Absorption Beam (Multi)\nFires Spiritia absorption beams from its entire body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0752",
+   "en": "Melee\nPerforms a melee attack with tentacles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0753",
+   "en": "Laser Pulse Gun\nPulse guns mounted on both hands",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0754",
+   "en": "Beam Cannon\nBeam cannon mounted on the shoulder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0755",
+   "en": "Impact Cannon\nImpact cannon mounted in the chest",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0756",
+   "en": "Machine Gun\nMachine gun built into the body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0757",
+   "en": "Missile Vajra\nSends fellow Vajra charging in",
+   "flags": [],
+   "notes": "'fellow Vajra' = the unit's own Vajra allies."
+  },
+  {
+   "id": "u0758",
+   "en": "Call Allies\nCalls in Vajra (S)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0759",
+   "en": "Machine Gun\nBeam machine gun built into the body",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0760",
+   "en": "Impact Ram\nA powerful laser fired from the top of the head",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0680-u0685: the Japanese 'make (someone) listen to the song' leaves the listener unstated; u0680 uses 'the target', the song rows use 'Blasts out a fiery song that shakes the soul'.",
+   "u0650/u0659/u0660: 'taikuu taichi' rendered 'Anti-Air/Ground Missiles'.",
+   "u0624: TM 'Battle Ship' kept as two words, mirroring the katakana stage name; 'Battleship' would also work.",
+   "u0654: TM 'Standard main weapon of the Valkyrie' harmonised to 'Standard main armament of the Valkyrie' to match u0677/u0688."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

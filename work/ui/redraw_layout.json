@@ -1,0 +1,2519 @@
+{
+ "_doc": "Layout for tools/redraw_images.py (docs/image_redraw.md). styles: named presets (from the Ultimate Frontier project). rules: glob -> spec, first match wins. files: per-texture specs, checked before rules; a texture with no spec is laid out from its rows' measured items (auto_spec). Spec keys: style, style_by_row, set, items, item_set ({\"<line>\": overrides} on auto items), keep, hold, geom (tip cards). Item keys: row, line, text, fallbacks, box, erase, erase_box, share, blank, no_text, plus any style key. Boxes are [x, y, w, h] in texture pixels. Specs marked _from came from the Ultimate Frontier layout for byte- or pixel-identical textures.",
+ "styles": {
+  "btn": {
+   "weight": 800,
+   "size": 14,
+   "min_size": 11,
+   "xscale_min": 0.7
+  },
+  "btn_w": {
+   "color": [
+    255,
+    255,
+    255,
+    255
+   ]
+  },
+  "btn_b": {
+   "color": [
+    0,
+    0,
+    0,
+    255
+   ]
+  },
+  "title": {
+   "weight": 900,
+   "size": 36,
+   "min_size": 24,
+   "xscale_min": 0.72,
+   "color": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "outline": {
+    "width": 1.2,
+    "color": [
+     0,
+     0,
+     0,
+     230
+    ]
+   },
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "width": 1.2,
+    "color": [
+     0,
+     0,
+     0,
+     120
+    ],
+    "blur": 0.6
+   }
+  },
+  "ope": {
+   "weight": 900,
+   "size": 13,
+   "min_size": 10,
+   "xscale_min": 0.55,
+   "italic": -0.22,
+   "caps": true
+  },
+  "ope_green": {
+   "color": [
+    24,
+    252,
+    110,
+    255
+   ],
+   "glow": {
+    "radius": 0.9,
+    "strength": 1.1,
+    "color": [
+     24,
+     252,
+     160,
+     160
+    ]
+   }
+  },
+  "ope_red": {
+   "color": [
+    255,
+    40,
+    40,
+    255
+   ],
+   "glow": {
+    "radius": 0.9,
+    "strength": 1.1,
+    "color": [
+     255,
+     30,
+     30,
+     160
+    ]
+   }
+  },
+  "ope_yellow": {
+   "color": [
+    255,
+    240,
+    40,
+    255
+   ],
+   "glow": {
+    "radius": 0.9,
+    "strength": 1.1,
+    "color": [
+     255,
+     220,
+     30,
+     160
+    ]
+   }
+  },
+  "ope_blue": {
+   "color": [
+    40,
+    160,
+    255,
+    255
+   ],
+   "glow": {
+    "radius": 0.9,
+    "strength": 1.1,
+    "color": [
+     40,
+     130,
+     255,
+     160
+    ]
+   }
+  },
+  "rat": {
+   "weight": 900,
+   "size": 15,
+   "min_size": 11,
+   "xscale_min": 0.62
+  },
+  "rat_red": {
+   "color": [
+    253,
+    0,
+    0,
+    255
+   ]
+  },
+  "rat_yellow": {
+   "color": [
+    255,
+    230,
+    0,
+    255
+   ]
+  },
+  "rat_orange": {
+   "color": [
+    255,
+    150,
+    0,
+    255
+   ]
+  },
+  "rat_cyan": {
+   "color": [
+    0,
+    230,
+    255,
+    255
+   ]
+  },
+  "lbl": {
+   "weight": 700,
+   "size": 12,
+   "min_size": 8,
+   "xscale_min": 0.7
+  },
+  "lbl_left": {
+   "align": "left"
+  },
+  "lbl_right": {
+   "align": "right"
+  },
+  "tag_green": {
+   "weight": 900,
+   "size": 9,
+   "min_size": 7,
+   "xscale_min": 0.66,
+   "caps": true,
+   "color": [
+    0,
+    254,
+    148,
+    255
+   ],
+   "outline": {
+    "width": 1,
+    "color": [
+     0,
+     0,
+     0,
+     120
+    ]
+   }
+  },
+  "dark_out": {
+   "outline": {
+    "width": 1,
+    "color": [
+     10,
+     10,
+     12,
+     230
+    ]
+   }
+  },
+  "silver": {
+   "gradient": [
+    [
+     255,
+     255,
+     255,
+     255
+    ],
+    [
+     150,
+     150,
+     160,
+     255
+    ]
+   ],
+   "outline": {
+    "width": 1.2,
+    "color": [
+     0,
+     0,
+     9,
+     255
+    ]
+   }
+  },
+  "red_glow": {
+   "outline": {
+    "width": 1.3,
+    "color": [
+     254,
+     40,
+     40,
+     200
+    ],
+    "blur": 0.4
+   }
+  },
+  "guide": {
+   "weight": 700,
+   "size": 10,
+   "min_size": 7,
+   "xscale_min": 0.66,
+   "color": [
+    60,
+    60,
+    61,
+    255
+   ],
+   "align": "left"
+  },
+  "green_txt": {
+   "color": [
+    80,
+    254,
+    154,
+    255
+   ]
+  },
+  "grey_metal": {
+   "gradient": [
+    [
+     255,
+     255,
+     255,
+     255
+    ],
+    [
+     140,
+     140,
+     140,
+     255
+    ]
+   ],
+   "outline": {
+    "width": 1,
+    "color": [
+     12,
+     12,
+     16,
+     230
+    ]
+   }
+  },
+  "metal_lbl": {
+   "weight": 700,
+   "size": 11,
+   "min_size": 8,
+   "xscale_min": 0.66,
+   "gradient": [
+    [
+     215,
+     216,
+     216,
+     255
+    ],
+    [
+     140,
+     146,
+     145,
+     255
+    ]
+   ],
+   "outline": {
+    "width": 1,
+    "color": [
+     10,
+     30,
+     22,
+     170
+    ]
+   }
+  },
+  "grey_lbl": {
+   "weight": 700,
+   "size": 11,
+   "min_size": 8,
+   "xscale_min": 0.7,
+   "color": [
+    150,
+    150,
+    150,
+    255
+   ]
+  },
+  "lt_grey_lbl": {
+   "weight": 700,
+   "size": 11,
+   "min_size": 8,
+   "xscale_min": 0.7,
+   "color": [
+    176,
+    176,
+    176,
+    255
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": [
+     4,
+     6,
+     7,
+     230
+    ]
+   }
+  },
+  "banner_cyan": {
+   "weight": 800,
+   "size": 26,
+   "min_size": 16,
+   "caps": true,
+   "tracking": 7,
+   "color": [
+    190,
+    250,
+    255,
+    255
+   ],
+   "shadow": {
+    "dx": 2,
+    "dy": 2,
+    "color": [
+     10,
+     40,
+     80,
+     200
+    ],
+    "blur": 0.5
+   },
+   "outline": {
+    "width": 1,
+    "color": [
+     20,
+     80,
+     120,
+     160
+    ]
+   }
+  },
+  "bevel_w": {
+   "weight": 700,
+   "size": 10,
+   "min_size": 8,
+   "xscale_min": 0.68,
+   "gradient": [
+    [
+     255,
+     255,
+     255,
+     255
+    ],
+    [
+     180,
+     180,
+     180,
+     255
+    ]
+   ],
+   "outline": {
+    "width": 1,
+    "color": [
+     40,
+     40,
+     40,
+     200
+    ]
+   }
+  },
+  "ribbon": {
+   "weight": 900,
+   "size": 16,
+   "min_size": 11,
+   "xscale_min": 0.7,
+   "color": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "outline": {
+    "width": 1.2,
+    "color": [
+     70,
+     45,
+     5,
+     230
+    ]
+   }
+  },
+  "card_red": {
+   "weight": 900,
+   "caps": true,
+   "color": [
+    255,
+    16,
+    16,
+    255
+   ],
+   "outline": {
+    "width": 1,
+    "color": [
+     30,
+     0,
+     20,
+     220
+    ]
+   },
+   "line_gap": 1.0,
+   "xscale_min": 0.66
+  },
+  "card_white": {
+   "weight": 900,
+   "caps": true,
+   "color": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "outline": {
+    "width": 1.2,
+    "color": [
+     0,
+     0,
+     0,
+     255
+    ]
+   },
+   "line_gap": 1.0,
+   "xscale_min": 0.66
+  },
+  "tip": {
+   "weight": 700,
+   "size": 12,
+   "min_size": 8,
+   "xscale_min": 0.82,
+   "color": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "glow": {
+    "radius": 1.3,
+    "strength": 1.8,
+    "color": [
+     40,
+     120,
+     255,
+     255
+    ],
+    "spread": 0.5
+   }
+  }
+ },
+ "rules": [
+  {
+   "match": "data/script/fesrat_m/*_title.gim",
+   "style": "title",
+   "items": [
+    {
+     "box": [
+      4,
+      5,
+      472,
+      37
+     ]
+    }
+   ]
+  }
+ ],
+ "files": {
+  "data/menu/face_m/auto_select_f_m.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      1,
+      20,
+      48,
+      19
+     ],
+     "box": [
+      2,
+      18,
+      46,
+      24
+     ],
+     "size": 14,
+     "min_size": 9
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_m/auto_select_f_m.gim"
+  },
+  "data/menu/face_m/impossible_f_m.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "No\nSortie",
+     "erase": {
+      "mode": "row",
+      "sample_x": 3
+     },
+     "erase_box": [
+      4,
+      8,
+      43,
+      41
+     ],
+     "box": [
+      3,
+      11,
+      44,
+      30
+     ],
+     "size": 16,
+     "min_size": 10
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_m/impossible_f_m.gim"
+  },
+  "data/menu/face_m/limit_f_m.gim": {
+   "items": [
+    {
+     "blank": true,
+     "erase": "clear",
+     "erase_box": [
+      15,
+      1,
+      23,
+      13
+     ]
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_m/limit_f_m.gim"
+  },
+  "data/menu/face_s/auto_select_f_s.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      3,
+      7,
+      29,
+      24
+     ],
+     "box": [
+      1,
+      9,
+      31,
+      20
+     ],
+     "size": 10,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_s/auto_select_f_s.gim"
+  },
+  "data/menu/face_s/impossible_f_s.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "No\nSortie",
+     "erase": {
+      "mode": "row",
+      "sample_x": 2
+     },
+     "erase_box": [
+      3,
+      5,
+      28,
+      27
+     ],
+     "box": [
+      2,
+      7,
+      29,
+      22
+     ],
+     "size": 11,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_s/impossible_f_s.gim"
+  },
+  "data/menu/face_s/limit_f_s.gim": {
+   "items": [
+    {
+     "blank": true,
+     "erase": "clear",
+     "erase_box": [
+      8,
+      1,
+      16,
+      11
+     ]
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_s/limit_f_s.gim"
+  },
+  "data/menu/gallery/gal_r_all_cha_ti_bar_base.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 10
+   },
+   "items": [
+    {
+     "erase": {
+      "mode": "fill",
+      "color": [
+       61,
+       142,
+       141,
+       125
+      ]
+     },
+     "erase_box": [
+      232,
+      3,
+      70,
+      11
+     ],
+     "box": [
+      226,
+      3,
+      75,
+      11
+     ],
+     "align": "right"
+    }
+   ],
+   "_from": "MUF data/menu/gallery/gal_r_all_cha_ti_bar_base.gim"
+  },
+  "data/menu/gallery/gal_r_c_title_bar.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 10
+   },
+   "items": [
+    {
+     "erase": {
+      "mode": "fill",
+      "color": [
+       61,
+       142,
+       141,
+       125
+      ]
+     },
+     "erase_box": [
+      232,
+      3,
+      70,
+      11
+     ],
+     "box": [
+      226,
+      3,
+      75,
+      11
+     ],
+     "align": "right"
+    }
+   ],
+   "_from": "MUF data/menu/gallery/gal_r_c_title_bar.gim"
+  },
+  "data/menu/gallery/gal_r_free_dialog_header.gim": {
+   "style": "bevel_w",
+   "set": {
+    "size": 10
+   },
+   "items": [
+    {
+     "line": 0,
+     "erase": {
+      "mode": "fill",
+      "color": [
+       15,
+       15,
+       15,
+       255
+      ]
+     },
+     "erase_box": [
+      1,
+      1,
+      48,
+      11
+     ],
+     "box": [
+      1,
+      1,
+      48,
+      11
+     ]
+    },
+    {
+     "line": 1,
+     "erase": {
+      "mode": "fill",
+      "color": [
+       15,
+       15,
+       15,
+       255
+      ]
+     },
+     "erase_box": [
+      108,
+      1,
+      59,
+      11
+     ],
+     "box": [
+      108,
+      1,
+      59,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/gallery/gal_r_free_dialog_header.gim"
+  },
+  "data/menu/gallery/gal_record_list_all.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Overall"
+     ]
+    }
+   ]
+  },
+  "data/menu/gallery/gal_record_list_campaign.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Campaign"
+     ]
+    }
+   ]
+  },
+  "data/menu/gallery/gal_record_list_character.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Affinity"
+     ]
+    }
+   ]
+  },
+  "data/menu/gallery/gal_record_list_freeplay.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Versus"
+     ]
+    }
+   ]
+  },
+  "data/menu/gallery/gal_record_list_joint.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Co-op Record"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/han_m_list_bgm.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "items": [
+    {
+     "erase_box": [
+      12,
+      0,
+      55,
+      12
+     ],
+     "box": [
+      13,
+      0,
+      54,
+      11
+     ]
+    }
+   ],
+   "set": {
+    "size": 11
+   },
+   "_from": "MUF data/menu/hangar/han_m_list_bgm.gim"
+  },
+  "data/menu/hangar/han_p_c_e_chroma_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_right"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      52,
+      11
+     ],
+     "fallbacks": [
+      "Sat."
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_chroma_w.gim"
+  },
+  "data/menu/hangar/han_p_c_e_color1_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "erase_box": [
+      8,
+      0,
+      48,
+      13
+     ],
+     "box": [
+      11,
+      1,
+      44,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_color1_w.gim"
+  },
+  "data/menu/hangar/han_p_c_e_color2_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "erase_box": [
+      8,
+      0,
+      48,
+      13
+     ],
+     "box": [
+      11,
+      1,
+      44,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_color2_w.gim"
+  },
+  "data/menu/hangar/han_p_c_e_color3_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "erase_box": [
+      8,
+      0,
+      48,
+      13
+     ],
+     "box": [
+      11,
+      1,
+      44,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_color3_w.gim"
+  },
+  "data/menu/hangar/han_p_c_e_hue_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_right"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      52,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_hue_w.gim"
+  },
+  "data/menu/hangar/han_p_c_e_value_w.gim": {
+   "style": [
+    "lbl",
+    "lbl_right"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      52,
+      11
+     ],
+     "fallbacks": [
+      "Bright."
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_c_e_value_w.gim"
+  },
+  "data/menu/hangar/han_p_color_word_c_reset.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "erase_box": [
+      20,
+      0,
+      104,
+      16
+     ],
+     "box": [
+      22,
+      1,
+      101,
+      14
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_color_word_c_reset.gim"
+  },
+  "data/menu/hangar/han_p_color_word_c_select.gim": {
+   "style": [
+    "lbl",
+    "lbl_left"
+   ],
+   "set": {
+    "size": 11
+   },
+   "items": [
+    {
+     "box": [
+      0,
+      0,
+      55,
+      11
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/hangar/han_p_color_word_c_select.gim"
+  },
+  "data/menu/map_face/mm17.gim": {
+   "style": "card_white",
+   "set": {
+    "caps": false,
+    "weight": 800
+   },
+   "items": [
+    {
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      80,
+      5,
+      59,
+      17
+     ],
+     "box": [
+      60,
+      5,
+      100,
+      16
+     ],
+     "size": 14
+    }
+   ],
+   "_from": "MUF data/menu/map_face/mm17.gim"
+  },
+  "data/menu/mecha_l/auto_select_m_l.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      1,
+      20,
+      48,
+      19
+     ],
+     "box": [
+      2,
+      18,
+      46,
+      24
+     ],
+     "size": 14,
+     "min_size": 9
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_l/auto_select_m_l.gim"
+  },
+  "data/menu/mecha_l/impossible_m_l.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "No\nSortie",
+     "erase": {
+      "mode": "row",
+      "sample_x": 3
+     },
+     "erase_box": [
+      4,
+      8,
+      43,
+      41
+     ],
+     "box": [
+      3,
+      11,
+      44,
+      30
+     ],
+     "size": 16,
+     "min_size": 10
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_l/impossible_m_l.gim"
+  },
+  "data/menu/mecha_l/limit_m_l.gim": {
+   "items": [
+    {
+     "blank": true,
+     "erase": "clear",
+     "erase_box": [
+      15,
+      1,
+      23,
+      13
+     ]
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_l/limit_m_l.gim"
+  },
+  "data/menu/mecha_l/no_partner_l.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "Wait",
+     "fallbacks": [
+      "Idle"
+     ],
+     "erase": {
+      "mode": "fill",
+      "color": [
+       0,
+       0,
+       0,
+       255
+      ]
+     },
+     "erase_box": [
+      6,
+      20,
+      38,
+      28
+     ],
+     "box": [
+      5,
+      24,
+      40,
+      20
+     ],
+     "size": 18,
+     "min_size": 11
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_l/no_partner_l.gim"
+  },
+  "data/menu/mecha_s/auto_select_m_s.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      3,
+      7,
+      29,
+      24
+     ],
+     "box": [
+      1,
+      9,
+      31,
+      20
+     ],
+     "size": 10,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_s/auto_select_m_s.gim"
+  },
+  "data/menu/mecha_s/impossible_m_s.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "No\nSortie",
+     "erase": {
+      "mode": "row",
+      "sample_x": 2
+     },
+     "erase_box": [
+      3,
+      5,
+      28,
+      27
+     ],
+     "box": [
+      2,
+      7,
+      29,
+      22
+     ],
+     "size": 11,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_s/impossible_m_s.gim"
+  },
+  "data/menu/mecha_s/limit_m_s.gim": {
+   "items": [
+    {
+     "blank": true,
+     "erase": "clear",
+     "erase_box": [
+      8,
+      1,
+      16,
+      11
+     ]
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_s/limit_m_s.gim"
+  },
+  "data/menu/mecha_s/no_partner_s.gim": {
+   "style": "card_red",
+   "items": [
+    {
+     "text": "Wait",
+     "fallbacks": [
+      "Idle"
+     ],
+     "erase": {
+      "mode": "fill",
+      "color": [
+       0,
+       0,
+       0,
+       255
+      ]
+     },
+     "erase_box": [
+      4,
+      11,
+      25,
+      20
+     ],
+     "box": [
+      3,
+      13,
+      27,
+      15
+     ],
+     "size": 12,
+     "min_size": 8
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/mecha_s/no_partner_s.gim"
+  },
+  "data/menu/music/common_s_m_def_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/music/common_s_m_def_b.gim"
+  },
+  "data/menu/music/common_s_m_def_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/music/common_s_m_def_w.gim"
+  },
+  "data/menu/music/common_s_m_rdm_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/music/common_s_m_rdm_b.gim"
+  },
+  "data/menu/music/common_s_m_rdm_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/music/common_s_m_rdm_w.gim"
+  },
+  "data/menu/setting/set_clist_word1.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 11,
+    "min_size": 8
+   },
+   "items": [
+    {
+     "box": [
+      0,
+      1,
+      24,
+      12
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/setting/set_clist_word1.gim"
+  },
+  "data/menu/setting/set_clist_word2.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 11,
+    "min_size": 8
+   },
+   "items": [
+    {
+     "box": [
+      0,
+      1,
+      24,
+      12
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/setting/set_clist_word2.gim"
+  },
+  "data/menu/system/common_p_m_2d_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_2d_b.gim"
+  },
+  "data/menu/system/common_p_m_2d_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_2d_w.gim"
+  },
+  "data/menu/system/common_p_m_mis-int_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_mis-int_b.gim"
+  },
+  "data/menu/system/common_p_m_mis-int_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_mis-int_w.gim"
+  },
+  "data/menu/system/common_p_m_mis-reo_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_mis-reo_b.gim"
+  },
+  "data/menu/system/common_p_m_mis-reo_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_mis-reo_w.gim"
+  },
+  "data/menu/system/common_p_m_vie_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_vie_b.gim"
+  },
+  "data/menu/system/common_p_m_vie_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_p_m_vie_w.gim"
+  },
+  "data/menu/system/common_s_m_bgm_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_bgm_b.gim"
+  },
+  "data/menu/system/common_s_m_bgm_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_bgm_w.gim"
+  },
+  "data/menu/system/common_s_m_con_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_con_b.gim"
+  },
+  "data/menu/system/common_s_m_con_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_con_w.gim"
+  },
+  "data/menu/system/common_s_m_cstm_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_cstm_b.gim"
+  },
+  "data/menu/system/common_s_m_cstm_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_cstm_w.gim"
+  },
+  "data/menu/system/common_s_m_end_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_end_b.gim"
+  },
+  "data/menu/system/common_s_m_end_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_end_w.gim"
+  },
+  "data/menu/system/common_s_m_fre_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_fre_b.gim"
+  },
+  "data/menu/system/common_s_m_fre_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_fre_w.gim"
+  },
+  "data/menu/system/common_s_m_hang_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_hang_b.gim"
+  },
+  "data/menu/system/common_s_m_hang_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_hang_w.gim"
+  },
+  "data/menu/system/common_s_m_load_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_load_b.gim"
+  },
+  "data/menu/system/common_s_m_load_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_load_w.gim"
+  },
+  "data/menu/system/common_s_m_play_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_play_b.gim"
+  },
+  "data/menu/system/common_s_m_play_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_play_w.gim"
+  },
+  "data/menu/system/common_s_m_prev_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_prev_b.gim"
+  },
+  "data/menu/system/common_s_m_prev_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_prev_w.gim"
+  },
+  "data/menu/system/common_s_m_ptsv_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_ptsv_b.gim"
+  },
+  "data/menu/system/common_s_m_ptsv_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_ptsv_w.gim"
+  },
+  "data/menu/system/common_s_m_rped_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rped_b.gim"
+  },
+  "data/menu/system/common_s_m_rped_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rped_w.gim"
+  },
+  "data/menu/system/common_s_m_rpsv_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rpsv_b.gim"
+  },
+  "data/menu/system/common_s_m_rpsv_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rpsv_w.gim"
+  },
+  "data/menu/system/common_s_m_rtry_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rtry_b.gim"
+  },
+  "data/menu/system/common_s_m_rtry_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_rtry_w.gim"
+  },
+  "data/menu/system/common_s_m_save_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_save_b.gim"
+  },
+  "data/menu/system/common_s_m_save_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_save_w.gim"
+  },
+  "data/menu/system/common_s_m_set_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_set_b.gim"
+  },
+  "data/menu/system/common_s_m_set_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_set_w.gim"
+  },
+  "data/menu/system/common_s_m_top_b.gim": {
+   "style": [
+    "btn",
+    "btn_b"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_top_b.gim"
+  },
+  "data/menu/system/common_s_m_top_w.gim": {
+   "style": [
+    "btn",
+    "btn_w"
+   ],
+   "_from": "MUF data/menu/system/common_s_m_top_w.gim"
+  },
+  "data/menu/vsnet/common_prohibition.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 13
+   },
+   "items": [
+    {
+     "erase": {
+      "mode": "fill",
+      "color": [
+       157,
+       11,
+       13,
+       151
+      ]
+     },
+     "erase_box": [
+      1,
+      10,
+      29,
+      18
+     ],
+     "box": [
+      1,
+      12,
+      29,
+      13
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/vsnet/common_prohibition.gim"
+  },
+  "data/menu/vsnet/face_s/auto_select_s.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      3,
+      7,
+      29,
+      24
+     ],
+     "box": [
+      1,
+      9,
+      31,
+      20
+     ],
+     "size": 10,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_s/auto_select_f_s.gim"
+  },
+  "data/menu/vsnet/mecha_s/auto_select_s.gim": {
+   "style": "card_white",
+   "items": [
+    {
+     "text": "Auto\nSelect",
+     "erase": {
+      "mode": "inpaint"
+     },
+     "erase_box": [
+      3,
+      7,
+      29,
+      24
+     ],
+     "box": [
+      1,
+      9,
+      31,
+      20
+     ],
+     "size": 10,
+     "min_size": 7
+    }
+   ],
+   "set": {},
+   "_from": "MUF data/menu/face_s/auto_select_f_s.gim"
+  },
+  "data/menu/vsresult/result_vs_font.gim": {
+   "style": [
+    "lbl",
+    "silver"
+   ],
+   "set": {
+    "size": 14,
+    "weight": 800
+   },
+   "items": [
+    {
+     "row": 0,
+     "erase_box": [
+      0,
+      0,
+      54,
+      18
+     ],
+     "box": [
+      1,
+      1,
+      50,
+      16
+     ]
+    },
+    {
+     "row": 1,
+     "erase_box": [
+      54,
+      0,
+      72,
+      18
+     ],
+     "box": [
+      56,
+      1,
+      69,
+      16
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/vsresult/result_vs_font.gim"
+  },
+  "data/menu/vsresult/result_vs_font_potential.gim": {
+   "style": [
+    "lbl",
+    "silver"
+   ],
+   "set": {
+    "size": 14,
+    "weight": 800
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      98,
+      16
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/vsresult/result_vs_font_potential.gim"
+  },
+  "data/menu/vsresult/result_vs_font_score.gim": {
+   "style": [
+    "lbl",
+    "silver"
+   ],
+   "set": {
+    "size": 14,
+    "weight": 800
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      98,
+      16
+     ]
+    }
+   ],
+   "_from": "MUF data/menu/vsresult/result_vs_font_score.gim"
+  },
+  "data/menu/load/mac00005.gim": {
+   "items": [
+    {
+     "tipcard": true
+    }
+   ],
+   "geom": {
+    "ys": [
+     52,
+     65,
+     79,
+     92,
+     121,
+     135,
+     149,
+     161,
+     173,
+     184,
+     214,
+     228,
+     241
+    ],
+    "heading_x": 99,
+    "bullet_x": 104
+   }
+  },
+  "data/script/fesrat_m/mo_140_title.gim": {
+   "items": [
+    {
+     "box": [
+      4,
+      5,
+      472,
+      37
+     ],
+     "fallbacks": [
+      "Super Dimension Editorial Dept. Dengeki"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/han_mission_base.gim": {
+   "item_set": {
+    "0": {
+     "box": [
+      27,
+      193,
+      28,
+      11
+     ],
+     "size": 10,
+     "min_size": 9,
+     "xscale_min": 0.7,
+     "fallbacks": []
+    }
+   }
+  },
+  "data/menu/gallery/gal_record_all_tactics_base.gim": {
+   "item_set": {
+    "7": {
+     "size": 9,
+     "min_size": 8,
+     "xscale_min": 0.68,
+     "fallbacks": []
+    }
+   }
+  },
+  "data/menu/gallery/gal_record_all_base.gim": {
+   "item_set": {
+    "7": {
+     "size": 9,
+     "min_size": 8,
+     "xscale_min": 0.68,
+     "fallbacks": []
+    }
+   }
+  },
+  "data/menu/setting/set_card_spec.gim": {
+   "item_all": {
+    "size": 8,
+    "min_size": 7,
+    "xscale_min": 0.6,
+    "fallbacks": []
+   }
+  },
+  "data/menu/setting/dl03.gim": {
+   "item_all": {
+    "size": 8,
+    "min_size": 7,
+    "xscale_min": 0.6,
+    "fallbacks": []
+   },
+   "item_set": {
+    "0": {
+     "size": 9,
+     "min_size": 8
+    }
+   }
+  },
+  "data/menu/data_select/dl03.gim": {
+   "item_all": {
+    "size": 8,
+    "min_size": 7,
+    "xscale_min": 0.6,
+    "fallbacks": []
+   },
+   "item_set": {
+    "0": {
+     "size": 9,
+     "min_size": 8
+    }
+   }
+  },
+  "data/menu/hangar/gal_record_list_base.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 12,
+    "color": [
+     118,
+     118,
+     118,
+     255
+    ],
+    "shadow": {
+     "dx": -1,
+     "dy": -1,
+     "color": [
+      0,
+      0,
+      0,
+      200
+     ]
+    }
+   },
+   "items": [
+    {
+     "line": 0,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      7,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      7,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Overall"
+     ]
+    },
+    {
+     "line": 1,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      36,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      36,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Campaign"
+     ]
+    },
+    {
+     "line": 2,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      65,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      65,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Co-op Record"
+     ]
+    },
+    {
+     "line": 3,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      94,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      94,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "VF Record"
+     ]
+    },
+    {
+     "line": 4,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      123,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      123,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Versus"
+     ]
+    },
+    {
+     "line": 5,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      152,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      152,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Affinity"
+     ]
+    }
+   ],
+   "note": "label boxes = the gal_record_list_* highlight boxes moved by (+6, +offset) (offsets measured by matching the old glyphs): the highlight is drawn over the button, so both must match"
+  },
+  "data/menu/hangar/gal_record_list_all.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Overall"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/gal_record_list_campaign.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Campaign"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/gal_record_list_joint.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Co-op Record"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/gal_record_list_mecha.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "VF Record"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/gal_record_list_freeplay.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Versus"
+     ]
+    }
+   ]
+  },
+  "data/menu/hangar/gal_record_list_character.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Affinity"
+     ]
+    }
+   ]
+  },
+  "data/menu/gallery/gal_record_list_base.gim": {
+   "style": "lbl",
+   "set": {
+    "size": 12,
+    "color": [
+     118,
+     118,
+     118,
+     255
+    ],
+    "shadow": {
+     "dx": -1,
+     "dy": -1,
+     "color": [
+      0,
+      0,
+      0,
+      200
+     ]
+    }
+   },
+   "items": [
+    {
+     "line": 0,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      7,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      7,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Overall"
+     ]
+    },
+    {
+     "line": 1,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      36,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      36,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Campaign"
+     ]
+    },
+    {
+     "line": 2,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      65,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      65,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Co-op Record"
+     ]
+    },
+    {
+     "line": 3,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      94,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      94,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "VF Record"
+     ]
+    },
+    {
+     "line": 4,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      123,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      123,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Versus"
+     ]
+    },
+    {
+     "line": 5,
+     "erase": {
+      "mode": "row",
+      "sample_x": 7
+     },
+     "erase_box": [
+      8,
+      152,
+      109,
+      17
+     ],
+     "box": [
+      7,
+      152,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "Affinity"
+     ]
+    }
+   ],
+   "note": "label boxes = the gal_record_list_* highlight boxes moved by (+6, +offset) (offsets measured by matching the old glyphs): the highlight is drawn over the button, so both must match"
+  },
+  "data/menu/gallery/gal_record_list_mecha.gim": {
+   "style": [
+    "lbl",
+    "dark_out"
+   ],
+   "set": {
+    "size": 12
+   },
+   "items": [
+    {
+     "box": [
+      1,
+      1,
+      113,
+      13
+     ],
+     "fallbacks": [
+      "VF Record"
+     ]
+    }
+   ]
+  },
+  "data/script/fesrat/2d_rat_20.gim": {
+   "item_set": {
+    "0": {
+     "box": [
+      0,
+      1,
+      16,
+      14
+     ],
+     "size": 11,
+     "min_size": 9,
+     "xscale_min": 0.6,
+     "fallbacks": []
+    }
+   }
+  },
+  "data/script/fesrat/2d_rat_29.gim": {
+   "item_set": {
+    "0": {
+     "box": [
+      0,
+      1,
+      15,
+      14
+     ],
+     "size": 11,
+     "min_size": 9,
+     "xscale_min": 0.6,
+     "fallbacks": []
+    }
+   }
+  },
+  "data/script/fesrat/2d_rat_42.gim": {
+   "item_set": {
+    "0": {
+     "box": [
+      0,
+      1,
+      16,
+      14
+     ],
+     "size": 11,
+     "min_size": 9,
+     "xscale_min": 0.6,
+     "fallbacks": []
+    }
+   }
+  }
+ },
+ "thumbnails": {
+  "data/menu/gallery/picture_s/mac00001_s.gim": "data/menu/load/mac00001.gim",
+  "data/menu/gallery/picture_s/mac00002_s.gim": "data/menu/load/mac00002.gim",
+  "data/menu/gallery/picture_s/mac00003_s.gim": "data/menu/load/mac00003.gim",
+  "data/menu/gallery/picture_s/mac00004_s.gim": "data/menu/load/mac00004.gim",
+  "data/menu/gallery/picture_s/mac00005_s.gim": "data/menu/load/mac00005.gim"
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "slice": 16,
+ "rows_in_slice": 32,
+ "rows_examined": 32,
+ "rows": [
+  {
+   "id": "u1410",
+   "en": "A civilian pilot until he was caught up in a Zentradi attack and met Lynn Minmay; he became a military pilot to protect her. His indecision leaves his heart torn between two women. (CV: Kenji Nojima)",
+   "flags": [],
+   "notes": "Hikaru. Read 'caught up in the attack' as applying to him (it also fits Minmay; both were caught up in the scene)."
+  },
+  {
+   "id": "u1411",
+   "en": "A Unification Wars veteran, as tough with booze and women as in battle. Hikaru Ichijyo's senior, looked up to by him as a big brother. Leads Skull Squadron as its reliable ace. (CV: Akira Kamiya)",
+   "flags": [],
+   "notes": "Roy Focker. 'Skull daitai' (battalion) rendered with glossary 'Skull Squadron'."
+  },
+  {
+   "id": "u1412",
+   "en": "A pilot who shone from his very first sortie. Nickname: Max. He defeated the enemy ace Milia, which later led to his marriage to the alien Milia. A truly exceptional man. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": "Maximilian Jenius."
+  },
+  {
+   "id": "u1413",
+   "en": "A former Zentradi pilot. She infiltrated the Macross to find the one who shot her down. She found Max and challenged him to a duel, but lost. He then proposed, and they married. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": "Milia (Micronian). 'proposed to' is passive in the source; the scene settles Max as the proposer."
+  },
+  {
+   "id": "u1414",
+   "en": "Hikaru's subordinate, a big carefree guy. Mouthing off in battle gets him in jams Hikaru or Max must save him from, but he's so sunny and easygoing he's hard to hate. Average skills. (CV: Katsumi Suzuki)",
+   "flags": [],
+   "notes": "Kakizaki."
+  },
+  {
+   "id": "u1415",
+   "en": "The Macross's top idol. Her \"Minmay Attack\" caused a culture shock that ended the interstellar war. A legendary diva whose story is still told generations later.",
+   "flags": [],
+   "notes": "Minmay. No CV in source."
+  },
+  {
+   "id": "u1416",
+   "en": "Zentradi Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1417",
+   "en": "A Zentradi division commander. Belligerent and quick to fight, he leads from the front, obsessed with sinking the Macross. While many chose to live with Earth, he kept seeking battle. (CV: Kosuke Meguro)",
+   "flags": [],
+   "notes": "Quamzin."
+  },
+  {
+   "id": "u1418",
+   "en": "A Zentradi pilot. Called \"Milia the Ace,\" she was so skilled that even male Zentradi soldiers feared her. After losing to Max in battle, she marries him. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": "Milia. 'Ace no Milia' rendered 'Milia the Ace' (also an open mission title, keep in sync)."
+  },
+  {
+   "id": "u1419",
+   "en": "Giants created by the ancient Protoculture through genetic engineering. Bred as soldiers, they had never known \"Culture\" and react excessively when they first encounter it.",
+   "flags": [],
+   "notes": "Zentradi race entry."
+  },
+  {
+   "id": "u1420",
+   "en": "A Zentradi fleet commander and gifted strategist who cornered the Macross time and again. Touched by forbidden Culture fighting the Macross, he chose to live with Earthlings. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": "Vrlitwhai. Source tense mixes present; past used for the first two facts."
+  },
+  {
+   "id": "u1421",
+   "en": "Supreme commander of the Zentradi fleet. The central bio-unit of the Boddole flagship, he grasps Culture, if only slightly. He is ruthless, willing to use any means to seize victory.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Golg Boddole Zer. 'Boddoru-kan' (his ship) rendered 'the Boddole flagship'; glossary has only 'Boddole Zer Main Fleet' / 'Boddole Zer's mobile fortress'."
+  },
+  {
+   "id": "u1422",
+   "en": "His outstanding flying skills won him the job of test pilot for a new prototype. He and Guld have been friends since high school, but they cut ties after a certain incident. (CV: Takumi Yamazaki)",
+   "flags": [],
+   "notes": "Isamu."
+  },
+  {
+   "id": "u1423",
+   "en": "General Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1424",
+   "en": "Developer and pilot of the YF-21, a brain wave-controlled prototype. After meeting Isamu again, he clashes with him over a woman and the race to build the next-gen fighter. (CV: Unsho Ishizuka)",
+   "flags": [],
+   "notes": "Guld."
+  },
+  {
+   "id": "u1425",
+   "en": "A virtual idol who became the galaxy's No. 1 star within no time of her debut. With hypnotic songs she controls people and plunges Macross City into chaos.",
+   "flags": [],
+   "notes": "Sharon Apple (female per glossary). No CV in source."
+  },
+  {
+   "id": "u1426",
+   "en": "My profile? You shouldn't go digging into people's pasts. Forget that and listen to my song! If you wanna know me, just listen to my songs. Now let's go! (CV: Nobutoshi Canna)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Basara, first person. CV: the actor's own romanisation is 'Canna' (Hepburn would give 'Kanna')."
+  },
+  {
+   "id": "u1427",
+   "en": "Fire Bomber's new vocalist. Born to Max and Milia, she has flown Valkyries since she was little, so she's a fine pilot too. At an age where two men are on her mind. (CV: Tomo Sakurai)",
+   "flags": [],
+   "notes": "Mylene."
+  },
+  {
+   "id": "u1428",
+   "en": "An elite pilot who joined the special assault unit Diamond Force young. He saw Basara, singing on the battlefield, as an enemy, but came to understand him in time. (CV: Takehito Koyasu)",
+   "flags": [],
+   "notes": "Gamlin."
+  },
+  {
+   "id": "u1429",
+   "en": "Honored for his service in the war with the Zentradi, he became commander of the colony fleet Macross 7. Retired from active duty, he is still a genius pilot and flew a Valkyrie into battle. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": "Max (7). 'kantai shirei' = fleet commander."
+  },
+  {
+   "id": "u1430",
+   "en": "City 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u1431",
+   "en": "A former Zentradi ace pilot serving as mayor of City 7. Though mayor, she sorties when City 7 is attacked, and citizens back her as the fighting mayor. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": "Milia (7)."
+  },
+  {
+   "id": "u1432",
+   "en": "A Varauta Army commander tasked with attacking the Macross 7 fleet and gathering Spiritia, he defied Gepelnitchi's orders to awaken one of his comrades, Sivil. (CV: Tomohiro Nishimura)",
+   "flags": [],
+   "notes": "Gigile."
+  },
+  {
+   "id": "u1433",
+   "en": "He took over the Varauta Army from Gigile and tormented the Macross 7 fleet. He sums up whatever happens before him by calling it \"beauty.\" He can merge with Glavil into an ultimate form. (CV: Akio Suyama)",
+   "flags": [],
+   "notes": "Gavil. Matches glossary '<X> Beauty!' habit."
+  },
+  {
+   "id": "u1434",
+   "en": "Supreme commander of the Varauta Army. Powerful enough to drain all the Spiritia in the galaxy, he plans the Spiritia Farm Project to secure an endless supply of Spiritia.",
+   "flags": [],
+   "notes": "Gepelnitchi. No CV in source."
+  },
+  {
+   "id": "u1435",
+   "en": "A high schooler in a pilot training course, he became a Valkyrie pilot after a Vajra attack. Born into an elite kabuki family, he once played female roles thanks to his gift and good looks. (CV: Yuichi Nakamura)",
+   "flags": [],
+   "notes": "Alto. 'onnagata' rendered 'played female roles'."
+  },
+  {
+   "id": "u1436",
+   "en": "Alto's classmate. A gifted long-range sniper whose motto is \"Enemy or woman, I always drop my target.\" He has known Klan for years. His older sister was a soldier and sniper too. (CV: Hiroshi Kamiya)",
+   "flags": [],
+   "notes": "Michael (source says Mihaeru in the unlock row; here no name). 'otosu' = shoot down / win over; 'drop' keeps both."
+  },
+  {
+   "id": "u1437",
+   "en": "Alto's junior. An electronics whiz, he is also special advisor to the tech research division of megacorp LAI. In battle he flies the EW-equipped RVF-25, controlling drone fighters. (CV: Jun Fukuyama)",
+   "flags": [],
+   "notes": "Luca. 'unmanned fighters' rendered 'drone fighters'."
+  },
+  {
+   "id": "u1438",
+   "en": "Skull Squadron leader at S.M.S., the private special military group Alto and co. belong to. A New U.N. Forces veteran, he took in Ranka for personal reasons and looks after her. (CV: Katsuyuki Konishi)",
+   "flags": [],
+   "notes": "Ozma. 'toaru jijou' (certain circumstances) rendered 'personal reasons'."
+  },
+  {
+   "id": "u1439",
+   "en": "Leader of S.M.S.'s Pixie Team. She flies a crimson Queadluun-Rhea. In battle she is a giant Zentradi, but when micronized her body becomes that of a little girl. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": "Klan Klang (giant)."
+  },
+  {
+   "id": "u1440",
+   "en": "Leader of S.M.S.'s Pixie Team. When micronized, a genetic anomaly makes her body childlike, and her personality too. Michel often mocks her, and they're always fighting. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": "Klan Klang (Micronian). Source says Mishel -> Michel."
+  },
+  {
+   "id": "u1441",
+   "en": "A New U.N. Forces pilot who lost his memory and became a combat machine. Nearly emotionless, he lived only to carry out missions, but contact with Ranka slowly changes him. (CV: Soichiro Hoshi)",
+   "flags": [],
+   "notes": "Brera."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1421: 'Boddoru-kan' rendered 'the Boddole flagship' (no glossary entry).",
+   "u1426: CV 'Nobutoshi Canna' (actor's own spelling) vs Hepburn 'Kanna'.",
+   "u1410: 'caught up in a Zentradi attack' attached to Hikaru, the source clause can also modify Minmay.",
+   "u1411: 'Skull daitai' (battalion) rendered with the glossary 'Skull Squadron'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Boddoru-kan (Boddole Zer's flagship)"
+  ],
+  "unfinished": []
+ }
+}
