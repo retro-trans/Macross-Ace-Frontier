@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "69c7639de61c43cf0bfcb8bf2a91eacecb0d470d3c1d1f0e4dbf1d88ee7d9b5d",
+  "patches": [
+    {
+      "patch": "MacrossAceFrontier-English-0.2.1.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "90ee13f53f598231cb6b40f9337d1bd06c42d0492e5c66ee9b097d03ba944993"
+    }
+  ]
+}
