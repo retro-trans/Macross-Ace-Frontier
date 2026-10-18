@@ -1,0 +1,4 @@
+302047b858326ba18ec90c30ee9fad673a32537e3021aaba58235591dda6df28  BUILD-MANIFEST.json
+3e0d87aebf4c8ef158368ded4b6e8aecb523ebafb0daf55a572fdbd03ce8a807  MacrossAceFrontier-English-0.2.1-to-0.2.3.xdelta
+4ef7d02c7252eb34d97dbed76dc0e2d1a6bfa764c3228a10be89902ebae25f3a  MacrossAceFrontier-English-0.2.3.xdelta
+409c035c0d9d063f2d3ceb96102510848a6e268dd98ef7795abea476cd87bb80  VALIDATION.json
