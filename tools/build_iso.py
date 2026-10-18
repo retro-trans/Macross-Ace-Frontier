@@ -3,6 +3,7 @@
 Usage:
   python tools/build_iso.py <version> [--iso "<original>.iso"] [--tr <insert.json>] [--no-hd] [--no-images] [--work <dir>]
                             [--voice-subs <subs.json> ...] [--voice-placeholder]
+                            [--title-version <0.x.y>] [--no-title-tag]
   e.g. python tools/build_iso.py 0.1.0
 
 Needs (once): the USRDIR files and the decrypted EBOOT extracted as in docs/formats.md,
@@ -15,11 +16,16 @@ Steps (each one is a tool that can also be run on its own):
   2. tools/vwf_build.py     VWF font + patches on that EBOOT              -> <work>/vwf/
   2b. tools/voice_subs_patch.py voice-subtitle hooks (only with --voice-subs or
      --voice-placeholder; docs/voice_subtitles.md)                        -> <work>/EBOOT.BIN
+  2c. tools/hud_labels.py    romanized HUD target labels (VARAUTA, VAJRA...) -> <work>/EBOOT.BIN
+     (work/translation/en/hud_labels.en.json, rewritten in place)
   3. tools/insert_text.py   FES string pools and mission unit lists       -> <work>/overlay/
      (the VWF font is copied into the same overlay)
   3b. tools/redraw_images.py English redrawn textures (GIM)              -> <work>/overlay/
      (skip with --no-images; layout in work/ui/redraw_layout.json, docs/image_redraw.md)
-  3c. tools/voice_subs_at3.py English line appended to each voice clip    -> <work>/overlay/
+  3c. tools/title_tag.py     version + "github.com / retro-trans" on the title screen -> <work>/overlay/
+     (the version defaults to <version>; --title-version sets it, e.g. for a release image that is
+     re-laid out under another version; --no-title-tag leaves it out)
+  3d. tools/voice_subs_at3.py English line appended to each voice clip    -> <work>/overlay/
      (with --voice-subs; --voice-placeholder writes each clip's id instead, to test the hooks)
   4. tools/muf_archive.py   repack with the overlay                       -> <work>/USRDIR/
   5. tools/iso_patch.py     new EBOOT and archives                        -> work/output/Macross Ace Frontier (EN v<version>).iso
@@ -49,6 +55,7 @@ def main():
     tr = os.path.join("work", "translation", "en", "insert.json")
     vwf_args, work, images = [], None, True
     voice_subs, voice_placeholder = [], False
+    title_version, title_tag = version, True
     while args:
         a = args.pop(0)
         if a == "--iso":
@@ -63,6 +70,10 @@ def main():
             voice_subs.append(args.pop(0))
         elif a == "--voice-placeholder":
             voice_placeholder = True
+        elif a == "--title-version":
+            title_version = args.pop(0)
+        elif a == "--no-title-tag":
+            title_tag = False
         elif a == "--work":
             work = args.pop(0)
         else:
@@ -83,12 +94,18 @@ def main():
     if voice:
         eboot = os.path.join(b, "EBOOT.BIN")
         run("tools/voice_subs_patch.py", os.path.join(vwf, "EBOOT.BIN"), eboot, "--area", ins + ".json")
+    hud = os.path.join(b, "EBOOT.BIN")
+    run("tools/hud_labels.py", eboot, hud)
+    eboot = hud
     run("tools/insert_text.py", "--out", overlay, tr)
     font = os.path.join("data", "extra", "gpsp3_font14.fnt")
     os.makedirs(os.path.join(ROOT, overlay, "data", "extra"), exist_ok=True)
     shutil.copyfile(os.path.join(ROOT, vwf, font), os.path.join(ROOT, overlay, font))
     if images:
         run("tools/redraw_images.py", "--out", overlay, "--preview", os.path.join(b, "redraw"), "--no-sheets")
+    if title_tag:
+        run("tools/title_tag.py", "--version", title_version,
+            "--out", os.path.join(overlay, "data", "menu", "title", "title.gim"))
     if voice:
         run("tools/voice_subs_at3.py", "--out", overlay, "--widths", os.path.join(vwf, "vwf_widths.json"),
             *(["--placeholder"] if voice_placeholder else voice_subs))

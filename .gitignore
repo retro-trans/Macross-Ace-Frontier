@@ -37,3 +37,6 @@ __pycache__/
 *.pyc
 .env
 .env.*
+
+# Local title-tag test output (game texture)
+work/ui/title_tag/

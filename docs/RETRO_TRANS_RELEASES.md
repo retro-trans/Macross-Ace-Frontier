@@ -11,11 +11,18 @@ a different image; supporting it would need its own edition and patch row.
 
 ## Release image
 
+The title screen shows the version (`tools/title_tag.py`, bottom-right). It must match the release version, so
+build the image that will be re-laid out with that version painted, under a separate test name:
+
+```text
+python tools/build_iso.py <version>-build --title-version <version> --voice-subs work/translation/en/voice/voice_subs.en.json
+```
+
 `tools/build_iso.py` appends every file that outgrew its sectors at the end of the image (a 1.1 GB test ISO), and
 the new data sits too far from the original bytes for xdelta to match. Release images are re-laid out first:
 
 ```text
-python tools/relayout_iso.py "Macross Ace Frontier (Japan).iso" "work/output/Macross Ace Frontier (EN <built>).iso" "work/output/Macross Ace Frontier (EN <version>).iso"
+python tools/relayout_iso.py "Macross Ace Frontier (Japan).iso" "work/output/Macross Ace Frontier (EN <version>-build).iso" "work/output/Macross Ace Frontier (EN <version>).iso"
 python tools/relayout_iso.py ... --write
 ```
 

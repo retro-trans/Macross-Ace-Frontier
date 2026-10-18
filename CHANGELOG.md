@@ -1,5 +1,51 @@
 # Changelog
 
+## [0.2.3] - 2026-10-18 (release)
+
+Includes the 0.2.2 title-screen tag. Patches: full from the original ISO, upgrade from 0.2.1.
+
+### Fixed
+- **HUD target labels.** The lock-on labels show an all-caps romanized name that the game keeps next to each
+  Japanese unit name in the EBOOT's unit table; the developers' romanizations differed from the glossary.
+  27 labels are rewritten in place (`work/translation/en/hud_labels.en.json`, `tools/hud_labels.py`, build
+  step 2c): BARAUTA → VARAUTA (10 ship and part labels), BAJURA → VAJRA (VAJRA SHIP and its parts, VAJRA(L),
+  VAJRA(S), VAJRA COCOON, VAJRA QUEEN, CALL VAJRA), PANZERZORN → PANZERSOLN, ZAUBERGUERIN → ZAUBERGERAN,
+  CAT'SEYE → CAT'S EYE, REPOSITOLY → DEPOT, METEORITE GROUP → ASTEROID FIELD. Kept: QUEL QUALLE and FLY POD (no
+  room for the glossary forms), and the internal weapon ids with underscores.
+
+### Build
+- Built image: `python tools/build_iso.py 0.2.3 --voice-subs work/translation/en/voice/voice_subs.en.json`
+  (renamed `work/output/Macross Ace Frontier (EN v0.2.3-build).iso`), 1,103,310,848 bytes, SHA-256
+  `A23A24C9643D617C29169E50D5576972B9032FF0B2008D552A25FB1E1DDB8AE6`.
+- Release image: `python tools/relayout_iso.py "Macross Ace Frontier (Japan).iso" "work/output/Macross Ace
+  Frontier (EN v0.2.3-build).iso" "work/output/Macross Ace Frontier (EN v0.2.3).iso" --write`. 647,364,608 bytes,
+  SHA-256 `a2835bee861541b2670af2d28b45031dab17968ff1fd53f17d93362f0d355a81`; all 72 files match the built image.
+- Boots to the title screen (tag "v0.2.3") and main menu in PPSSPP. The new labels were checked in the EBOOT; a
+  mission with Varauta or Vajra units was not played.
+- Release assets built with Retro Trans Tools; metadata in `docs/releases/0.2.3/`.
+
+### Known
+- The staff roll is burned into the ending movie (`data/movie/m_ed.pmf`, 2:04, H.264 480x272). It stays in
+  Japanese: rebuilding the movie is out of scope (decided 2026-10-18).
+
+## [0.2.2] - 2026-10-17 (test build, not released)
+
+### Added
+- **Version and group name on the title screen**, bottom-right, like the Super Robot Wars Z patch:
+  "v0.2.2" over "github.com / retro-trans", white with a one-pixel dark outline (Arial Bold 11 px), ending 6 px
+  from the right edge below the "PRESS START BUTTON" plate. `tools/title_tag.py` paints it into
+  `data/menu/title/title.gim` after the texture redraw, mapping the 1,325 changed pixels to colours already in
+  the texture's palette; nothing else in the texture changes.
+- `tools/build_iso.py` runs it as step 3c with the build version; `--title-version <0.x.y>` paints another
+  version (for a release image that is re-laid out under its own version), `--no-title-tag` leaves it out.
+
+### Build
+- `work/output/Macross Ace Frontier (EN v0.2.2).iso`: `python tools/build_iso.py 0.2.2 --voice-subs
+  work/translation/en/voice/voice_subs.en.json`. 1,103,310,848 bytes, SHA-256
+  `4421322303C8C6409631EE38B04B74DD6B331B38ADBEA96EC7B5EF9B424BECAE`. Same EBOOT as 0.2.0; the archives differ
+  only by the tagged `title.gim` (one copy in `macross.dat`, one in `fileset.dat`).
+- Checked in PPSSPP: the title screen shows the tag (`work/ui/screens_0.2.2/t8.png`, local).
+
 ## [0.2.1] - 2026-10-16 (first public release)
 
 Same game content as 0.2.0, in the original disc layout.

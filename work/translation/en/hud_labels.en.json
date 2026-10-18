@@ -1,0 +1,175 @@
+{
+ "_meta": {
+  "what": "Romanized all-caps unit and object names the HUD shows on lock-on target labels (EBOOT, ASCII, next to each Japanese name in the unit table). Rewritten in place by tools/hud_labels.py; each must fit the zero bytes after the original.",
+  "file": "EBOOT.BIN (decrypted), file offsets; text segment, so eboot_insert does not move them",
+  "kept": {
+   "QUEL QUALLE": "no room for QUEL-QUALLIE (11 bytes)",
+   "FLY POD": "no room for AIR COMBAT POD (7 bytes)",
+   "*_M ids": "internal weapon ids, not shown"
+  }
+ },
+ "rows": [
+  {
+   "offset": "0x25924C",
+   "from": "BARAUTA F-SHIP",
+   "to": "VARAUTA F-SHIP",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259288",
+   "from": "BARAUTA F-SHIP(R1)",
+   "to": "VARAUTA F-SHIP(R1)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x2592C8",
+   "from": "BARAUTA F-SHIP(M)",
+   "to": "VARAUTA F-SHIP(M)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259308",
+   "from": "BARAUTA F-SHIP(L1)",
+   "to": "VARAUTA F-SHIP(L1)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259348",
+   "from": "BARAUTA F-SHIP(L2)",
+   "to": "VARAUTA F-SHIP(L2)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259388",
+   "from": "BARAUTA F-SHIP(R2)",
+   "to": "VARAUTA F-SHIP(R2)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259438",
+   "from": "BARAUTA SHIP",
+   "to": "VARAUTA SHIP",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259460",
+   "from": "BARAUTA SHIP(F)",
+   "to": "VARAUTA SHIP(F)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259488",
+   "from": "BARAUTA SHIP(M)",
+   "to": "VARAUTA SHIP(M)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x2594B0",
+   "from": "BARAUTA SHIP(B)",
+   "to": "VARAUTA SHIP(B)",
+   "why": "glossary: Varauta"
+  },
+  {
+   "offset": "0x259534",
+   "from": "BAJURA SHIP",
+   "to": "VAJRA SHIP",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x259560",
+   "from": "BAJURA SHIP(F)",
+   "to": "VAJRA SHIP(F)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x259590",
+   "from": "BAJURA SHIP(M)",
+   "to": "VAJRA SHIP(M)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x2595C0",
+   "from": "BAJURA SHIP(B)",
+   "to": "VAJRA SHIP(B)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x2595F0",
+   "from": "BAJURA SHIP(L)",
+   "to": "VAJRA SHIP(L)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x259620",
+   "from": "BAJURA SHIP(R)",
+   "to": "VAJRA SHIP(R)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x259650",
+   "from": "BAJURA SHIP(U)",
+   "to": "VAJRA SHIP(U)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x25A0F4",
+   "from": "BAJURA(L)",
+   "to": "VAJRA(L)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x25A310",
+   "from": "BAJURA(S)",
+   "to": "VAJRA(S)",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x25A4C0",
+   "from": "BAJURA COCOON",
+   "to": "VAJRA COCOON",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x266980",
+   "from": "CALL BAJURA",
+   "to": "CALL VAJRA",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x269BE4",
+   "from": "QUEEN-BAJURA",
+   "to": "VAJRA QUEEN",
+   "why": "glossary: Vajra"
+  },
+  {
+   "offset": "0x25A34C",
+   "from": "PANZERZORN",
+   "to": "PANZERSOLN",
+   "why": "glossary: Az-130 Panzersoln"
+  },
+  {
+   "offset": "0x25A370",
+   "from": "ZAUBERGUERIN",
+   "to": "ZAUBERGERAN",
+   "why": "glossary: FBz-99G Zaubergeran"
+  },
+  {
+   "offset": "0x259054",
+   "from": "CAT'SEYE",
+   "to": "CAT'S EYE",
+   "why": "glossary: Cat's Eye"
+  },
+  {
+   "offset": "0x25A6C8",
+   "from": "REPOSITOLY",
+   "to": "DEPOT",
+   "why": "typo REPOSITOLY; glossary objects: depot"
+  },
+  {
+   "offset": "0x25A3D0",
+   "from": "METEORITE GROUP",
+   "to": "ASTEROID FIELD",
+   "why": "glossary objects: asteroid field"
+  }
+ ]
+}
